@@ -2,6 +2,8 @@
 
 ## Standing rule
 - Show every change as a diff before editing. Apply it only after approval.
+- Never post content to Instagram or YouTube without the user's explicit approval for that specific video.
+- Content comes from the user's content calendar. The calendar runs in 28-day cycles.
 
 ## Agent roles (enforced)
 Delegate by role. Do not do a role's work in the main agent when a subagent exists for it.
