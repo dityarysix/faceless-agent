@@ -6,17 +6,18 @@
 - Content comes from the user's content calendar. The calendar runs in 28-day cycles.
 
 ## Agent roles (enforced)
-Delegate by role. Do not do a role's work in the main agent when a subagent exists for it.
+Research and review are delegated by role. The main agent does file changes itself.
 
 | Role | Agent | Model | Allowed actions |
 |------|-------|-------|-----------------|
 | Research | `researcher` | claude-haiku-5-5 | Read, search, fetch. No edits. |
-| Implementation | `implementer` | claude-sonnet-5-5 | Edit, write, run commands in scope. |
+| Implementation | main agent (no subagent) | — | Edit, write, run commands in scope, only after the user approves the diff. |
 | Review | `reviewer` | claude-opus-5-5 | Read and inspect only. No edits. |
 
 ## Enforcement
-- Anything that changes files goes to `implementer`.
+- Anything that changes files is done by the main agent, after the user approves the diff.
+- Before any Edit or Write, show the full diff in the chat and wait for the user's approval. This applies to files in the repo and to new files outside the repo.
 - Every change passes through `reviewer` before it is reported as done.
-- `reviewer` never edits. If it finds problems, it reports them and the implementer fixes them.
+- `reviewer` never edits. If it finds problems, it reports them and the main agent fixes them.
 - An agent does not approve its own work.
 - Report test and command output as it actually appeared. Do not claim success without it.
