@@ -8,12 +8,12 @@ Catatan independensi: dokumen dari institusi yang sama dihitung sebagai sumber t
 
 | ID | Klaim | Status | Angka atau tanggal yang disepakati |
 |---|---|---|---|
-| C1 | PDB 1998 −13,13% (y/y, BPS) | Belum valid | Rentang −13,13% sampai −13,7%. Tahun dasar belum diketahui. |
-| C2 | Kurs rupiah terlemah 1998 | Belum valid | Rp16.650 (Bloomberg, 17 Juni 1998) atau Rp16.800 (intraday Refinitiv, 16–17 Juni 1998). Kurs tengah BI belum diperoleh. |
+| C1 | PDB 1998 kontraksi | Valid, dengan dua angka | BI Laporan Tahunan 1998/99 hal. 20 dan 36: −13,7%, dengan 1997 tumbuh 4,9%. BPS melalui media: −13,13% (tahun dasar tidak disebut). |
+| C2 | Kurs rupiah terlemah 1998 | Valid | BI Laporan Tahunan 1998/99 hal. 21 dan 77: Rp16.500 per dolar pada pertengahan Juni 1998. Media mencatat Rp16.650–16.900 dengan jenis kurs berbeda. |
 | C3 | IMF menyetujui stand-by 5 Nov 1997 | Sebagian, perlu koreksi | Persetujuan 5 Nov 1997. Fasilitas total SDR 7,338 miliar (sekitar US$10,14 miliar). Penarikan awal SDR 2,2 miliar (sekitar US$3,04 miliar). Paket sekitar US$23 miliar, perlu dicocokkan dengan PDF asli. |
-| C4 | Inflasi tahunan 1998 sekitar 77,6% | Belum valid | Angka 77,63% dari media yang mengutip BPS. Bentuk perhitungan (Des/Des atau puncak y/y) belum jelas. |
+| C4 | Inflasi tahunan 1998 | Koreksi | BI Laporan Tahunan 1998/99 hal. 10: puncak 82,4% pada September 1998. Angka 77,6% belum terkonfirmasi sebagai posisi Desember. |
 | C5 | 16 bank ditutup 1 November 1997 | Valid | IMF LoI 31 Okt 1997; IMF LoI 15 Jan 1998; BI WP 15/2018 hal. 11; Simanjuntak 2002 hal. 12. |
-| C6 | Utang swasta menjelang krisis | Belum valid | Simanjuntak 2002 hal. 14: utang luar negeri valas Rp77,6 triliun (Des 1997). Angka US$50 miliar dan US$75 miliar belum terdefinisi dengan jelas. |
+| C6 | Utang swasta menjelang krisis | Belum valid (posisi pra-krisis) | BI Laporan Tahunan 1998/99 hal. 21: utang swasta US$83,7 miliar pada Maret 1999 (posisi pasca-krisis). Angka pra-krisis akhir 1997 belum ditemukan. |
 | C7 | BLBI Rp147,7 triliun (Des 1998); revisi Rp144,54 triliun (6 Feb 1999) | Valid, dengan catatan posisi tanggal | Simanjuntak 2002 hal. 14; BI Sejarah BI Periode VIII (2025) hal. 86 (Rp148 triliun); Kemenkeu via media; audit BPK Rp144,536 triliun berbeda definisi. |
 | C8 | Awal penyaluran BLBI | Valid, perlu dirumuskan ulang | Fasilitas mulai 15 Agustus 1997 (BI WP 15/2018 hal. 8). Keppres 3 Sep 1997 (Simanjuntak hal. 16; Muliana hal. 360). Istilah BLBI 15 Jan 1998 (IMF LoI; Simanjuntak hal. 15). Posisi Des 1997 Rp48,8 triliun (Simanjuntak hal. 14). |
 
@@ -34,6 +34,7 @@ Catatan independensi: dokumen dari institusi yang sama dihitung sebagai sumber t
 9. Muliana, "Judicial Corruption dan Analisis Tindak Pidana Korupsi Bantuan Dana Likuiditas Bank Indonesia", Jurist-Diction Vol. 7 No. 2 (2024), hlm. 360. DOI 10.20473/jd.v7i2.56407.
 10. Bank Indonesia, Laporan Tahunan 1998/99 (dikutip BI WP 15/2018). Belum diakses langsung.
 11. Media: detikFinance, CNBC Indonesia, Katadata, dan Bisnis (daftar URL di hasil riset sesi ini). Dipakai hanya sebagai pendukung.
+12. Bank Indonesia, Laporan Tahunan 1998/99 (file 13572-98-99-I.pdf, bi.go.id), hal. 10, 20, 21, 36, 77.
 
 ## Belum terverifikasi dan perlu dicari
 - C1 dan C4: tabel BPS (PDB dan IHK 1998), serta Laporan Tahunan BI 1998/99.
