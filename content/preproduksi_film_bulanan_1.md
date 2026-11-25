@@ -69,3 +69,18 @@ Status: pra-produksi. Belum ada naskah, narasi, atau render. Jadwal rilis belum 
 2. Jalankan pilot 3–5 menit untuk mengukur biaya nyata dan waktu render.
 3. Perbaiki `render_short.py` dan simpan log aset di repo.
 4. Hitung ulang estimasi setelah pilot, lalu putuskan pembelian kredit.
+
+## Keputusan pra-produksi
+
+### Disetujui
+- Topik besar: Krisis Moneter 1998 (krismon).
+- Kebijakan visual (disetujui pengguna, 25 November 2026): tanpa foto arsip 1998, dan tanpa gambar AI yang mirip foto asli. Visual utama berupa grafik data, peta, timeline, dan tipografi. Gambar AI hanya untuk ilustrasi non-fotorealistis dan diberi label.
+
+### Usulan (belum disetujui)
+- Pertanyaan sentral: "Mengapa rupiah runtuh dalam hitungan bulan, bagaimana utang dan kepercayaan pasar mempercepat keruntuhan itu, dan apa yang bisa kita pelajari untuk keputusan keuangan pribadi hari ini?"
+- Batas cakupan: fokus pada ekonomi dan keuangan. Politik 1998 hanya sebagai konteks. Kerusuhan Mei 1998 tidak menjadi adegan utama, dan korban tidak dijadikan objek visual.
+- Sensitivitas: nama pejabat dan tokoh hidup disebut hanya dengan rujukan kebijakan publik atau sumber primer. Klaim sebab-akibat harus bersumber.
+
+### Belum diputuskan
+- Sensitivitas: persetujuan usulan di atas, atau revisi.
+- Plafon kredit untuk film ini.
