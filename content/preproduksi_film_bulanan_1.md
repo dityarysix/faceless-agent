@@ -51,6 +51,34 @@ Status: pra-produksi. Belum ada naskah, narasi, atau render. Jadwal rilis belum 
 - Setiap berkas CC BY-SA harus dicatat lengkap: judul, pembuat, lisensi, tautan, dan perubahan.
 - Log aset harus disimpan di repo. Log lama di scratchpad sudah hilang.
 
+## Tokoh
+
+Pertanyaan sentral: "Siapa yang menang dan siapa yang kalah dari Krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?"
+
+Ketiga tokoh adalah tokoh komposit fiktif yang diberi label sebagai ilustrasi berdasarkan fakta. Tidak ada nama pribadi nyata. Tokoh ketiga mewakili kelompok dan mekanisme, bukan satu orang.
+
+### Tokoh 1: pengusaha dengan pendapatan dolar (kalah)
+- Latar: pengusaha ekspor atau jasa yang menerima pendapatan dalam dolar. Secara umum, depresiasi rupiah menguntungkan kelompok ini, tetapi keuntungannya bergantung pada utang dan biaya.
+- Konflik: pendapatan dolar tidak sama dengan lindung nilai. Jika utang dalam dolar lebih besar dari pendapatan, atau bahan baku dan kredit tiba-tiba hilang, usaha tetap bisa kalah.
+- Yang harus diverifikasi sebelum naskah: data pendapatan dan utang dolar kelompok ekspor-jasa pada 1997–98, dan dampak penarikan kredit bank terhadap usaha kecil dan menengah. Sumber dan status: belum dicari.
+
+### Tokoh 2: pengusaha dengan pendapatan rupiah (kalah)
+- Latar: pengusaha yang melayani pasar domestik dan membayar bahan baku atau utang dalam rupiah atau dolar.
+- Konflik: harga bahan baku naik, daya beli turun, dan kredit bank macet. Kalah karena biaya naik lebih cepat daripada pendapatan.
+- Yang harus diverifikasi: data inflasi dan daya beli 1998, serta dampak kredit macet terhadap usaha domestik. Sumber dan status: belum dicari. Angka inflasi puncak sudah dalam ledger (C4), dengan koreksi ke 82,4% pada September 1998 menurut BI.
+
+### Tokoh 3: pemilik bank penerima BLBI (menang)
+- Makna dalam cerita: kelompok yang menerima bantuan likuiditas dari Bank Indonesia. Kewajiban BLBI mereka kemudian dihapus lewat klausul *Release and Discharge* yang dikeluarkan BPPN, sehingga pemerintah tidak menuntut pidana atas pelanggaran bank (Muliana, *Jurist-Diction* 2024, hal. 360).
+- Temuan audit: BPK 2000 mencatat potensi kerugian negara sekitar Rp138,442 triliun dari penyaluran sekitar Rp144,536 triliun ke 48 bank per 29 Januari 1999. Sumber yang terbaca: Hukumonline (cuplikan) dan CNBC Indonesia (2021, mengutip Kemenkeu). Dokumen BPK asli belum bisa diakses (403).
+- Status hukum: Muliana (2024) membahas kasus korupsi BLBI melalui putusan pengadilan negeri hingga kasasi. Hanya hal. 1–5 yang sudah dibaca. Hal. 6–16 belum dibaca, dan putusan akhirnya harus diverifikasi sebelum naskah.
+- Rumusan untuk naskah: "Kewajiban BLBI dihapus lewat klausul *Release and Discharge*, dan audit BPK mencatat potensi kerugian negara sekitar Rp138 triliun."
+- Larangan: jangan menulis "tidak membayar dan merugikan negara" sebagai fakta mutlak. Itu klaim hukum yang perlu putusan atau sumber resmi.
+
+### Sumber tambahan yang perlu dicari
+- Dokumen BPK 2000 (bpk.go.id, belum bisa diakses).
+- Muliana (2024), hal. 6–16, untuk putusan pengadilan dan kasasi.
+- Data kredit macet dan kebangkrutan usaha kecil-menengah 1997–98 untuk tokoh 1 dan 2.
+
 ## Masalah yang sudah diketahui
 - `tools/render_short.py` masih menunjuk ke scratchpad sesi lama (baris ROOT). Belum diperbaiki.
 - Log aset Hari 4–5 hilang dan belum direkonstruksi.
