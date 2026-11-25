@@ -15,7 +15,7 @@ Kalender ini hanya untuk short (video vertikal pendek). Video panjang dicatat te
 - [x] Hari 2 (Psikologi uang): Kenapa kita sering belanja saat sedang stres? [Selesai] (terbit 25 Nov 2026)
 - [ ] Hari 3 (Kisah kekayaan): Kisah yang dimulai dari Rp10.000 sehari yang dicatat dan ditabung. [Disetujui untuk posting] (dijadwalkan di YouTube)
 - [ ] Hari 4 (Keuangan pribadi): Cara sederhana mencatat pengeluaran harian, dengan contoh kopi, ongkir, dan langganan streaming. [Dijadwalkan] (video ID BxOg765MVto, tayang Jumat, 27 November 2026, 06.00 WIB)
-- [ ] Hari 5 (Psikologi uang): Bedakan kebutuhan, keinginan, dan belanja impulsif. [Belum dibuat]
+- [ ] Hari 5 (Psikologi uang): Bedakan kebutuhan, keinginan, dan belanja impulsif. [Dijadwalkan] (video ID KGR1-bMB27k, tayang Sabtu, 28 November 2026, 06.00 WIB)
 - [ ] Hari 6 (Kisah kekayaan): Karyawan yang menabung dari uang lembur, bukan dari gaji besar. [Belum dibuat]
 - [ ] Hari 7 (Komunitas/rekap): Tantangan 7 hari: catat semua pengeluaranmu, laporkan di komentar yang disematkan. [Belum dibuat]
 
