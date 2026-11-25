@@ -25,7 +25,7 @@ Kalender ini hanya untuk short (video vertikal pendek). Video panjang dicatat te
 - [ ] Hari 11 (Keuangan pribadi): Paylater dan kartu kredit: kapan masih aman, kapan jadi jebakan. [Belum dibuat]
 - [ ] Hari 12 (Psikologi uang): Dari jeda 10 menit ke aturan 24 jam untuk barang yang tidak direncanakan. [Belum dibuat]
 - [ ] Hari 13 (Kisah kekayaan): Pelajaran dari kegagalan finansial dan cara bangkit. [Belum dibuat]
-- [ ] Hari 14 (Komunitas/rekap): Hasil tantangan Hari 7, dan satu pengeluaran yang ingin kamu kurangi minggu ini. [Belum dibuat]
+- [ ] Hari 14 (Komunitas/rekap): Polling: bagian mana dari anggaranmu yang paling sulit dijaga? [Belum dibuat]
 
 ## Minggu 3: Menjaga kebiasaan tetap berjalan
 - [ ] Hari 15 (Keuangan pribadi): Cara menabung otomatis setelah menerima gaji. [Belum dibuat]
@@ -34,7 +34,7 @@ Kalender ini hanya untuk short (video vertikal pendek). Video panjang dicatat te
 - [ ] Hari 18 (Keuangan pribadi): Anggaran bulanan yang realistis, termasuk pos untuk pengeluaran tak terduga. [Belum dibuat]
 - [ ] Hari 19 (Psikologi uang): Kenapa diskon bisa membuat kita membeli lebih banyak? [Belum dibuat]
 - [ ] Hari 20 (Kisah kekayaan): Tabungan yang habis karena menunggu hasil cepat. [Belum dibuat]
-- [ ] Hari 21 (Komunitas/rekap): Polling: bagian mana dari anggaranmu yang paling sulit dijaga? [Belum dibuat]
+- [ ] Hari 21 (Komunitas/rekap): Hasil tantangan Hari 7, dan satu pengeluaran yang ingin kamu kurangi minggu ini. [Belum dibuat]
 
 ## Minggu 4: Belajar dan mengambil langkah berikutnya
 - [ ] Hari 22 (Keuangan pribadi): Cara menetapkan tujuan keuangan yang jelas. [Belum dibuat]
