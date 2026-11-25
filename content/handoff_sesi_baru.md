@@ -35,7 +35,7 @@ STATUS SAAT INI:
   - Narasi Hari 7: scratchpad/voice_shorts/hari7_narasi.mp3 (50,7 detik, di bawah target 52). Sesi baru yang menentukan cara menanganinya (terima, tambah kalimat, atau TTS ulang). Usulkan pilihan ke pengguna sebelum TTS ulang. Setelah itu normalisasi ulang seperti Hari 6.
   - wordstarts Hari 6 dan 7 belum ada. TTS perlu diambil ulang lewat job ID Creative Claw bila masih tersedia (search_assets/check_job); kalau tidak, buat ulang TTS.
 - Short Hari 8–28: belum dibuat. Kalender: Hari 14 = polling anggaran; Hari 21 = pembahasan hasil tantangan Hari 7.
-- Jadwal rutin: short setiap hari pukul 06.00 WIB; video mingguan 10–15 menit setiap Rabu pukul 16.00 WIB; produksi video mingguan dimulai setiap Minggu pukul 10.00 WIB; video bulanan 35–45 menit (jadwal belum ditentukan).
+- Jadwal rutin: short setiap hari pukul 06.00 WIB; video mingguan 10–15 menit setiap Rabu pukul 16.00 WIB; produksi video mingguan dimulai setiap Minggu pukul 10.00 WIB; video bulanan 35–45 menit dibatalkan (tanggal rilis film belum ditentukan).
 - Video mingguan minggu 1: "Kisah Dua Orang Super Kaya: Mansa Musa dan Rockefeller", ID hNcfWMeHtkg, private, tayang Rabu 25 Nov 2026 pukul 16.00 WIB (dijadwalkan manual). Playlist "Cerita Sejarah dan Pelajaran Keuangan" (Public) sudah dibuat pengguna.
 - Video mingguan minggu 2: tayang Rabu 2 Des 2026 pukul 16.00 WIB; judul belum ditentukan; produksi mulai Minggu 29 Nov 2026 pukul 10.00 WIB.
 
@@ -77,7 +77,7 @@ LANGKAH BERIKUTNYA (urut):
 3. Pilih latar Hari 6 dan Hari 7 (sesuai aturan 5+ gambar, 3 lisensi bebas + 3 AI untuk 6 gambar), tunjukkan ke pengguna untuk persetujuan sebelum membuat gambar AI.
 4. Render, tinjauan Opus, lalu tunjukkan ke pengguna.
 5. Tanyakan persetujuan sebelum unggah private.
-6. Setelah kalender berjalan, lanjutkan riset krismon di YouTube (judul, views, umur, kanal, durasi), rancangan video mingguan minggu 2 (rilis 2 Des 2026), dan rancangan video bulanan.
+6. Setelah kalender berjalan, lanjutkan riset krismon di YouTube (judul, views, umur, kanal, durasi), rancangan video mingguan minggu 2 (rilis 2 Des 2026), dan rancangan video bulanan (ditunda, tanggal rilis belum ditentukan).
 
 Mulai dengan membaca file-file di atas, lalu beri tahu saya ringkasan status dan langkah pertama yang akan kamu kerjakan. Jangan mengubah apa pun sebelum saya setujui.
 ```
