@@ -61,13 +61,13 @@ PIPELINE SHORT (sudah teruji):
 KALENDER: worktree scratchpad/wt_calendar mungkin sudah tidak ada di sesi baru. Jalankan git worktree prune, lalu buat worktree baru dari origin/content-calendar bila perlu.
 
 VIDEO BULANAN (riset dan rancangan, 35–45 menit):
-- Target 35–40 menit, tema peristiwa ekonomi besar.
+- Target 35–45 menit, tema peristiwa ekonomi besar.
 - Kandidat tema: Global Tech Boom and Burst, Krisis Asia 1998 (krismon), Great Depression 1930-an.
 - Peringkat sementara: krismon di posisi 1 (keyakinan sedang sampai tinggi). Dot-com dan Great Depression di posisi 2–3, keyakinan rendah.
 - Riset krismon: video berbahasa Indonesia yang sudah ada (Ngomongin Uang, Kompas TV, video Habibie) tanpa data views. Perlu cek YouTube langsung.
 - Cara akses YouTube: API key lewat pengaturan lingkungan (Network secrets, host www.googleapis.com, header x-goog-api-key, prefix kosong). Atau pengguna mengekspor data secara manual.
 - Benchmark struktur: Inside Job (Oscar; lima bagian: How We Got Here, The Bubble, The Crisis, Accountability, Where We Are Now; sekitar 108 menit) sebagai acuan utama. Money as Debt: klaim 40 juta views belum terverifikasi, ada masalah akurasi. Di Balik Kilang dan Ferry Irwandi: data belum lengkap.
-- Estimasi kredit film 35–40 menit: dasar sekitar 1.400–2.400 kredit; dengan revisi 2x sekitar 3.200–5.300 kredit. Saldo saat rancangan dibuat sekitar 605 kredit. Harga sekitar $0,01 per kredit (5.000 kredit sekitar $50, atau sekitar Rp800.000 dengan asumsi kurs Rp16.000 per dolar).
+- Estimasi kredit film 35–40 menit (perlu dihitung ulang untuk 45 menit): dasar sekitar 1.400–2.400 kredit; dengan revisi 2x sekitar 3.200–5.300 kredit. Saldo saat rancangan dibuat sekitar 605 kredit. Harga sekitar $0,01 per kredit (5.000 kredit sekitar $50, atau sekitar Rp800.000 dengan asumsi kurs Rp16.000 per dolar).
 - Riset ini belum tersimpan di repo. Usulkan diff ke content/riset_video_bulanan.md bila pengguna setuju.
 
 LANGKAH BERIKUTNYA (urut):
@@ -77,7 +77,7 @@ LANGKAH BERIKUTNYA (urut):
 3. Pilih latar Hari 6 dan Hari 7 (sesuai aturan 5+ gambar, 3 lisensi bebas + 3 AI untuk 6 gambar), tunjukkan ke pengguna untuk persetujuan sebelum membuat gambar AI.
 4. Render, tinjauan Opus, lalu tunjukkan ke pengguna.
 5. Tanyakan persetujuan sebelum unggah private.
-6. Setelah kalender berjalan, lanjutkan riset krismon di YouTube (judul, views, umur, kanal, durasi) dan rancangan video bulanan.
+6. Setelah kalender berjalan, lanjutkan riset krismon di YouTube (judul, views, umur, kanal, durasi), rancangan video mingguan minggu 2 (rilis 2 Des 2026), dan rancangan video bulanan.
 
 Mulai dengan membaca file-file di atas, lalu beri tahu saya ringkasan status dan langkah pertama yang akan kamu kerjakan. Jangan mengubah apa pun sebelum saya setujui.
 ```
