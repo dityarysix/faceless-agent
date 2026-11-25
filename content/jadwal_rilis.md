@@ -20,3 +20,10 @@
   Setiap cerita disusun dari sumber sejarah. Kami menjelaskan mana yang fakta, mana yang hanya tradisi, dan mana angka yang tidak bisa dipastikan.
 
   #sejarah #kisahsejarah #tokoh
+
+## Video panjang (aktivitas mingguan)
+
+| Minggu | Tanggal rilis | Judul | Status |
+|---|---|---|---|
+| 1 | Rabu, 25 November 2026, 16.00 WIB | Kisah Dua Orang Super Kaya: Mansa Musa dan Rockefeller | Dijadwalkan (manual, private → rilis) |
+| 2 | (belum ditentukan) | | Belum dibuat |
