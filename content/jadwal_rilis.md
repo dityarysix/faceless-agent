@@ -26,4 +26,4 @@
 | Minggu | Tanggal rilis | Judul | Status |
 |---|---|---|---|
 | 1 | Rabu, 25 November 2026, 16.00 WIB | Kisah Dua Orang Super Kaya: Mansa Musa dan Rockefeller | Dijadwalkan (manual, private → rilis) |
-| 2 | (belum ditentukan) | | Belum dibuat |
+| 2 | Rabu, 2 Desember 2026, 16.00 WIB | (judul belum ditentukan) | Belum dibuat. Mulai produksi Minggu, 29 November 2026, 10.00 WIB |
