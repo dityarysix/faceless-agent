@@ -21,7 +21,7 @@
 
   #sejarah #kisahsejarah #tokoh
 
-## Video panjang (aktivitas mingguan)
+## Video panjang (aktivitas mingguan, setiap minggu)
 
 | Minggu | Tanggal rilis | Judul | Status |
 |---|---|---|---|
