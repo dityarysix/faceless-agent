@@ -8,6 +8,7 @@ Kalender ini hanya untuk short (video vertikal pendek). Video panjang dicatat te
 - Sesekali, misalnya tiap Minggu, sertakan kalimat: "Ini bukan nasihat keuangan profesional."
 - Hari Komunitas/rekap memakai komentar yang disematkan atau poll, bukan video yang hanya berisi pertanyaan.
 - Status yang dipakai: [Belum dibuat] → [Naskah disetujui] → [Disetujui untuk posting] → [Selesai].
+- Jadwal tayang: short setiap hari pukul 06.00 WIB. Video panjang (film pendek) setiap Rabu pukul 16.00 WIB.
 
 ## Minggu 1: Membangun kebiasaan kecil
 - [x] Hari 1 (Keuangan pribadi): Gaji cepat habis? Kenalan dengan aturan 50–30–20, dengan contoh gaji UMR dan ongkir. [Selesai]
