@@ -5,7 +5,7 @@ Status: pra-produksi. Belum ada naskah, narasi, atau render. Jadwal rilis belum 
 ## Lingkup
 - Format: film bulanan, 35–45 menit (maksimal 45). Terpisah dari video mingguan 10–15 menit (Rabu 16.00 WIB).
 - Topik kandidat: krisis moneter 1998 (krismon), dengan sudut ekonomi. Belum diputuskan.
-- Target tanggal rilis yang diinginkan pengguna: sekitar 18 Desember 2026 (belum dikonfirmasi, dan belum sesuai aturan pekan terakhir Jumat).
+- Tanggal rilis: belum ditentukan. Jadwal film bulanan dibatalkan (keputusan pengguna, 25 November 2026).
 
 ## Riset topik (ringkasan)
 - Sampel YouTube: 8 pencarian dan 97 video, diurutkan views. Ini sampel, bukan data lengkap.
@@ -16,7 +16,7 @@ Status: pra-produksi. Belum ada naskah, narasi, atau render. Jadwal rilis belum 
 
 ## Jam tayang
 - Jadwal harian: short setiap hari 06.00 WIB. Mingguan: Rabu 16.00 WIB.
-- Usulan film bulanan: Jumat 19.00 WIB, pekan terakhir setiap bulan. Ini rekomendasi, belum keputusan.
+- Usulan Jumat 19.00 WIB (pekan terakhir setiap bulan) dicabut bersama pembatalan jadwal.
 - Pertimbangan libur: Jumat 25 Desember 2026 (Hari Natal) dan Jumat 1 Januari 2027 (Tahun Baru) berada di periode libur. Pengguna ingin mengejar penonton libur akhir tahun. Tidak ada bukti data bahwa pola ini kuat di kanal ini.
 
 ## Estimasi biaya (Rp18.325/USD, sekitar Rp174 per kredit)
