@@ -77,7 +77,9 @@ Status: pra-produksi. Belum ada naskah, narasi, atau render. Jadwal rilis belum 
 - Kebijakan visual (disetujui pengguna, 25 November 2026): tanpa foto arsip 1998, dan tanpa gambar AI yang mirip foto asli. Visual utama berupa grafik data, peta, timeline, dan tipografi. Gambar AI hanya untuk ilustrasi non-fotorealistis dan diberi label.
 
 ### Usulan (belum disetujui)
-- Pertanyaan sentral: "Mengapa rupiah runtuh dalam hitungan bulan, bagaimana utang dan kepercayaan pasar mempercepat keruntuhan itu, dan apa yang bisa kita pelajari untuk keputusan keuangan pribadi hari ini?"
+- Pertanyaan sentral: "Siapa yang menang dan siapa yang kalah dari Krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?"
+- Format tokoh: pasangan tokoh komposit fiktif dari kelompok sosial yang sama, yang diberi label sebagai ilustrasi berdasarkan fakta. Contoh: dua pengusaha dalam bidang yang sama. Yang satu menerima pendapatan dolar (menang saat rupiah jatuh), yang satu menerima pendapatan rupiah (kalah). Perbedaan nasib dijelaskan oleh jenis pendapatan dan utang, bukan oleh karakter.
+- Tidak memakai nama pribadi nyata. Setiap fakta yang dipakai tokoh bersumber sesuai aturan sumber, termasuk klaim bahwa pendapatan dolar diuntungkan oleh depresiasi rupiah.
 - Batas cakupan: fokus pada ekonomi dan keuangan. Politik 1998 hanya sebagai konteks. Kerusuhan Mei 1998 tidak menjadi adegan utama, dan korban tidak dijadikan objek visual.
 - Sensitivitas: nama pejabat dan tokoh hidup disebut hanya dengan rujukan kebijakan publik atau sumber primer. Klaim sebab-akibat harus bersumber.
 
