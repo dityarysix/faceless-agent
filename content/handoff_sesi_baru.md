@@ -35,9 +35,9 @@ STATUS SAAT INI:
   - Narasi Hari 7: scratchpad/voice_shorts/hari7_narasi.mp3 (50,7 detik, di bawah target 52). Sesi baru yang menentukan cara menanganinya (terima, tambah kalimat, atau TTS ulang). Usulkan pilihan ke pengguna sebelum TTS ulang. Setelah itu normalisasi ulang seperti Hari 6.
   - wordstarts Hari 6 dan 7 belum ada. TTS perlu diambil ulang lewat job ID Creative Claw bila masih tersedia (search_assets/check_job); kalau tidak, buat ulang TTS.
 - Short Hari 8–28: belum dibuat. Kalender: Hari 14 = polling anggaran; Hari 21 = pembahasan hasil tantangan Hari 7.
-- Jadwal rutin: short setiap hari pukul 06.00 WIB; video panjang setiap Rabu pukul 16.00 WIB; produksi video panjang dimulai setiap Minggu pukul 10.00 WIB.
-- Video panjang minggu 1: "Kisah Dua Orang Super Kaya: Mansa Musa dan Rockefeller", ID hNcfWMeHtkg, private, tayang Rabu 25 Nov 2026 pukul 16.00 WIB (dijadwalkan manual). Playlist "Cerita Sejarah dan Pelajaran Keuangan" (Public) sudah dibuat pengguna.
-- Video panjang minggu 2: tayang Rabu 2 Des 2026 pukul 16.00 WIB; judul belum ditentukan; produksi mulai Minggu 29 Nov 2026 pukul 10.00 WIB.
+- Jadwal rutin: short setiap hari pukul 06.00 WIB; video mingguan 10–15 menit setiap Rabu pukul 16.00 WIB; produksi video mingguan dimulai setiap Minggu pukul 10.00 WIB; video bulanan 35–45 menit (jadwal belum ditentukan).
+- Video mingguan minggu 1: "Kisah Dua Orang Super Kaya: Mansa Musa dan Rockefeller", ID hNcfWMeHtkg, private, tayang Rabu 25 Nov 2026 pukul 16.00 WIB (dijadwalkan manual). Playlist "Cerita Sejarah dan Pelajaran Keuangan" (Public) sudah dibuat pengguna.
+- Video mingguan minggu 2: tayang Rabu 2 Des 2026 pukul 16.00 WIB; judul belum ditentukan; produksi mulai Minggu 29 Nov 2026 pukul 10.00 WIB.
 
 PERBAIKAN YANG HARUS DIKERJAKAN DI AWAL SESI BARU (masing-masing dengan diff dulu):
 1. tools/render_short.py: path ROOT masih menunjuk ke folder sesi lama (baris 7). Ganti ke path scratchpad sesi baru, sebaiknya lewat variabel lingkungan. Logo dibaca dari <ROOT>/images/20.jpg di luar scratchpad; salin logo ke scratchpad/assets/ atau minta pengguna mengirim ulang.
@@ -60,7 +60,7 @@ PIPELINE SHORT (sudah teruji):
 
 KALENDER: worktree scratchpad/wt_calendar mungkin sudah tidak ada di sesi baru. Jalankan git worktree prune, lalu buat worktree baru dari origin/content-calendar bila perlu.
 
-VIDEO PANJANG (riset dan rancangan):
+VIDEO BULANAN (riset dan rancangan, 35–45 menit):
 - Target 35–40 menit, tema peristiwa ekonomi besar.
 - Kandidat tema: Global Tech Boom and Burst, Krisis Asia 1998 (krismon), Great Depression 1930-an.
 - Peringkat sementara: krismon di posisi 1 (keyakinan sedang sampai tinggi). Dot-com dan Great Depression di posisi 2–3, keyakinan rendah.
@@ -68,7 +68,7 @@ VIDEO PANJANG (riset dan rancangan):
 - Cara akses YouTube: API key lewat pengaturan lingkungan (Network secrets, host www.googleapis.com, header x-goog-api-key, prefix kosong). Atau pengguna mengekspor data secara manual.
 - Benchmark struktur: Inside Job (Oscar; lima bagian: How We Got Here, The Bubble, The Crisis, Accountability, Where We Are Now; sekitar 108 menit) sebagai acuan utama. Money as Debt: klaim 40 juta views belum terverifikasi, ada masalah akurasi. Di Balik Kilang dan Ferry Irwandi: data belum lengkap.
 - Estimasi kredit film 35–40 menit: dasar sekitar 1.400–2.400 kredit; dengan revisi 2x sekitar 3.200–5.300 kredit. Saldo saat rancangan dibuat sekitar 605 kredit. Harga sekitar $0,01 per kredit (5.000 kredit sekitar $50, atau sekitar Rp800.000 dengan asumsi kurs Rp16.000 per dolar).
-- Riset ini belum tersimpan di repo. Usulkan diff ke content/riset_video_panjang.md bila pengguna setuju.
+- Riset ini belum tersimpan di repo. Usulkan diff ke content/riset_video_bulanan.md bila pengguna setuju.
 
 LANGKAH BERIKUTNYA (urut):
 0. Pastikan scratchpad lama masih ada. Jika tidak, pulihkan narasi dan aset dari Creative Claw dan dari repo sebelum langkah 1.
@@ -77,7 +77,7 @@ LANGKAH BERIKUTNYA (urut):
 3. Pilih latar Hari 6 dan Hari 7 (sesuai aturan 5+ gambar, 3 lisensi bebas + 3 AI untuk 6 gambar), tunjukkan ke pengguna untuk persetujuan sebelum membuat gambar AI.
 4. Render, tinjauan Opus, lalu tunjukkan ke pengguna.
 5. Tanyakan persetujuan sebelum unggah private.
-6. Setelah kalender berjalan, lanjutkan riset krismon di YouTube (judul, views, umur, kanal, durasi) dan rancangan video panjang minggu 2.
+6. Setelah kalender berjalan, lanjutkan riset krismon di YouTube (judul, views, umur, kanal, durasi) dan rancangan video bulanan.
 
 Mulai dengan membaca file-file di atas, lalu beri tahu saya ringkasan status dan langkah pertama yang akan kamu kerjakan. Jangan mengubah apa pun sebelum saya setujui.
 ```
