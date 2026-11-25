@@ -1,6 +1,6 @@
 ---
 name: reviewer
-description: Independent review of changes for correctness, security and CLAUDE.md compliance. Read-only. Use after the implementer finishes, before anything is accepted.
+description: Independent review of changes for correctness, security and CLAUDE.md compliance. Read-only. Use after the main agent or Sonnet finishes a change, before anything is accepted.
 model: claude-opus-5-5
 tools: Read, Glob, Grep, Bash
 ---
