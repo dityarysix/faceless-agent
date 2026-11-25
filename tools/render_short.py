@@ -18,7 +18,7 @@ F = {"t": ImageFont.truetype(BOLD, 74), "s": ImageFont.truetype(REG, 44), "k": I
 # judul, gambar latar (aset CC0/PD yang sudah diunduh), dan kredit per hari
 SHORT = {
     4: ("Cara sederhana mencatat pengeluaran harian", "", "CMA CC0 dan gambar AI (Creative Claw)"),
-    5: ("Kebutuhan, keinginan, dan belanja impulsif", "ref_cma_coin_havishka.jpg", "Cleveland Museum of Art, CC0"),
+    5: ("Kebutuhan, keinginan, dan belanja impulsif", "", "AIC (domain publik) dan gambar AI (Creative Claw)"),
     6: ("Menabung dari uang lembur", "ref_cma_solidus_justinian.jpg", "Cleveland Museum of Art, CC0"),
     7: ("Tantangan 7 hari", "ref_caravan_sahara_cc0.jpg", "Asfour hamza, CC0, Wikimedia Commons"),
 }
@@ -26,6 +26,7 @@ SHORT = {
 # latar per beat: (indeks kalimat awal, file gambar di scratchpad/assets/)
 BEATS = {
     4: [(0, "cma_purse_1944.283.jpg"), (2, "gen4_b2.jpg"), (4, "gen4_b3.jpg"), (6, "gen4_b4.jpg"), (8, "cma_coin_1999.226.jpg")],
+    5: [(0, "aic_basket_apples.jpg"), (2, "gen5_b2.jpg"), (4, "aic_womens_shoes.jpg"), (5, "gen5_b4.jpg"), (8, "aic_wall_clock.jpg"), (10, "gen5_b6.jpg")],
 }
 
 def dur(path):
@@ -46,25 +47,38 @@ def wrap(text, font, maxw):
     return lines
 
 def build_subs(text, D, starts):
-    # waktu awal kalimat = waktu awal kata pertamanya dari TTS; dalam kalimat, halaman dibagi menurut panjang teks
-    sents = [s for s in re.split(r"(?<=[.?!])\s+", text.strip()) if s]
-    subs, wi = [], 0
-    starts_s = []
-    for s in sents:
-        starts_s.append(starts[wi])
-        wi += len(s.split())
-    ends = starts_s[1:] + [D]
-    for s, t, e in zip(sents, starts_s, ends):
-        seg = e - t
-        lines = wrap(s, F["s"], W - 200)
-        pages = [lines[i:i + 2] for i in range(0, len(lines), 2)]
-        tot = sum(len(" ".join(p)) for p in pages) or 1
-        t0 = t
-        for p in pages:
-            pd = seg * len(" ".join(p)) / tot
-            subs.append((t0, t0 + pd, p))
-            t0 += pd
-    return subs, starts_s
+    # halaman dimulai pada waktu kata pertamanya dari TTS; halaman satu kata digabung ke halaman sebelumnya dalam kalimat yang sama
+    sents = [x for x in re.split(r"(?<=[.?!])\s+", text.strip()) if x]
+    pages, wi, sent_starts = [], 0, []
+    for x in sents:
+        sent_starts.append(starts[wi])
+        lines = wrap(x, F["s"], W - 200)
+        sent_pages = []
+        for i in range(0, len(lines), 2):
+            p = lines[i:i + 2]
+            if len(" ".join(p).split()) == 1 and sent_pages:
+                merged = " ".join(sent_pages[-1][1] + p)
+                sent_pages[-1][1] = wrap(merged, F["s"], W - 200)
+                wi += 1
+                continue
+            sent_pages.append([wi, list(p)])
+            wi += len(" ".join(p).split())
+        pages.extend(sent_pages)
+    subs = []
+    for k, (idx, p) in enumerate(pages):
+        t0 = starts[idx]
+        t1 = starts[pages[k + 1][0]] if k + 1 < len(pages) else D
+        subs.append((t0, t1, p))
+    return subs, sent_starts
+
+@lru_cache(maxsize=None)
+def load_logo(size):
+    im = ImageOps.exif_transpose(Image.open(ROOT + "images/20.jpg")).convert("RGB").resize((size, size), Image.LANCZOS)
+    mask = Image.new("L", (size, size), 0)
+    ImageDraw.Draw(mask).ellipse((0, 0, size - 1, size - 1), fill=255)
+    im = im.convert("RGBA")
+    im.putalpha(mask)
+    return im
 
 @lru_cache(maxsize=None)
 def base_image(path):
@@ -84,10 +98,14 @@ def frame(t, D, title, beat_times, credit, subs):
     d.text((W - 80 - d.textlength(label, font=F["k"]), 90), label, font=F["k"], fill=GREY)
     tag = "ilustrasi"
     d.text((W - 80 - d.textlength(tag, font=F["k"]), 140), tag, font=F["k"], fill=GREY)
-    y = 1000
-    for line in wrap(title, F["t"], W - 160):
-        d.text((80, y), line, font=F["t"], fill=WHITE)
-        y += 92
+    if t < D - 3:
+        y = 1000
+        for line in wrap(title, F["t"], W - 160):
+            d.text((80, y), line, font=F["t"], fill=WHITE)
+            y += 92
+    else:
+        logo = load_logo(480)
+        img.paste(logo, ((W - 480) // 2, 480), logo)
     d.text((80, 1830), "Gambar: " + credit, font=F["k"], fill=GREY)
     for t0, t1, lines in subs:
         if t0 <= t < t1:

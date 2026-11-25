@@ -1,6 +1,6 @@
 # Naskah Short Hari 4–7
 
-Status: dipangkas setelah tinjauan keempat; menunggu tinjauan ulang dan persetujuan pengguna untuk produksi.
+Status: Hari 5 sudah dibuat dan menunggu tinjauan Opus serta persetujuan pengguna.
 Target durasi: 52–57 detik per naskah.
 
 ## Hari 4 (Keuangan pribadi): cara sederhana mencatat pengeluaran harian
