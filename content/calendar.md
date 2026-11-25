@@ -1,4 +1,6 @@
-# Kalender Konten: Jejak Menuju Kaya (siklus 28 hari)
+# Kalender Short: Jejak Menuju Kaya (siklus 28 hari)
+
+Kalender ini hanya untuk short (video vertikal pendek). Video panjang dicatat terpisah di `content/jadwal_rilis.md`.
 
 ## Proses
 - Naskah diajukan per minggu (7 hari). Opus meninjau satu paket, lalu Anda menyetujui satu paket.
