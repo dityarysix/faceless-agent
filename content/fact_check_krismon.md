@@ -13,7 +13,7 @@ Catatan independensi: dokumen dari institusi yang sama dihitung sebagai sumber t
 | C3 | IMF menyetujui stand-by 5 Nov 1997 | Sebagian, perlu koreksi | Persetujuan 5 Nov 1997. Fasilitas total SDR 7,338 miliar (sekitar US$10,14 miliar). Penarikan awal SDR 2,2 miliar (sekitar US$3,04 miliar). Paket sekitar US$23 miliar, perlu dicocokkan dengan PDF asli. |
 | C4 | Inflasi tahunan 1998 | Koreksi | BI Laporan Tahunan 1998/99 hal. 10: puncak 82,4% pada September 1998. Angka 77,6% belum terkonfirmasi sebagai posisi Desember. |
 | C5 | 16 bank ditutup 1 November 1997 | Valid | IMF LoI 31 Okt 1997; IMF LoI 15 Jan 1998; BI WP 15/2018 hal. 11; Simanjuntak 2002 hal. 12. |
-| C6 | Utang swasta menjelang krisis | Belum valid (posisi pra-krisis) | BI Laporan Tahunan 1998/99 hal. 21: utang swasta US$83,7 miliar pada Maret 1999 (posisi pasca-krisis). Angka pra-krisis akhir 1997 belum ditemukan. |
+| C6 | Utang swasta menjelang krisis | Valid dengan rentang, sumber primer parsial | Rentang US$63–82 miliar pada 1997–Mei 1998. IMF LoI 31 Okt 1997 dan 15 Jan 1998: total utang luar negeri US$140 miliar, sebagian besar swasta jangka pendek (tanpa angka swasta eksplisit). BI melalui Investor.id: sekitar US$82,2 miliar (1997–98). Tarmidi (dikutip sumber sekunder): US$63–64 miliar awal Mei 1998. Posisi pasca-krisis BI LT 1998/99 hal. 21: US$83,7 miliar (Maret 1999). |
 | C7 | BLBI Rp147,7 triliun (Des 1998); revisi Rp144,54 triliun (6 Feb 1999) | Valid, dengan catatan posisi tanggal | Simanjuntak 2002 hal. 14; BI Sejarah BI Periode VIII (2025) hal. 86 (Rp148 triliun); Kemenkeu via media; audit BPK Rp144,536 triliun berbeda definisi. |
 | C8 | Awal penyaluran BLBI | Valid, perlu dirumuskan ulang | Fasilitas mulai 15 Agustus 1997 (BI WP 15/2018 hal. 8). Keppres 3 Sep 1997 (Simanjuntak hal. 16; Muliana hal. 360). Istilah BLBI 15 Jan 1998 (IMF LoI; Simanjuntak hal. 15). Posisi Des 1997 Rp48,8 triliun (Simanjuntak hal. 14). |
 
@@ -35,6 +35,8 @@ Catatan independensi: dokumen dari institusi yang sama dihitung sebagai sumber t
 10. Bank Indonesia, Laporan Tahunan 1998/99 (dikutip BI WP 15/2018). Belum diakses langsung.
 11. Media: detikFinance, CNBC Indonesia, Katadata, dan Bisnis (daftar URL di hasil riset sesi ini). Dipakai hanya sebagai pendukung.
 12. Bank Indonesia, Laporan Tahunan 1998/99 (file 13572-98-99-I.pdf, bi.go.id), hal. 10, 20, 21, 36, 77.
+13. Investor.id, "Utang Luar Negeri Swasta Meningkat" (mengutip BI, posisi 1997–98). Sekunder.
+14. Lepi T. Tarmidi, dikutip sumber sekunder (awal Mei 1998). Belum diakses langsung.
 
 ## Belum terverifikasi dan perlu dicari
 - C1 dan C4: tabel BPS (PDB dan IHK 1998), serta Laporan Tahunan BI 1998/99.
