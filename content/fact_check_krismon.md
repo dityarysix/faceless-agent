@@ -91,3 +91,19 @@ Kalimat penutup yang diusulkan:
 | ID | Klaim | Status | Angka atau pernyataan | Sumber |
 |---|---|---|---|---|
 | R-1 | Klausul *Release and Discharge* (R&D) dalam penyelesaian BLBI | Valid (sumber jurnal dan media) | Klausul yang menyatakan tagihan BLBI lunas, pemerintah tidak menuntut pidana atas pelanggaran bank, dan jaminan BLBI dilepas. Diterbitkan setelah pelunasan kewajiban bank kepada pemerintah. Kekuatan hukumnya diperdebatkan. | Muliana 2024 hlm. 360; Lex Renaissance (UII); Jurnal Ius Publicum 2023; Hukumonline (cuplikan); Suara.com 2018 (tanpa nama dalam film) |
+
+## Keputusan sumber untuk data bagian B
+
+| No | Data | Sumber yang dipakai | Angka dan catatan |
+|---|---|---|---|
+| 1 | PDB 1998 | BI Laporan Tahunan 1998/99 (hlm. 20, 36) | Kontraksi 13,7%, 1997 tumbuh 4,9%. |
+| 2 | Kurs terlemah 1998 | BI Laporan Tahunan 1998/99 (hlm. 21, 77) | Rp16.500 per dolar pada pertengahan Juni 1998. |
+| 3 | Inflasi 1998 | BI Laporan Tahunan 1998/99 (hlm. 10, 35) | Puncak tahunan 82,4% pada September 1998. Inflasi tahunan Desember 1998 sebesar 77,6%. |
+| 4 | Utang swasta akhir 1997 | BI (tabel dalam PECC, Anwar Nasution; dikutip Investor.id) | US$82.223 juta dari total US$136.088 juta. |
+| 5 | NPL 1998–99 | BI Laporan Tahunan 1998/99 (hlm. 98) | Naik dari 9,7% (Maret 1998) ke 48,3% (Maret 1999). |
+| 6 | Jumlah UMKM 1997–98 | BPS, dikutip Pajakku dan Kompaspedia | Turun dari 39,8 juta ke 36,8 juta unit (−7,4%). |
+| 7 | Kredit macet UKM | BI Laporan Tahunan 1998/99 (hlm. 96) | Naik dari 3,9% ke 9,4%. Kredit lancar turun dari 84,6% ke 77,4%. |
+| 8 | Penarikan uang kartal | Simanjuntak 2002 (hlm. 12) | Rp24,9 triliun (akhir Oktober 1997), Rp37,5 triliun (akhir Januari 1998), Rp43,4 triliun (Juli 1998). |
+| 9 | Suku bunga 1998 | Simanjuntak 2002 (hlm. 13) | 40–100% per tahun. |
+
+Catatan: jurnal akademik (Muliana 2024; Sugema dan Simorangkir 2004; Simanjuntak 2002) dipakai langsung tanpa verifikasi silang, sesuai instruksi. Sumber BPS untuk item 6 belum dibuka langsung (403).
