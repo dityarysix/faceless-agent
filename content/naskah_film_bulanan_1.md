@@ -51,6 +51,7 @@ T2 belum merasakan apa-apa selain harga bahan yang perlahan naik. Ia masih menga
 - Jeda di 6:30.
 
 **Sumber di layar**
+- Kemiskinan: IMF, siaran pers 97/50, 5 November 1997.
 - Kenaikan harga minyak: Federal Reserve History, "Oil Shock of 1978-79".
 - Penerimaan migas: Nota Keuangan RAPBN 1989/90.
 - Deregulasi perbankan 1988: Bank Indonesia, halaman sejarah.
@@ -178,7 +179,6 @@ T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang ma
 **Sumber di layar**
 - Rupiah Rp16.500: Bank Indonesia Laporan Tahunan 1998/99.
 - Inflasi 82,4 persen: Bank Indonesia Laporan Tahunan 1998/99.
-- Kemiskinan: IMF, siaran pers 97/50, 5 November 1997.
 - Pengangguran dan PHK: Bank Indonesia Laporan Tahunan 1998/99.
 - Rasio kecukupan modal: Bank Indonesia Laporan Tahunan 1998/99.
 - PDB minus 13,7 persen: Bank Indonesia Laporan Tahunan 1998/99.
