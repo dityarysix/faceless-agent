@@ -53,3 +53,19 @@ Catatan independensi: dokumen dari institusi yang sama dihitung sebagai sumber t
 | R4 | Dampak terhadap UMKM | Sebagian valid | Jumlah unit UMKM turun dari 39,8 juta (1997) ke 36,8 juta (1998), sekitar 7,4%, menurut data BPS yang dikutip sumber sekunder. Jumlah tenaga kerja UMKM turun sekitar 1,96%. Klaim usaha tutup belum valid. | Pajakku, Kompaspedia, jurnal Universitas Kanjuruhan, Katadata |
 
 Catatan: nama terdakwa dan pejabat tidak dicantumkan dalam naskah.
+
+## Keputusan sumber untuk data bagian B
+
+| No | Data | Sumber yang dipakai | Angka dan catatan |
+|---|---|---|---|
+| 1 | PDB 1998 | BI Laporan Tahunan 1998/99 (hlm. 20, 36) | Kontraksi 13,7%, 1997 tumbuh 4,9%. |
+| 2 | Kurs terlemah 1998 | BI Laporan Tahunan 1998/99 (hlm. 21, 77) | Rp16.500 per dolar pada pertengahan Juni 1998. |
+| 3 | Inflasi 1998 | BI Laporan Tahunan 1998/99 (hlm. 10, 35) | Puncak tahunan 82,4% pada September 1998. Inflasi tahunan Desember 1998 sebesar 77,6%. |
+| 4 | Utang swasta akhir 1997 | BI (tabel dalam PECC, Anwar Nasution; dikutip Investor.id) | US$82.223 juta dari total US$136.088 juta. |
+| 5 | NPL 1998–99 | BI Laporan Tahunan 1998/99 (hlm. 98) | Naik dari 9,7% (Maret 1998) ke 48,3% (Maret 1999). |
+| 6 | Jumlah UMKM 1997–98 | BPS, dikutip Pajakku dan Kompaspedia | Turun dari 39,8 juta ke 36,8 juta unit (−7,4%). |
+| 7 | Kredit macet UKM | BI Laporan Tahunan 1998/99 (hlm. 96) | Naik dari 3,9% ke 9,4%. Kredit lancar turun dari 84,6% ke 77,4%. |
+| 8 | Penarikan uang kartal | Simanjuntak 2002 (hlm. 12) | Rp24,9 triliun (akhir Oktober 1997), Rp37,5 triliun (akhir Januari 1998), Rp43,4 triliun (Juli 1998). |
+| 9 | Suku bunga 1998 | Simanjuntak 2002 (hlm. 13) | 40–100% per tahun. |
+
+Catatan: jurnal akademik (Muliana 2024; Sugema dan Simorangkir 2004; Simanjuntak 2002) dipakai langsung tanpa verifikasi silang, sesuai instruksi. Sumber BPS untuk item 6 belum dibuka langsung (403).
