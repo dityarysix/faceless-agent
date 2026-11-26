@@ -1,7 +1,7 @@
 # Treatment: film bulanan 1 (Krisis Moneter 1998)
 
 Status: draf treatment, sudah direvisi sesuai tinjauan Opus. Belum ada naskah atau narasi. Tanggal rilis belum ditentukan.
-Durasi target: sekitar 41–42 menit (peta durasi 41:30). Struktur lengkap ada di `content/preproduksi_film_bulanan_1.md`.
+Durasi isi: 41:30. Batas maksimal 42:00, dengan 30 detik cadangan untuk overrun. Struktur lengkap ada di `content/preproduksi_film_bulanan_1.md`.
 
 ## Judul kerja
 Krisis 1998: Siapa Menang, Siapa Kalah
