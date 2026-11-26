@@ -64,8 +64,8 @@ Catatan: nama terdakwa dan pejabat tidak dicantumkan dalam naskah.
 | P4 | Total yang dibayar | Valid | SDR 13,21 miliar. Dihitung dari P2 dan P3. |
 | P5 | Pelunasan dini 2006 | Valid | SDR 2,2 miliar (sekitar US$3,2 miliar), diumumkan 5 Oktober 2006. IMF, siaran pers 6 Oktober 2006. |
 | P6 | Pelunasan utang BLBI ke BI | Valid | Rp218,3 triliun, dibayar 24 Agustus 2026. CNBC Indonesia, Kompas TV, Fortune Indonesia. |
-| P7 | Penagihan obligor BLBI | Sebagian | Satgas BLBI selesai akhir 2024. Penagihan dilanjutkan lewat PP 4/2026. Terkumpul Rp38,88 triliun hingga September 2024. Hak tagih sekitar Rp110 triliun belum tuntas (Koran Jakarta). |
-| P8 | Jumlah obligor yang sudah dan belum lunas | Belum valid | Tidak ditemukan. Perlu data dari DJKN atau PUPN. |
+| P7 | Penagihan obligor BLBI | Sebagian | Satgas BLBI selesai akhir 2024. Penagihan dilanjutkan lewat PP 4/2026. Terkumpul Rp38,88 triliun hingga 5 September 2024 dari target hak tagih Rp110,45 triliun (ditetapkan 2021). Sisa sekitar Rp71 triliun per Oktober 2024. |
+| P8 | Jumlah obligor dan debitur BLBI yang sudah dan belum lunas | Sebagian | Per 30 Juni 2025, BPK mencatat 25.306 debitur eks-BLBI belum melunasi Rp211,02 triliun (IHPS II-2025, dikutip lebih dari tiga media). Satgas BLBI memulihkan Rp38,88 triliun per 5 September 2024 (Raker Komisi XI DPR, 9 September 2024). Jumlah yang sudah lunas: tidak ada data resmi terbuka. Perlu permintaan ke PPID DJKN. |
 | P9 | BPPN dibubarkan | Valid | Keppres 15/2004, berakhir 27 Februari 2004. Sumber sekunder. |
 | P10 | LPS dibentuk | Valid | UU 24/2004, mulai beroperasi 22 September 2005. Sumber sekunder. |
 | P11 | Independensi BI (UU 23/1999) dan peran DPR | Valid | Pasal 4 ayat (2) UU 23/1999 (teks asli 1999): "Bank Indonesia adalah lembaga negara yang independen, bebas dari campur tangan Pemerintah dan/atau pihak-pihak lainnya, kecuali untuk hal-hal yang secara tegas diatur dalam undang-undang ini." Pasal 41 ayat (1): Gubernur dan Deputi Gubernur Senior diangkat dengan persetujuan DPR. Pasal 59: pemeriksaan khusus BPK atas permintaan DPR. Sumber: teks UU dari PDF resmi BI (bi.go.id). Catatan: UU ini sudah beberapa kali diubah. |
