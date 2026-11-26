@@ -43,9 +43,9 @@ Bahan bakunya sebagian diimpor. Minyak nabati dan pewangi datang dari luar neger
 
 T2 belum merasakan apa-apa selain harga bahan yang perlahan naik. Ia masih menganggap itu bagian biasa dari usaha. Ia tidak pernah meminjam dalam dolar.
 
-Sebelum krisis, rupiah bergerak dalam pita intervensi. Ketika tekanan datang, pita itu diuji. Pertanyaan yang muncul kemudian adalah siapa yang menanggung akibatnya. Jawabannya tidak pernah satu orang saja. Akibatnya tersebar ke pekerja, pengusaha, dan negara.
+Sebelum krisis, rupiah bergerak dalam pita intervensi. Ketika tekanan datang, pita itu diuji. Pertanyaan yang muncul kemudian adalah siapa yang menanggung akibatnya. Jawabannya tidak pernah satu orang saja. Pertanyaan itu kita bawa ke babak-babak berikutnya.
 
-Di bab ini dan bab-bab berikutnya, kita mengikuti dua tokoh fiktif. Mereka dipilih untuk menunjukkan bagaimana krisis yang sama bekerja pada dua jenis pendapatan, bukan untuk mewakili seluruh pelaku usaha.
+Di bab ini dan babak-babak berikutnya, kita mengikuti dua tokoh fiktif. Mereka dipilih untuk menunjukkan bagaimana krisis yang sama bekerja pada dua jenis pendapatan, bukan untuk mewakili seluruh pelaku usaha.
 
 **Adegan T2, pagi di rumah produksi**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -74,7 +74,7 @@ T1 membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi punya 
 - Utang swasta jangka pendek: IMF Letter of Intent, 31 Oktober 1997.
 - Rupiah relatif stabil: IMF Letter of Intent, 31 Oktober 1997.
 
-**ID ledger:** K-1, T-3, T-2, K-3a, K-3b.
+**ID ledger:** K-1, T-3, T-2, K-3a, K-3b, T-1, F-1, F-2.
 
 ## Babak 2: Rupiah Runtuh (6:30–14:00)
 
@@ -143,7 +143,7 @@ Bank yang kehilangan dana cepat bisa menghadapi penarikan yang bersamaan. Pada s
 **Adegan T2, percakapan di warung**
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
-Di warung dekat rumah produksi, pemilik warung menanyakan apakah sabun T2 masih akan naik harga. T2 menjawab jujur bahwa ia tidak tahu. Pemilik warung mengangguk dan mengambil dua batang untuk dijual kembali. Hari itu, percakapan kecil seperti ini terjadi di banyak tempat.
+Di warung dekat rumah produksi, pemilik warung menanyakan apakah sabun T2 masih akan naik harga. T2 menjawab jujur bahwa ia tidak tahu. Pemilik warung mengangguk dan mengambil dua batang untuk dijual kembali. Hari itu, percakapan kecil seperti ini terjadi di sebuah warung.
 
 **Adegan T1, malam sebelum keputusan**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -168,7 +168,7 @@ Malam itu T1 menyusun dua daftar di meja makan. Daftar pertama berisi pesanan ya
 - Stand-by IMF 5 November 1997: IMF, siaran pers 5 November 1997.
 - SBPUK Rp36,5 triliun: Bank Indonesia Working Paper 15/2018.
 
-**ID ledger:** C8, T-5, T-1, C5, C3, T-4.
+**ID ledger:** C8, T-5, T-1, C5, C3, T-4, F-2, F-3.
 
 ## Babak 3: Puncak 1998 (14:00–21:00)
 
@@ -256,7 +256,7 @@ Malam terakhir di gudang, lampu neon padam satu per satu. T1 tidak menyalakannya
 - Rasio kecukupan modal: Bank Indonesia Laporan Tahunan 1998/99.
 - PDB minus 13,7 persen: Bank Indonesia Laporan Tahunan 1998/99.
 
-**ID ledger:** C2, C4, C1.
+**ID ledger:** C2, C4, C1, F-4, F-5, F-6.
 
 ## Babak 4: Mesin BLBI (21:00–28:30)
 
@@ -296,7 +296,7 @@ Penasihat hukum T1 datang dengan map tebal berisi kontrak sewa gudang. Ia menjel
 
 Di ruang rapat rumah produksi, T2 bertanya kepada karyawannya: siapa yang masih mau bekerja sampai bulan depan. Beberapa mengangkat tangan, beberapa menunduk. T2 tidak menyalahkan siapa pun. Ia hanya ingin tahu siapa yang akan tinggal.
 
-dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu, meski penerimaannya kemudian diperdebatkan.
+dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu,.
 
 **Adegan T1, surat pemberitahuan**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -349,7 +349,7 @@ Seorang perempuan penjual sayur di pasar menanyakan kabar usaha T1, karena merek
 - Klausul R&D: Lex Renaissance UII; Jurnal Ius Publicum 2023.
 - Definisi BLBI (jika dipakai di babak ini): IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani (media.neliti.com).
 
-**ID ledger:** C7, R2, R-1.
+**ID ledger:** F-7, F-8, R2, R-1.
 
 ## Babak 5: Pembenahan dan Tagihan (28:30–36:00)
 
@@ -387,7 +387,7 @@ Pada suatu sore, T1 menerima undangan dari pelanggan lama untuk makan siang. T1 
 
 T2 mengantar anaknya ke sekolah dan melewati toko-toko yang dulu menjadi pelanggannya. Beberapa sudah tutup, sebagian berganti nama. T2 tidak berhenti. Ia hanya memperlambat langkah, lalu melanjutkan perjalanan ke rumah produksi yang kini hanya tinggal satu ruangan.
 
-rekapitalisasi berarti pemerintah atau lembaga lain menyuntikkan modal ke bank agar bank bisa kembali memenuhi syarat minimum. Penyuntikan ini tidak gratis. Biayanya dibebankan kepada keuangan negara.
+rekapitalisasi berarti pemerintah atau lembaga lain menyuntikkan modal ke bank agar bank bisa kembali memenuhi syarat minimum. Penyuntikan ini tidak gratis. 
 
 **Adegan T1, usaha yang mengecil**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -399,7 +399,7 @@ Pada awal 2000, T1 hanya punya satu gudang kecil dan dua karyawan. Ia masih meng
 
 T2 membuka lagi usaha sabun dengan modal yang lebih kecil. Ia tidak lagi memakai bank. Ia menjual langsung ke warung dan membayar bahan dengan uang yang ia kumpulkan dari penjualan sebelumnya. Pekerjanya tinggal empat orang, tetapi setiap pagi mereka tetap datang.
 
-Setelah krisis, banyak usaha kecil harus mulai dari awal. Mereka mencari pelanggan baru, memperkecil biaya, dan belajar hidup dengan utang yang lebih sedikit.
+Setelah krisis, T2 memulai lagi dengan modal yang lebih kecil. Mereka mencari pelanggan baru, memperkecil biaya, dan belajar hidup dengan utang yang lebih sedikit.
 
 **Adegan T2, belajar menghitung ulang**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -409,7 +409,7 @@ Di buku catatan baru, T2 membuat kolom sederhana: bahan, tenaga, sewa, dan keunt
 **Adegan T1, mengajar anak tentang gudang**
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
-Sore hari, T1 mengajak anaknya masuk ke gudang yang sudah kosong. Ia menunjukkan tempat kontainer dulu berdiri dan menjelaskan bagaimana pesanan dihitung. Anaknya bertanya kenapa gudang itu tidak dijual saja. T1 tersenyum dan menjawab bahwa ia belum siap melepasnya.
+Sore hari, T1 mengajak anaknya masuk ke bekas gudang yang sudah kosong. Ia menunjukkan tempat kontainer dulu berdiri dan menjelaskan bagaimana pesanan dihitung. Anaknya bertanya kenapa ayah tidak mencari gudang baru. T1 tersenyum dan menjawab bahwa ia belum siap memulai lagi.
 
 **Adegan T2, pertemuan dengan pelanggan baru**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -437,13 +437,13 @@ Di pasar, T1 bertemu mantan karyawannya. Mereka bercakap sebentar tentang kabar 
 - Rincian piutang: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi (LKPP 2024, CaLK).
 - Pembekuan 38 bank, 7 diambil alih, 9 direkapitalisasi: Bank Indonesia Laporan Tahunan 1998/99.
 
-**ID ledger:** P9, P10, P1–P3, P5, P6, P13.
+**ID ledger:** P9, P10, P1–P3, P5, P6, P13, F-9, F-10.
 
 ## Babak 6: Penutup (36:00–41:30)
 
 **Narasi**
 
-Rupiah melemah lebih dari tiga puluh persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan, dan sebagian penerimanya memperoleh klausul yang sampai hari ini masih diperdebatkan.
+Rupiah melemah lebih dari tiga puluh persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan, dan sebagian penerimanya memperoleh klausul yang masih diperdebatkan.
 
 Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006 (sumber di layar: IMF, siaran pers). Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis (sumber di layar: UU 24/2004). Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah (sumber di layar: UU 23/1999, Pasal 56 ayat (1)). Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke OJK (sumber di layar: UU 21/2011, Pasal 55 ayat (2)).
 
@@ -502,4 +502,4 @@ Pagi itu T2 membuka warungnya sendiri. Ia menata sabun di rak, menyapa tetangga,
 - Larangan kredit BI kepada pemerintah: UU 23/1999, Pasal 56 ayat (1).
 - Pengawasan perbankan ke OJK: UU 21/2011, Pasal 55 ayat (2).
 
-**ID ledger:** P2, P5, P6, P9, P10, P13.
+**ID ledger:** P2, P5, P6, P10, P13, F-11, F-12, R-1.
