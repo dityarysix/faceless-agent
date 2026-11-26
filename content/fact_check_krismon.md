@@ -13,7 +13,7 @@ Catatan independensi: dokumen dari institusi yang sama dihitung sebagai sumber t
 | C3 | IMF menyetujui stand-by 5 Nov 1997 | Sebagian, perlu koreksi | Persetujuan 5 Nov 1997. Fasilitas total SDR 7,338 miliar (sekitar US$10,14 miliar). Penarikan awal SDR 2,2 miliar (sekitar US$3,04 miliar). Paket sekitar US$23 miliar, perlu dicocokkan dengan PDF asli. |
 | C4 | Inflasi tahunan 1998 | Koreksi | BI Laporan Tahunan 1998/99 hal. 10: puncak 82,4% pada September 1998. Angka 77,6% belum terkonfirmasi sebagai posisi Desember. |
 | C5 | 16 bank ditutup 1 November 1997 | Valid | IMF LoI 31 Okt 1997; IMF LoI 15 Jan 1998; BI WP 15/2018 hal. 11; Simanjuntak 2002 hal. 12. |
-| C6 | Utang swasta menjelang krisis | Valid dengan rentang, sumber primer parsial | Rentang US$63–82 miliar pada 1997–Mei 1998. IMF LoI 31 Okt 1997 dan 15 Jan 1998: total utang luar negeri US$140 miliar, sebagian besar swasta jangka pendek (tanpa angka swasta eksplisit). BI melalui Investor.id: sekitar US$82,2 miliar (1997–98). Tarmidi (dikutip sumber sekunder): US$63–64 miliar awal Mei 1998. Posisi pasca-krisis BI LT 1998/99 hal. 21: US$83,7 miliar (Maret 1999). |
+| C6 | Utang swasta akhir 1997 | Valid | US$82.223 juta dari total US$136.088 juta (BI, tabel dalam PECC, Anwar Nasution; dikutip Investor.id). |
 | C7 | BLBI Rp147,7 triliun (Des 1998); revisi Rp144,54 triliun (6 Feb 1999) | Valid, dengan catatan posisi tanggal | Simanjuntak 2002 hal. 14; BI Sejarah BI Periode VIII (2025) hal. 86 (Rp148 triliun); Kemenkeu via media; audit BPK Rp144,536 triliun berbeda definisi. |
 | C8 | Awal penyaluran BLBI | Valid, perlu dirumuskan ulang | Fasilitas mulai 15 Agustus 1997 (BI WP 15/2018 hal. 8). Keppres 3 Sep 1997 (Simanjuntak hal. 16; Muliana hal. 360). Istilah BLBI 15 Jan 1998 (IMF LoI; Simanjuntak hal. 15). Posisi Des 1997 Rp48,8 triliun (Simanjuntak hal. 14). |
 
@@ -53,3 +53,25 @@ Catatan independensi: dokumen dari institusi yang sama dihitung sebagai sumber t
 | R4 | Dampak terhadap UMKM | Sebagian valid | Jumlah unit UMKM turun dari 39,8 juta (1997) ke 36,8 juta (1998), sekitar 7,4%, menurut data BPS yang dikutip sumber sekunder. Jumlah tenaga kerja UMKM turun sekitar 1,96%. Klaim usaha tutup belum valid. | Pajakku, Kompaspedia, jurnal Universitas Kanjuruhan, Katadata |
 
 Catatan: nama terdakwa dan pejabat tidak dicantumkan dalam naskah.
+
+## Penutup film: pinjaman IMF dan BLBI
+
+| No | Data | Status | Angka dan sumber |
+|---|---|---|---|
+| P1 | Pinjaman IMF 1997–2003 | Valid | SDR 11,10 miliar. IMF, tabel transaksi Indonesia (pembelian GRA). |
+| P2 | Pokok yang dikembalikan | Valid | SDR 11,10 miliar, lunas. IMF, tabel transaksi Indonesia (pembayaran kembali GRA), 2001–2006. |
+| P3 | Bunga dan biaya | Valid | SDR 2,10 miliar, 1998–2006. IMF, tabel transaksi Indonesia. |
+| P4 | Total yang dibayar | Valid | SDR 13,21 miliar. Dihitung dari P2 dan P3. |
+| P5 | Pelunasan dini 2006 | Valid | SDR 2,2 miliar (sekitar US$3,2 miliar), diumumkan 5 Oktober 2006. IMF, siaran pers 6 Oktober 2006. |
+| P6 | Pelunasan utang BLBI ke BI | Valid | Rp218,3 triliun, dibayar 24 Agustus 2026. CNBC Indonesia, Kompas TV, Fortune Indonesia. |
+| P7 | Penagihan obligor BLBI | Sebagian | Satgas BLBI selesai akhir 2024. Penagihan dilanjutkan lewat PP 4/2026. Terkumpul Rp38,88 triliun hingga September 2024. Hak tagih sekitar Rp110 triliun belum tuntas (Koran Jakarta). |
+| P8 | Jumlah obligor yang sudah dan belum lunas | Belum valid | Tidak ditemukan. Perlu data dari DJKN atau PUPN. |
+| P9 | BPPN dibubarkan | Valid | Keppres 15/2004, berakhir 27 Februari 2004. Sumber sekunder. |
+| P10 | LPS dibentuk | Valid | UU 24/2004, mulai beroperasi 22 September 2005. Sumber sekunder. |
+| P11 | Independensi BI (UU 23/1999) dan peran DPR | Belum valid | Belum ditemukan rincian dari sumber yang bisa dibuka. |
+| P12 | OJK dibentuk | Belum valid | Sumber menyebut UU 6/2009. Perlu dicek ke JDIH, karena biasanya dikaitkan dengan UU 21/2011. |
+
+Kalimat penutup yang diusulkan:
+- IMF: "Indonesia meminjam sekitar 11 miliar SDR dari IMF, lalu mengembalikan seluruh pokoknya beserta sekitar 2 miliar SDR bunga dan biaya, hingga lunas pada 2006."
+- BLBI: "Pemerintah telah melunasi utangnya ke Bank Indonesia, tetapi penagihan kepada para pengutang belum selesai."
+- Pembenahan: "Setelah krisis, BPPN ditutup pada 2004, dan LPS dibentuk untuk menjaga kepercayaan pada perbankan."
