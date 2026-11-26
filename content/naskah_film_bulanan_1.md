@@ -43,6 +43,15 @@ Bahan bakunya sebagian diimpor. Minyak nabati dan pewangi datang dari luar neger
 
 T2 belum merasakan apa-apa selain harga bahan yang perlahan naik. Ia masih menganggap itu bagian biasa dari usaha. Ia tidak pernah meminjam dalam dolar.
 
+Sebelum krisis, pemerintah mengatur banyak hal dari atas: kurs, bunga, dan batas kredit. Ketika tekanan datang, aturan-aturan itu diuji. Pertanyaan yang muncul kemudian adalah siapa yang menanggung akibatnya. Jawabannya tidak pernah satu orang saja. Akibatnya tersebar ke pekerja, pengusaha, dan negara.
+
+Di bab ini dan bab-bab berikutnya, kita mengikuti dua tokoh fiktif. Mereka dipilih untuk menunjukkan bagaimana krisis yang sama bekerja pada dua jenis pendapatan, bukan untuk mewakili seluruh pelaku usaha.
+
+**Adegan T2, pagi di rumah produksi**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pagi itu T2 datang lebih awal. Lampu gudang belum menyala. Ia membuka buku besar dan membaca catatan bahan baku dari tiga bulan terakhir. Angka-angkanya naik perlahan, tetapi konsisten. T2 tidak panik. Ia hanya menulis satu kalimat di pinggir halaman: harga naik, pesanan jangan dulu ditambah.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Peta waktu 1979 sampai 1997, tanpa foto arsip.
@@ -106,6 +115,20 @@ Siang itu, T1 duduk di ruang tamu pemasok kayu di kota sebelah. Pemasoknya menaw
 
 Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia bercerita bahwa beberapa toko langganannya sudah menunda pembelian. T2 menawarkan diskon kecil supaya stok tetap bergerak. Distributor itu setuju, tetapi keduanya tahu diskon itu hanya menunda masalah. Setelah ia pergi, T2 duduk sebentar di bangku dekat jendela dan menghitung, sekali lagi, berapa karyawan yang bisa ia pertahankan.
 
+Ketika bank kehilangan kepercayaan, nasabah cenderung mengambil dana lebih cepat. Bank yang punya aset panjang dan kewajiban pendek bisa kesulitan memenuhi penarikan, meskipun asetnya sendiri sebenarnya masih ada.
+
+**Adegan T1, pertemuan dengan bank di akhir 1997**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di ruang rapat kecil di lantai dua bank, T1 duduk berhadapan dengan petugas kredit. Petugas itu membuka map dan menjelaskan syarat baru: jaminan tambahan, jadwal pembayaran yang lebih pendek, dan bunga yang lebih tinggi dari biasanya. T1 bertanya apakah ada pilihan lain. Petugas itu menjawab singkat, bahwa aturan baru datang dari atas dan mereka hanya menjalankannya.
+
+Setelah pertemuan itu, T1 berjalan kaki ke gudang. Ia menghitung ulang setiap pesanan yang masih terbuka. Sebagian harus dibatalkan.
+
+**Adegan T2, pembayaran gaji di awal Januari 1998**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Awal Januari, T2 menghitung gaji tiga puluh karyawan. Uang di rekening cukup untuk dua minggu, tidak lebih. Ia membagi gaji dengan hati-hati dan mengumumkan di depan pekerja bahwa jam kerja akan dikurangi sementara. Tidak ada yang berteriak. Beberapa mengangguk, beberapa diam, dan satu pekerja bertanya apakah gaji bulan depan akan tetap sama. T2 tidak bisa menjawab pasti.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Peta waktu Agustus sampai Januari, dengan kartu tanggal.
@@ -166,6 +189,20 @@ Di warung dekat rumah produksi, T2 melihat seorang ibu menghitung rupiah di tela
 
 T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang masih ada. Ia menjelaskan siapa yang masih bekerja dan siapa yang harus pulang sementara. Tidak ada yang bertanya lebih jauh. Semua tahu bahwa tanggal berikutnya belum pasti.
 
+Angka pengangguran terbuka hanya menghitung orang yang sedang mencari kerja. Orang yang berhenti mencari, atau bekerja sedikit jam, tidak selalu ikut terhitung.
+
+Rasio kecukupan modal adalah perbandingan modal bank terhadap aset berisiko. Rasio yang turun berarti bank punya ruang yang lebih kecil untuk menyerap kerugian.
+
+**Adegan T1, bongkar gudang**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pada pertengahan 1998, T1 meminta para pekerja gudang mengosongkan rak terakhir. Tidak ada upacara. Mesin pemotong sudah dijual, tinggal kursi dan meja kerja. T1 memanggil setiap orang satu per satu dan menyerahkan surat berhenti kerja sementara, dengan janji akan memanggil kembali bila pesanan membaik. Janji itu ia tulis di kertas, bukan di kontrak.
+
+**Adegan T2, ruang tunggu pabrik lain**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di ruang tunggu sebuah pabrik di kota sebelah, T2 duduk bersama beberapa pekerja yang kehilangan pekerjaan. Mereka tidak saling kenal, tetapi wajahnya sama. Seseorang bertanya apakah T2 punya lowongan. T2 tidak punya, dan ia merasa itu bagian paling sulit dari musim ini.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Kartu angka: Rp16.500 (Juni 1998) dan 82,4 persen (September 1998), masing-masing dengan tanggal dan sumber.
@@ -219,6 +256,23 @@ Penasihat hukum T1 datang dengan map tebal berisi kontrak sewa gudang. Ia menjel
 
 Di ruang rapat rumah produksi, T2 bertanya kepada karyawannya: siapa yang masih mau bekerja sampai bulan depan. Beberapa mengangkat tangan, beberapa menunduk. T2 tidak menyalahkan siapa pun. Ia hanya ingin tahu siapa yang akan tinggal.
 
+Dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu, meski penerimaannya kemudian diperdebatkan.
+
+**Adegan T1, surat pemberitahuan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Sebuah surat datang ke gudang T1 pada suatu sore. Isinya memberi tahu bahwa kontrak sewa akan ditinjau ulang. T1 membaca dua kali, lalu meletakkannya di atas meja. Ia tidak lagi tahu apakah ia sedang menagih atau ditagih. Yang jelas, gudang itu sudah terlalu besar untuk usaha yang tersisa.
+
+**Adegan T2, makan siang bersama karyawan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 mengajak karyawannya makan siang di halaman rumah produksi. Nasi bungkus, teh manis, dan obrolan ringan. Tidak ada yang membahas krisis secara langsung. Setelah makan, T2 berdiri dan mengucapkan terima kasih. Itu satu-satunya pidato yang ia buat tahun itu.
+
+**Adegan T1, perjalanan ke kota lain**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T1 naik bus malam ke kota lain untuk mencari pembeli baru. Di dalam bus ia membuka buku catatan dan menghitung ulang biaya perjalanan. Di kursi sebelah, seorang penumpang tertidur dengan map plastik di pangkuannya. T1 melihat ke luar jendela dan memikirkan berapa lama usaha ini bisa bertahan jika pesanan pertama tidak datang.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Diagram aliran dana BLBI: bank, Bank Indonesia, pemerintah, dan tagihan. Tanpa wajah atau nama.
@@ -271,6 +325,18 @@ Pada suatu sore, T1 menerima undangan dari pelanggan lama untuk makan siang. T1 
 
 T2 mengantar anaknya ke sekolah dan melewati toko-toko yang dulu menjadi pelanggannya. Beberapa sudah tutup, sebagian berganti nama. T2 tidak berhenti. Ia hanya memperlambat langkah, lalu melanjutkan perjalanan ke rumah produksi yang kini hanya tinggal satu ruangan.
 
+Rekapitalisasi berarti pemerintah atau lembaga lain menyuntikkan modal ke bank agar bank bisa kembali memenuhi syarat minimum. Penyuntikan ini tidak gratis. Biayanya dibebankan kepada keuangan negara.
+
+**Adegan T1, usaha yang mengecil**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pada awal 2000, T1 hanya punya satu gudang kecil dan dua karyawan. Ia masih mengirim kursi ke Eropa, tetapi frekuensinya tidak sama lagi. Setiap kali kontainer berangkat, T1 berdiri di dermaga dan membayangkan usaha yang dulu pernah memenuhi gudang besar itu.
+
+**Adegan T2, usaha kecil yang bertahan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 membuka lagi usaha sabun dengan modal yang lebih kecil. Ia tidak lagi memakai bank. Ia menjual langsung ke warung dan membayar bahan dengan uang yang ia kumpulkan dari penjualan sebelumnya. Pekerjanya tinggal empat orang, tetapi setiap pagi mereka tetap datang.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Timeline 2004 sampai 2026.
@@ -310,6 +376,16 @@ Sore itu T1 duduk di bangku depan rumah. Ada sebuah buku catatan di pangkuannya,
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
 T2 berdiri di depan rak kecil di warungnya sendiri. Di sana ada beberapa batang sabun dengan label tulisan tangan. Ia mengambil satu, mencium aromanya, lalu meletakkannya kembali. Ia tidak menjual semuanya hari itu, tetapi ia tidak merasa kalah. Ia hanya tahu bahwa ia akan terus mencatat.
+
+**Adegan T1, sore di teras**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Sore itu T1 duduk di teras rumah dengan secangkir kopi. Anaknya datang membawa kabar tentang sekolah baru. T1 mendengarkan dengan sungguh-sungguh. Ia tidak lagi mengukur hidupnya dengan kurs. Yang ia ukur sekarang adalah waktu bersama keluarga, dan pilihan-pilihan yang tidak bisa diulang.
+
+**Adegan T2, rak sabun**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 menyusun sabun di rak kecil warungnya. Pembeli pertama hari itu seorang ibu yang memilih dua batang dan membayar dengan uang lembaran lusuh. T2 mengembalikan uang kembalian dengan tangan yang sama seperti dulu, lalu mencatat penjualan di buku kecil.
 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
