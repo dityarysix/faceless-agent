@@ -13,7 +13,7 @@ Selama sebagian besar tahun 1990-an, rupiah relatif stabil. Lalu pada tahun 1997
 
 Film ini bertanya satu hal. Siapa yang menang dan siapa yang kalah dari krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?
 
-Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat Pada Pelita III, penerimaan migas rata-rata 66,9 persen dari penerimaan dalam negeri.
+Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat. Pada Pelita III, penerimaan migas rata-rata 66,9 persen dari penerimaan dalam negeri.
 
 Pada 27 Oktober 1988, pemerintah mempermudah pendirian bank baru. Dalam beberapa dekade sebelum krisis, kemiskinan turun dari lebih 60 persen di akhir 1960-an menjadi 11 persen di pertengahan 1990-an.
 
@@ -92,7 +92,7 @@ Sepanjang pertengahan Juli sampai pertengahan Oktober 1997, rupiah melemah lebih
 
 Pada 1 November 1997, enam belas bank ditutup.
 
-Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia
+Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia.
 
 Pada akhir Desember 1997, SBPUK sebesar Rp36,5 triliun diberikan kepada dua puluh delapan bank. Dari awal Desember 1997 sampai awal Januari 1998, rupiah turun dari sekitar Rp3.700 menjadi sekitar Rp8.000 per dolar.
 
@@ -183,6 +183,8 @@ Pada September 1998, inflasi tahunan mencapai puncaknya di angka 82,4 persen. Ha
 Menurut catatan Bank Indonesia, ekonomi Indonesia turun 13,7 persen pada 1998.
 
 
+Pada kredit usaha kecil, porsi kredit macet naik dari 3,9 persen menjadi 9,4 persen antara akhir tahun buku 1997/98 dan 1998/99.
+
 **Adegan T1, Juni 1998**
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
@@ -241,7 +243,7 @@ Pagi itu T2 berdiri di depan para pekerja dan menyampaikan kabar yang sudah ia p
 
 Malam terakhir di gudang, lampu neon padam satu per satu. T1 tidak menyalakannya lagi. Ia duduk di kursi kayu, mendengarkan suara jangkrik dari luar, dan memikirkan bagaimana usaha sekecil itu bisa dibangun dengan begitu banyak harapan.
 
-Untuk usaha kecil, kredit macet naik dari 3,9 persen menjadi 9,4 persen dalam periode yang sama. Jumlah usaha mikro, kecil, dan menengah turun dari 39,8 juta unit pada 1997 menjadi 36,8 juta unit pada 1998, menurut angka BPS yang dikutip media.
+Jumlah usaha mikro, kecil, dan menengah turun dari 39,8 juta unit pada 1997 menjadi 36,8 juta unit pada 1998, menurut angka BPS yang dikutip media.
 
 **Adegan T2, pesan dari bank yang tidak datang**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -371,13 +373,13 @@ T1 membaca dokumen perjanjian sewa dengan teliti. Ada pasal yang menyebut jamina
 
 **Narasi**
 
-Pada 13 Maret 1999, pemerintah membekukan kegiatan usaha 38 bank, mengambil alih tujuh bank, dan menetapkan sembilan bank untuk direkapitalisasi. Pada 27 Februari 2004, Badan Penyehatan Perbankan Nasional, BPPN, berakhir Lembaga ini dibubarkan berdasarkan Keputusan Presiden.
+Pada 13 Maret 1999, pemerintah membekukan kegiatan usaha 38 bank, mengambil alih tujuh bank, dan menetapkan sembilan bank untuk direkapitalisasi. Pada 27 Februari 2004, Badan Penyehatan Perbankan Nasional, BPPN, berakhir. Lembaga ini dibubarkan berdasarkan Keputusan Presiden.
 
-Pada 2004, Undang-Undang Nomor 24 Tahun 2004 membentuk Lembaga Penjamin Simpanan, LPS. LPS mulai beroperasi pada 22 September 2005
+Pada 2004, Undang-Undang Nomor 24 Tahun 2004 membentuk Lembaga Penjamin Simpanan, LPS. LPS mulai beroperasi pada 22 September 2005.
 
-Dari sisi utang kepada luar negeri, pemerintah melunasi pinjaman IMF lebih awal, pada tahun 2006 Pokok pinjaman sebesar SDR 11,1 miliar sudah lunas, bersama bunga dan biaya sekitar SDR 2,1 miliar.
+Dari sisi utang kepada luar negeri, pemerintah melunasi pinjaman IMF lebih awal, pada tahun 2006. Pokok pinjaman sebesar SDR 11,1 miliar sudah lunas, bersama bunga dan biaya sekitar SDR 2,1 miliar.
 
-Pada 24 Agustus 2026, pemerintah melunasi utang BLBI kepada Bank Indonesia sebesar Rp218,3 triliun
+Pada 24 Agustus 2026, pemerintah melunasi utang BLBI kepada Bank Indonesia sebesar Rp218,3 triliun.
 
 Namun pelunasan itu tidak menutup urusan tagihan kepada para pengutang. Per 31 Desember 2024, piutang yang timbul dari BLBI tercatat sebesar Rp211,96 triliun, menurut Laporan Keuangan Pemerintah Pusat 2024 yang telah diaudit.
 
@@ -466,7 +468,7 @@ Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum meluna
 
 Rupiah melemah lebih dari tiga puluh persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan, dan sebagian penerimanya memperoleh klausul yang masih diperdebatkan.
 
-Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006 Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke OJK
+Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006. Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis. Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah. Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke OJK.
 
 Film ini menutup dengan pertanyaan, bukan kesimpulan. Siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih?
 

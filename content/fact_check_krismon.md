@@ -63,7 +63,7 @@ Muliana 2024 dan IMF LoI 31 Oktober 1997 dibaca langsung oleh pengguna.
 |---|---|---|---|---|
 | R1 | Urutan putusan perkara BLBI (SKL) | Valid | Pengadilan Negeri, 24 September 2018: 13 tahun dan denda Rp700 juta. Pengadilan Tinggi DKI, 2 Januari 2019: 15 tahun dan denda Rp1 miliar. Mahkamah Agung, 9 Juli 2019: terdakwa dibebaskan, dengan pendapat berbeda dari salah satu hakim. | Liputan6 (4 Jan 2019), detik (9 Jul 2019), Hukumonline (9 Jul 2019), Tempo, Muliana 2024 hlm. 364–372 (dibaca langsung oleh pengguna) |
 | R2 | Penyaluran dan potensi kerugian BLBI (audit BPK 2000) | Valid | Penyaluran Rp144,536 triliun ke 48 bank (posisi 29 Januari 1999). Potensi kerugian Rp138,442 triliun. | Kemenkeu via CNBC Indonesia (2021), Tempo, Seknas FITRA (nomor laporan BPK). Tiga sumber independen, keputusan pengguna. |
-| R3 | NPL 1997–98 (catatan koreksi) | Koreksi. Angka 9,7% ke 48,3% di LT hlm 98 adalah aktiva produktif lainnya, bukan NPL. Jangan dipakai sebagai NPL | Angka 32% (Mei 1998) dihapus. Gunakan: naik dari 9,7% ke 48,3% (Maret 1998 ke Maret 1999, BI Laporan Tahunan 1998/99 hlm. 98), dan sekitar 48,6% pada akhir 1998 (beberapa media). | BI Laporan Tahunan 1998/99 hlm. 98; IMF LoI 31 Oktober 1997 (8% pada Juni 1997) |
+| R3 | NPL 1997–98 (catatan koreksi) | Koreksi. Angka 9,7% ke 48,3% di LT hlm 98 adalah aktiva produktif lainnya, bukan NPL. Jangan dipakai sebagai NPL | Angka 32% (Mei 1998) dihapus. Jangan dipakai sebagai NPL; angka 9,7% ke 48,3% adalah aktiva produktif lainnya (Maret 1998 ke Maret 1999, BI Laporan Tahunan 1998/99 hlm. 98), dan sekitar 48,6% pada akhir 1998 (beberapa media). | BI Laporan Tahunan 1998/99 hlm. 98; IMF LoI 31 Oktober 1997 (8% pada Juni 1997) |
 | R4 | Dampak terhadap UMKM | Sebagian valid | Jumlah unit UMKM turun dari 39,8 juta (1997) ke 36,8 juta (1998), sekitar 7,4%, menurut data BPS yang dikutip sumber sekunder. Jumlah tenaga kerja UMKM turun sekitar 1,96%. Klaim usaha tutup belum valid. | Pajakku, Kompaspedia, jurnal Universitas Kanjuruhan, Katadata |
 
 Catatan: nama terdakwa dan pejabat tidak dicantumkan dalam naskah.
@@ -125,9 +125,9 @@ Kalimat penutup yang diusulkan:
 | 2 | Kurs terlemah 1998 | BI Laporan Tahunan 1998/99 (hlm. 21, 77) | Rp16.500 per dolar pada pertengahan Juni 1998. |
 | 3 | Inflasi 1998 | BI Laporan Tahunan 1998/99 (hlm. 10, 35) | Puncak tahunan 82,4% pada September 1998. Inflasi tahunan Desember 1998 sebesar 77,6% tidak dipakai di naskah. |
 | 4 | Utang swasta akhir 1997 | BI (tabel dalam PECC, Anwar Nasution; dikutip Investor.id) | US$82.223 juta dari total US$136.088 juta. Tidak dipakai di naskah (lihat C6). |
-| 5 | NPL 1998–99 | BI Laporan Tahunan 1998/99 (hlm. 98) | Naik dari 9,7% (Maret 1998) ke 48,3% (Maret 1999). |
+| 5 | Aktiva produktif lainnya 1998–99 (bukan NPL) | BI Laporan Tahunan 1998/99 (hlm. 98) | Naik dari 9,7% (Maret 1998) ke 48,3% (Maret 1999). |
 | 6 | Jumlah UMKM 1997–98 | BPS, dikutip Pajakku dan Kompaspedia | Turun dari 39,8 juta ke 36,8 juta unit (−7,4%). |
-| 7 | Kredit macet UKM | BI Laporan Tahunan 1998/99 (hlm. 96) | Naik dari 3,9% ke 9,4%. Kredit lancar turun dari 84,6% ke 77,4%. |
+| 7 | Pangsa kredit macet kredit usaha kecil (KUK), bukan UKM | BI Laporan Tahunan 1998/99 (hlm. 96) | Naik dari 3,9% ke 9,4%. Kredit lancar turun dari 84,6% ke 77,4%. |
 | 8 | Penarikan uang kartal | Simanjuntak 2002 (hlm. 12) | Rp24,9 triliun (akhir Oktober 1997), Rp37,5 triliun (akhir Januari 1998), Rp43,4 triliun (Juli 1998). |
 | 9 | Suku bunga 1998 | Simanjuntak 2002 (hlm. 13) | 40–100% per tahun. |
 
