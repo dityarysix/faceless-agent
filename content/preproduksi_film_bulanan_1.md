@@ -117,7 +117,7 @@ Ketiga tokoh adalah tokoh komposit fiktif yang diberi label sebagai ilustrasi be
 
 ## Struktur 41 menit 30 detik
 
-Durasi target: sekitar 41–42 menit (peta durasi 41:30). Tokoh T1 dan T2 adalah pengusaha komposit fiktif berlabel ilustrasi. T3 adalah mekanisme BLBI, tanpa wajah dan tanpa nama.
+Durasi isi: 41:30. Batas maksimal 42:00, dengan 30 detik cadangan untuk overrun. Tokoh T1 dan T2 adalah pengusaha komposit fiktif berlabel ilustrasi. T3 adalah mekanisme BLBI, tanpa wajah dan tanpa nama.
 
 | Babak | Menit | Durasi | Isi | Peran tokoh | Visual dan jeda |
 |---|---|---|---|---|---|
@@ -127,7 +127,9 @@ Durasi target: sekitar 41–42 menit (peta durasi 41:30). Tokoh T1 dan T2 adalah
 | 4. Mesin BLBI | 21:00–28:30 | 7:30 | Mekanisme BLBI: bantuan likuiditas, klausul *Release and Discharge*, dan pelunasan ke BI. Nilai sekitar Rp148 triliun pada akhir 1998. Potensi kerugian negara dalam audit BPK 2000 sekitar Rp138 triliun (sumber di layar: Kemenkeu via CNBC Indonesia, 2021; audit BPK asli belum dibaca). Pertanyaan "siapa menang" dijawab sebagai mekanisme. | T1 dan T2 menagih harapan. T3 dijelaskan sebagai mekanisme; tagihan sebagian penerima dinyatakan lunas lewat R&D (R-1). | Diagram aliran dana BLBI. Peta mekanisme. Jeda di 28:30. |
 | 5. Pembenahan dan Tagihan | 28:30–36:00 | 7:30 | BPPN dibubarkan 2004. LPS berdiri 2004–2005. IMF dilunasi 2006 (pokok SDR 11,1 miliar, bunga dan biaya SDR 2,1 miliar). BLBI ke BI Rp218,3 triliun (2026), tetapi penagihan obligor belum selesai. | Nasib akhir T1 dan T2 dalam satu adegan masing-masing. T3 tetap terbuka. | Timeline 2004–2026. Kartu angka pelunasan dengan sumber di layar untuk P5, P6, P7 (dengan P13), P9, dan P10. Jeda di 36:00. |
 | 6. Penutup | 36:00–41:30 | 5:30 | Tiga kalimat fakta (IMF, BLBI, pembenahan; tampilkan sumber di layar untuk P6, P9, P10, P13), lalu pertanyaan terbuka: siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih. | T1 dan T2 sebagai bukti. T3 sebagai fakta yang belum selesai. | Layar tipografi penuh untuk tiga kalimat penutup. |
-| Total | | 41:30 | | | |
+| Total isi | | 41:30 | | | |
+| Cadangan overrun | | 0:30 | | | |
+| Batas maksimal | | 42:00 | | | |
 
 Catatan:
 - Babak 2 memuat satu-satunya perkenalan T3, karena mekanisme BLBI dimulai Agustus 1997.
