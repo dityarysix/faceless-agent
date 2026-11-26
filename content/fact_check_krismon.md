@@ -85,3 +85,9 @@ Kalimat penutup yang diusulkan:
 | T-3 | Penerimaan migas Pelita III | Valid | Rata-rata 66,9% dari penerimaan dalam negeri. | Nota Keuangan RAPBN 1989/90 |
 | T-4 | SBPUK | Valid | Rp36,5 triliun kepada 28 bank, akhir Desember 1997. | BI Working Paper 15/2018 hlm. 12 |
 | T-5 | Keputusan pemerintah 3 September 1997 | Valid | Instruksi kepada Menteri Keuangan dan Gubernur BI untuk membantu bank yang kekurangan likuiditas. | Simanjuntak 2002 hlm. 16; Muliana 2024 hlm. 360 |
+
+## Klausul hukum
+
+| ID | Klaim | Status | Angka atau pernyataan | Sumber |
+|---|---|---|---|---|
+| R-1 | Klausul *Release and Discharge* (R&D) dalam penyelesaian BLBI | Valid (sumber jurnal dan media) | Klausul yang menyatakan tagihan BLBI lunas, pemerintah tidak menuntut pidana atas pelanggaran bank, dan jaminan BLBI dilepas. Diterbitkan setelah pelunasan kewajiban bank kepada pemerintah. Kekuatan hukumnya diperdebatkan. | Muliana 2024 hlm. 360; Lex Renaissance (UII); Jurnal Ius Publicum 2023; Hukumonline (cuplikan); Suara.com 2018 (tanpa nama dalam film) |
