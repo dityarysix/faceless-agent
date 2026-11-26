@@ -51,6 +51,7 @@ T2 belum merasakan apa-apa selain harga bahan yang perlahan naik. Ia masih menga
 - Jeda di 6:30.
 
 **Sumber di layar**
+- Kemiskinan: IMF, siaran pers 97/50, 5 November 1997.
 - Kenaikan harga minyak: Federal Reserve History, "Oil Shock of 1978-79".
 - Penerimaan migas: Nota Keuangan RAPBN 1989/90.
 - Deregulasi perbankan 1988: Bank Indonesia, halaman sejarah.
@@ -63,20 +64,21 @@ T2 belum merasakan apa-apa selain harga bahan yang perlahan naik. Ia masih menga
 
 **Narasi**
 
-[LABEL LAYAR: penjelasan umum]
 BLBI adalah bantuan likuiditas darurat dari Bank Indonesia kepada bank yang kesulitan memenuhi kewajibannya kepada nasabah. Bank sentral bertindak sebagai pemberi pinjaman terakhir.
+
+Pada 11 Juli 1997, pita intervensi rupiah dilebarkan dari 8 ke 12 persen, dan pada Agustus rupiah dibiarkan mengambang.
 
 Pada 15 Agustus 1997, Bank Indonesia mulai memberikan fasilitas likuiditas. Fasilitas ini kelak dikenal dengan nama BLBI.
 
 Sekitar tiga minggu kemudian, pada 3 September 1997, keluar instruksi kepada Menteri Keuangan dan Gubernur Bank Indonesia.
 
-Pada 11 Juli 1997, pita intervensi rupiah dilebarkan dari 8 ke 12 persen, dan pada Agustus rupiah dibiarkan mengambang. Sepanjang pertengahan Juli sampai pertengahan Oktober 1997, rupiah melemah lebih dari tiga puluh persen. Dari awal Desember 1997 sampai awal Januari 1998, rupiah turun dari sekitar Rp3.700 menjadi sekitar Rp8.000 per dolar.
+Sepanjang pertengahan Juli sampai pertengahan Oktober 1997, rupiah melemah lebih dari tiga puluh persen.
 
 Pada 1 November 1997, enam belas bank ditutup.
 
 Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia (sumber di layar: IMF, siaran pers).
 
-Pada akhir Desember 1997, SBPUK sebesar Rp36,5 triliun diberikan kepada dua puluh delapan bank.
+Pada akhir Desember 1997, SBPUK sebesar Rp36,5 triliun diberikan kepada dua puluh delapan bank. Dari awal Desember 1997 sampai awal Januari 1998, rupiah turun dari sekitar Rp3.700 menjadi sekitar Rp8.000 per dolar.
 
 Istilah BLBI baru resmi dipakai pada 15 Januari 1998.
 
@@ -108,7 +110,7 @@ Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia berceri
 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
-- Peta waktu Agustus sampai Januari, dengan kartu tanggal.
+- Peta waktu Juli 1997 sampai Januari 1998, dengan kartu tanggal.
 - Kartu angka: 16 bank ditutup, Rp36,5 triliun SBPUK kepada 28 bank.
 - Kartu tokoh T1 dan T2, masing-masing dengan label "ilustrasi, tokoh fiktif".
 - Jeda di 14:00.
@@ -116,13 +118,13 @@ Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia berceri
 **Sumber di layar**
 - Fasilitas 15 Agustus 1997, istilah BLBI 15 Januari 1998: Bank Indonesia Working Paper 15/2018.
 - Definisi BLBI: IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani (media.neliti.com).
-- Instruksi 3 September 1997: Simanjuntak 2002, hlm. 16.
+- Instruksi 3 September 1997: Simanjuntak 2002.
 - Rupiah melemah lebih dari 30%: IMF Letter of Intent, 31 Oktober 1997.
-- Pita intervensi dan kurs mengambang: IMF Letter of Intent, 31 Oktober 1997; BI Working Paper 15/2018, hlm. 5.
+- Pita intervensi dan kurs mengambang: IMF Letter of Intent, 31 Oktober 1997; BI Working Paper 15/2018.
 - Rupiah Rp3.700 ke Rp8.000: IMF Letter of Intent, 15 Januari 1998.
 - 16 bank ditutup: IMF Letter of Intent, 31 Oktober 1997.
 - Stand-by IMF 5 November 1997: IMF, siaran pers 5 November 1997.
-- SBPUK Rp36,5 triliun: Bank Indonesia Working Paper 15/2018, hlm. 12.
+- SBPUK Rp36,5 triliun: Bank Indonesia Working Paper 15/2018.
 
 **ID ledger:** C8, T-5, T-1, C5, C3, T-4.
 
@@ -132,7 +134,7 @@ Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia berceri
 
 Pada pertengahan Juni 1998, nilai tukar mencapai sekitar Rp16.500 per dolar Amerika.
 
-Pada 1998, pengangguran terbuka naik dari 4,3 juta menjadi 5,1 juta orang, dan 108.363 pekerja tercatat di-PHK secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen.
+Pengangguran terbuka naik dari 4,3 juta pada 1997 menjadi 5,1 juta pada 1998, dan 108.363 pekerja tercatat di-PHK secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen antara Maret 1998 dan Februari 1999.
 
 Pada September 1998, inflasi tahunan mencapai puncaknya di angka 82,4 persen. Harga barang naik, dan uang yang tersisa di tangan orang bernilai semakin kecil.
 
@@ -175,11 +177,11 @@ T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang ma
 - Jeda di 21:00.
 
 **Sumber di layar**
-- Rupiah Rp16.500: Bank Indonesia Laporan Tahunan 1998/99, hlm. 21.
-- Inflasi 82,4 persen: Bank Indonesia Laporan Tahunan 1998/99, hlm. 10.
-- Pengangguran dan PHK: Bank Indonesia Laporan Tahunan 1998/99, hlm. 46.
-- Rasio kecukupan modal: Bank Indonesia Laporan Tahunan 1998/99, hlm. 22.
-- PDB minus 13,7 persen: Bank Indonesia Laporan Tahunan 1998/99, hlm. 20.
+- Rupiah Rp16.500: Bank Indonesia Laporan Tahunan 1998/99.
+- Inflasi 82,4 persen: Bank Indonesia Laporan Tahunan 1998/99.
+- Pengangguran dan PHK: Bank Indonesia Laporan Tahunan 1998/99.
+- Rasio kecukupan modal: Bank Indonesia Laporan Tahunan 1998/99.
+- PDB minus 13,7 persen: Bank Indonesia Laporan Tahunan 1998/99.
 
 **ID ledger:** C2, C4, C1.
 
@@ -187,11 +189,13 @@ T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang ma
 
 **Narasi**
 
-[LABEL LAYAR: penjelasan umum] BLBI adalah bantuan likuiditas darurat dari Bank Indonesia.
+BLBI adalah bantuan likuiditas darurat dari Bank Indonesia.
 
 Nilai BLBI sekitar Rp148,8 triliun pada akhir Mei 1998, dan sekitar Rp153,5 triliun pada Desember 1998.
 
-Pada 4 Juni 1998, pemerintah menyelesaikan kewajiban kepada kreditur luar negeri melalui kesepakatan Frankfurt. Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun. Audit BPK tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
+Sesuai kesepakatan Frankfurt pada 4 Juni 1998, pemerintah membayar tunggakan utang antarbank dan pembiayaan perdagangan kepada kreditur luar negeri.
+
+Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun, lalu turun menjadi sekitar Rp153,5 triliun pada Desember 1998. Audit BPK tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
 
 Dalam penyelesaiannya, sebagian penerima BLBI memperoleh klausul yang disebut *Release and Discharge*, atau R&D. Klausul ini menyatakan bahwa tagihan dinyatakan lunas, dan pemerintah tidak menuntut pidana atas pelanggaran bank. Jaminan BLBI pun dilepas. R&D diterbitkan setelah kewajiban bank kepada pemerintah dilunasi.
 
@@ -222,14 +226,14 @@ Di ruang rapat rumah produksi, T2 bertanya kepada karyawannya: siapa yang masih 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Diagram aliran dana BLBI: bank, Bank Indonesia, pemerintah, dan tagihan. Tanpa wajah atau nama.
-- Kartu Rp148 triliun dan Rp138 triliun, dengan label sumber.
+- Kartu Rp148,8 triliun (Mei 1998), Rp177,1 triliun (Juli 1998), Rp153,5 triliun (Desember 1998), dan Rp138 triliun, dengan label sumber dan tanggal.
 - Kartu tokoh T1 dan T2, masing-masing dengan label "ilustrasi, tokoh fiktif".
 - Jeda di 28:30.
 
 **Sumber di layar**
-- Nilai BLBI 1998: Laporan Tahunan Bank Indonesia 1998/99, hlm. 80–81.
+- Nilai BLBI 1998: Laporan Tahunan Bank Indonesia 1998/99.
 - Potensi kerugian Rp138 triliun: Kementerian Keuangan melalui CNBC Indonesia (2021).
-- BLBI Rp177,1 triliun dan kesepakatan Frankfurt: Bank Indonesia Laporan Tahunan 1998/99, hlm. 80–81.
+- BLBI Rp177,1 triliun dan kesepakatan Frankfurt: Bank Indonesia Laporan Tahunan 1998/99.
 - Klausul R&D: Lex Renaissance UII; Jurnal Ius Publicum 2023.
 - Definisi BLBI (jika dipakai di babak ini): IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani (media.neliti.com).
 
@@ -283,9 +287,9 @@ T2 mengantar anaknya ke sekolah dan melewati toko-toko yang dulu menjadi pelangg
 - LPS dibentuk UU 24/2004, beroperasi 22 September 2005: UU 24/2004.
 - Pelunasan dini pinjaman IMF: IMF, siaran pers 6 Oktober 2006; tabel transaksi IMF untuk angka SDR. Tanggal pelunasan ditulis hanya 2006.
 - Pelunasan BLBI Rp218,3 triliun: CNBC Indonesia, Kompas TV.
-- Piutang Rp211,96 triliun: LKPP 2024 (audited), CaLK hlm. 137.
-- Rincian piutang: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi (LKPP 2024, CaLK hlm. 137).
-- Pembekuan 38 bank, 7 diambil alih, 9 direkapitalisasi: Bank Indonesia Laporan Tahunan 1998/99, hlm. 17.
+- Piutang Rp211,96 triliun: LKPP 2024 (audited), CaLK.
+- Rincian piutang: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi (LKPP 2024, CaLK).
+- Pembekuan 38 bank, 7 diambil alih, 9 direkapitalisasi: Bank Indonesia Laporan Tahunan 1998/99.
 
 **ID ledger:** P9, P10, P1–P3, P5, P6, P13.
 
@@ -295,7 +299,7 @@ T2 mengantar anaknya ke sekolah dan melewati toko-toko yang dulu menjadi pelangg
 
 Rupiah melemah lebih dari tiga puluh persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan, dan sebagian penerimanya memperoleh klausul yang sampai hari ini masih diperdebatkan.
 
-Ada tiga hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006 (sumber di layar: IMF, siaran pers). Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah (Pasal 56 ayat (1)). Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis (sumber di layar: UU 24/2004). Sejak 31 Desember 2013, pengawasan perbankan beralih dari Bank Indonesia ke OJK (UU 21/2011, Pasal 55).
+Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006 (sumber di layar: IMF, siaran pers). Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis (sumber di layar: UU 24/2004). Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah (sumber di layar: UU 23/1999, Pasal 56 ayat (1)). Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke OJK (sumber di layar: UU 21/2011, Pasal 55 ayat (2)).
 
 Film ini menutup dengan pertanyaan, bukan kesimpulan. Siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih?
 
@@ -313,7 +317,7 @@ T2 berdiri di depan rak kecil di warungnya sendiri. Di sana ada beberapa batang 
 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
-- Layar tipografi penuh untuk tiga hal yang sudah dilihat.
+- Layar tipografi penuh untuk lima hal yang sudah dilihat.
 - Layar tanya terakhir, tanpa kesimpulan tambahan.
 - Logo kanal.
 
@@ -322,5 +326,7 @@ T2 berdiri di depan rak kecil di warungnya sendiri. Di sana ada beberapa batang 
 - Pelunasan BLBI: CNBC Indonesia, Kompas TV.
 - Piutang Rp211,96 triliun: LKPP 2024 (audited).
 - LPS: UU 24/2004.
+- Larangan kredit BI kepada pemerintah: UU 23/1999, Pasal 56 ayat (1).
+- Pengawasan perbankan ke OJK: UU 21/2011, Pasal 55 ayat (2).
 
 **ID ledger:** P2, P5, P6, P9, P10, P13.
