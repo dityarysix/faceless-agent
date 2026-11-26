@@ -114,3 +114,21 @@ Ketiga tokoh adalah tokoh komposit fiktif yang diberi label sebagai ilustrasi be
 ### Belum diputuskan
 - Sensitivitas: persetujuan usulan di atas, atau revisi.
 - Plafon kredit untuk film ini.
+
+## Struktur 40 menit
+
+Durasi target: sekitar 40 menit. Tokoh T1 dan T2 adalah pengusaha komposit fiktif berlabel ilustrasi. T3 adalah mekanisme BLBI, tanpa wajah dan tanpa nama.
+
+| Babak | Menit | Durasi | Isi | Peran tokoh | Visual dan jeda |
+|---|---|---|---|---|---|
+| 1. Pembuka | 0:00–6:00 | 6:00 | Hook dan pertanyaan sentral (0:00–0:30). Oil boom dan Pakto 1988 (0:30–2:30). Memasuki krisis: rupiah melemah, utang dolar jangka pendek tanpa lindung nilai (2:30–4:00). Perkenalan T1 dan T2 secara lengkap (4:00–6:00). | T1 dan T2 diperkenalkan dengan pembeda nasib sebelum krisis. T3 belum disebut. | Grafik minyak dunia, penerimaan migas (Pelita III 66,9%), dan utang luar negeri. Jeda di 6:00. |
+| 2. Rupiah Runtuh | 6:00–13:30 | 7:30 | Agustus 1997: fasilitas likuiditas BI mulai. 3 September: instruksi kepada pemerintah dan BI. Rupiah melemah lebih dari 30% dalam tiga bulan. 1 November: 16 bank ditutup. Akhir 1997: SBPUK Rp36,5 triliun kepada 28 bank. | T1 menghadapi kredit dan pembiayaan dagang macet. T2 kehilangan akses kredit. T3 diperkenalkan sebagai mekanisme respons. | Peta waktu Agustus–Desember 1997. Kartu angka 16 bank. Jeda di 13:30. |
+| 3. Puncak 1998 | 13:30–20:30 | 7:00 | IMF stand-by SDR 7,3 miliar tidak langsung menenangkan pasar. Rupiah menyentuh Rp16.500 pada pertengahan Juni. Inflasi tahunan puncak 82,4% (September). PDB −13,7%. Tabungan ditarik dari bank. | Usaha T1 dan T2 runtuh. | Grafik kurs dan inflasi berdampingan. Kartu PDB. Jeda di 20:30. |
+| 4. Mesin BLBI | 20:30–28:00 | 7:30 | Mekanisme BLBI: bantuan likuiditas, klausul *Release and Discharge*, dan pelunasan ke BI. Nilai sekitar Rp148 triliun (revisi Rp144,54 triliun, Februari 1999). Potensi kerugian negara dalam audit BPK 2000 sekitar Rp138 triliun. Pertanyaan "siapa menang" dijawab sebagai mekanisme. | T1 dan T2 menagih harapan. T3 dijelaskan sebagai kelompok penerima yang kewajibannya dihapus. | Diagram aliran dana BLBI. Peta mekanisme. Jeda di 28:00. |
+| 5. Pembenahan dan Tagihan | 28:00–35:00 | 7:00 | BPPN dibubarkan 2004. LPS berdiri 2004–2005. IMF dilunasi 2006 (pokok SDR 11,1 miliar, bunga SDR 2,1 miliar). BLBI ke BI Rp218,3 triliun (2026), tetapi penagihan obligor belum selesai. | Nasib akhir T1 dan T2 dalam satu adegan masing-masing. T3 tetap terbuka. | Timeline 2004–2026. Kartu angka pelunasan. Jeda di 35:00. |
+| 6. Penutup | 35:00–40:00 | 5:00 | Jawaban pertanyaan sentral dengan tiga kalimat: IMF, BLBI, dan pembenahan. Pertanyaan terbuka: penagihan belum tuntas. | T1 dan T2 sebagai bukti. T3 sebagai fakta yang belum selesai. | Layar tipografi penuh untuk tiga kalimat penutup. |
+| Total | | 40:00 | | | |
+
+Catatan:
+- Babak 2 memuat satu-satunya perkenalan T3, karena mekanisme BLBI dimulai Agustus 1997.
+- Semua angka dan tanggal sudah tercatat di ledger. Nasib T1 dan T2 adalah bagian fiktif berlabel ilustrasi.
