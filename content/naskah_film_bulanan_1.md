@@ -13,7 +13,7 @@ Selama sebagian besar tahun 1990-an, rupiah relatif stabil. Lalu pada tahun 1997
 
 Film ini bertanya satu hal. Siapa yang menang dan siapa yang kalah dari krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?
 
-Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat (sumber di layar: Federal Reserve History). Pada Pelita III, penerimaan migas rata-rata 66,9 persen dari penerimaan dalam negeri.
+Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat Pada Pelita III, penerimaan migas rata-rata 66,9 persen dari penerimaan dalam negeri.
 
 Pada 27 Oktober 1988, pemerintah mempermudah pendirian bank baru. Dalam beberapa dekade sebelum krisis, kemiskinan turun dari lebih 60 persen di akhir 1960-an menjadi 11 persen di pertengahan 1990-an.
 
@@ -92,7 +92,7 @@ Sepanjang pertengahan Juli sampai pertengahan Oktober 1997, rupiah melemah lebih
 
 Pada 1 November 1997, enam belas bank ditutup.
 
-Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia (sumber di layar: IMF, siaran pers).
+Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia
 
 Pada akhir Desember 1997, SBPUK sebesar Rp36,5 triliun diberikan kepada dua puluh delapan bank. Dari awal Desember 1997 sampai awal Januari 1998, rupiah turun dari sekitar Rp3.700 menjadi sekitar Rp8.000 per dolar.
 
@@ -241,6 +241,8 @@ Pagi itu T2 berdiri di depan para pekerja dan menyampaikan kabar yang sudah ia p
 
 Malam terakhir di gudang, lampu neon padam satu per satu. T1 tidak menyalakannya lagi. Ia duduk di kursi kayu, mendengarkan suara jangkrik dari luar, dan memikirkan bagaimana usaha sekecil itu bisa dibangun dengan begitu banyak harapan.
 
+Untuk usaha kecil, kredit macet naik dari 3,9 persen menjadi 9,4 persen dalam periode yang sama. Jumlah usaha mikro, kecil, dan menengah turun dari 39,8 juta unit pada 1997 menjadi 36,8 juta unit pada 1998, menurut angka BPS yang dikutip media.
+
 **Adegan T2, pesan dari bank yang tidak datang**
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
@@ -256,13 +258,15 @@ T2 menunggu telepon dari bank sepanjang sore. Telepon itu tidak pernah datang. K
 - Jeda di 21:00.
 
 **Sumber di layar**
+- Kredit usaha kecil macet: Bank Indonesia Laporan Tahunan 1998/99, hlm. 96 (ledger B7).
+- Jumlah UMKM: BPS, dikutip media (ledger R4).
 - Rupiah Rp16.500: Bank Indonesia Laporan Tahunan 1998/99.
 - Inflasi 82,4 persen: Bank Indonesia Laporan Tahunan 1998/99.
 - Pengangguran dan PHK: Bank Indonesia Laporan Tahunan 1998/99.
 - Rasio kecukupan modal: Bank Indonesia Laporan Tahunan 1998/99.
 - PDB minus 13,7 persen: Bank Indonesia Laporan Tahunan 1998/99.
 
-**ID ledger:** C2, C4, C1, F-4, F-5, F-6.
+**ID ledger:** C2, C4, C1, F-4, F-5, F-6, B7, R4.
 
 ## Babak 4: Mesin BLBI (21:00–28:30)
 
@@ -367,13 +371,13 @@ T1 membaca dokumen perjanjian sewa dengan teliti. Ada pasal yang menyebut jamina
 
 **Narasi**
 
-Pada 13 Maret 1999, pemerintah membekukan kegiatan usaha 38 bank, mengambil alih tujuh bank, dan menetapkan sembilan bank untuk direkapitalisasi. Pada 27 Februari 2004, Badan Penyehatan Perbankan Nasional, BPPN, berakhir (sumber di layar: Keppres 15/2004). Lembaga ini dibubarkan berdasarkan Keputusan Presiden.
+Pada 13 Maret 1999, pemerintah membekukan kegiatan usaha 38 bank, mengambil alih tujuh bank, dan menetapkan sembilan bank untuk direkapitalisasi. Pada 27 Februari 2004, Badan Penyehatan Perbankan Nasional, BPPN, berakhir Lembaga ini dibubarkan berdasarkan Keputusan Presiden.
 
-Pada 2004, Undang-Undang Nomor 24 Tahun 2004 membentuk Lembaga Penjamin Simpanan, LPS. LPS mulai beroperasi pada 22 September 2005 (sumber di layar: UU 24/2004).
+Pada 2004, Undang-Undang Nomor 24 Tahun 2004 membentuk Lembaga Penjamin Simpanan, LPS. LPS mulai beroperasi pada 22 September 2005
 
-Dari sisi utang kepada luar negeri, pemerintah melunasi pinjaman IMF lebih awal, pada tahun 2006 (sumber di layar: IMF, siaran pers). Pokok pinjaman sebesar SDR 11,1 miliar sudah lunas, bersama bunga dan biaya sekitar SDR 2,1 miliar.
+Dari sisi utang kepada luar negeri, pemerintah melunasi pinjaman IMF lebih awal, pada tahun 2006 Pokok pinjaman sebesar SDR 11,1 miliar sudah lunas, bersama bunga dan biaya sekitar SDR 2,1 miliar.
 
-Pada 24 Agustus 2026, pemerintah melunasi utang BLBI kepada Bank Indonesia sebesar Rp218,3 triliun (sumber di layar: CNBC Indonesia; Kompas TV).
+Pada 24 Agustus 2026, pemerintah melunasi utang BLBI kepada Bank Indonesia sebesar Rp218,3 triliun
 
 Namun pelunasan itu tidak menutup urusan tagihan kepada para pengutang. Per 31 Desember 2024, piutang yang timbul dari BLBI tercatat sebesar Rp211,96 triliun, menurut Laporan Keuangan Pemerintah Pusat 2024 yang telah diaudit.
 
@@ -435,6 +439,8 @@ Di pasar, T1 bertemu mantan karyawannya. Mereka bercakap sebentar tentang kabar 
 
 
 
+Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum melunasi kewajiban, dengan nilai Rp211,02 triliun. Angka ini dikutip beberapa media dari IHPS II-2025.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Timeline 2004 sampai 2026.
@@ -443,6 +449,7 @@ Di pasar, T1 bertemu mantan karyawannya. Mereka bercakap sebentar tentang kabar 
 - Jeda di 36:00.
 
 **Sumber di layar**
+- Debitur eks-BLBI belum lunas per 30 Juni 2025: BPK, IHPS II-2025, dikutip media (ledger P8).
 - BPPN berakhir 27 Februari 2004: Keputusan Presiden 15/2004.
 - LPS dibentuk UU 24/2004, beroperasi 22 September 2005: UU 24/2004.
 - Pelunasan dini pinjaman IMF: IMF, siaran pers 6 Oktober 2006; tabel transaksi IMF untuk angka SDR. Tanggal pelunasan ditulis hanya 2006.
@@ -451,7 +458,7 @@ Di pasar, T1 bertemu mantan karyawannya. Mereka bercakap sebentar tentang kabar 
 - Rincian piutang: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi (LKPP 2024, CaLK).
 - Pembekuan 38 bank, 7 diambil alih, 9 direkapitalisasi: Bank Indonesia Laporan Tahunan 1998/99.
 
-**ID ledger:** P9, P10, P1–P3, P5, P6, P13, F-9, F-10.
+**ID ledger:** P9, P10, P1–P3, P5, P6, P8, P13, F-9, F-10.
 
 ## Babak 6: Penutup (36:00–41:30)
 
@@ -459,7 +466,7 @@ Di pasar, T1 bertemu mantan karyawannya. Mereka bercakap sebentar tentang kabar 
 
 Rupiah melemah lebih dari tiga puluh persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan, dan sebagian penerimanya memperoleh klausul yang masih diperdebatkan.
 
-Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006 (sumber di layar: IMF, siaran pers). Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis (sumber di layar: UU 24/2004). Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah (sumber di layar: UU 23/1999, Pasal 56 ayat (1)). Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke OJK (sumber di layar: UU 21/2011, Pasal 55 ayat (2)).
+Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006 Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke OJK
 
 Film ini menutup dengan pertanyaan, bukan kesimpulan. Siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih?
 
