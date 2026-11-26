@@ -241,10 +241,6 @@ Pagi itu T2 berdiri di depan para pekerja dan menyampaikan kabar yang sudah ia p
 
 Malam terakhir di gudang, lampu neon padam satu per satu. T1 tidak menyalakannya lagi. Ia duduk di kursi kayu, mendengarkan suara jangkrik dari luar, dan memikirkan bagaimana usaha sekecil itu bisa dibangun dengan begitu banyak harapan.
 
-Pada Maret 1998, rasio kredit bermasalah di perbankan masih sekitar 9,7 persen. Setahun kemudian, pada Maret 1999, angkanya naik menjadi 48,3 persen. Untuk usaha kecil dan menengah, kredit macet naik dari 3,9 persen menjadi 9,4 persen dalam periode yang sama.
-
-Jumlah usaha mikro, kecil, dan menengah turun dari 39,8 juta unit pada 1997 menjadi 36,8 juta unit pada 1998, menurut angka BPS yang dikutip media.
-
 **Adegan T2, pesan dari bank yang tidak datang**
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
@@ -260,15 +256,13 @@ T2 menunggu telepon dari bank sepanjang sore. Telepon itu tidak pernah datang. K
 - Jeda di 21:00.
 
 **Sumber di layar**
-- Rasio kredit bermasalah dan kredit macet UKM: Bank Indonesia Laporan Tahunan 1998/99 dan Working Paper 15/2018 (ledger R3, B7).
-- Jumlah UMKM: BPS, dikutip media (ledger R4).
 - Rupiah Rp16.500: Bank Indonesia Laporan Tahunan 1998/99.
 - Inflasi 82,4 persen: Bank Indonesia Laporan Tahunan 1998/99.
 - Pengangguran dan PHK: Bank Indonesia Laporan Tahunan 1998/99.
 - Rasio kecukupan modal: Bank Indonesia Laporan Tahunan 1998/99.
 - PDB minus 13,7 persen: Bank Indonesia Laporan Tahunan 1998/99.
 
-**ID ledger:** C2, C4, C1, F-4, F-5, F-6, R3, B7, R4.
+**ID ledger:** C2, C4, C1, F-4, F-5, F-6.
 
 ## Babak 4: Mesin BLBI (21:00–28:30)
 
@@ -308,7 +302,7 @@ Penasihat hukum T1 datang dengan map tebal berisi kontrak sewa gudang. Ia menjel
 
 Di ruang rapat rumah produksi, T2 bertanya kepada karyawannya: siapa yang masih mau bekerja sampai bulan depan. Beberapa mengangkat tangan, beberapa menunduk. T2 tidak menyalahkan siapa pun. Ia hanya ingin tahu siapa yang akan tinggal.
 
-dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu,.
+dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu.
 
 **Adegan T1, surat pemberitahuan**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -439,7 +433,6 @@ Seorang pemilik warung baru di pinggir kota datang mencari sabun untuk dijual. T
 
 Di pasar, T1 bertemu mantan karyawannya. Mereka bercakap sebentar tentang kabar keluarga. Mantan karyawan itu sudah bekerja di tempat lain dan tampak baik-baik saja. T1 merasa lega, meski tidak bisa menjelaskan kenapa.
 
-Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum melunasi kewajiban, dengan nilai Rp211,02 triliun. Angka ini dikutip beberapa media dari IHPS II-2025.
 
 
 **Visual dan jeda**
@@ -450,7 +443,6 @@ Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum meluna
 - Jeda di 36:00.
 
 **Sumber di layar**
-- Debitur eks-BLBI belum lunas per 30 Juni 2025: BPK, IHPS II-2025, dikutip media (ledger P8).
 - BPPN berakhir 27 Februari 2004: Keputusan Presiden 15/2004.
 - LPS dibentuk UU 24/2004, beroperasi 22 September 2005: UU 24/2004.
 - Pelunasan dini pinjaman IMF: IMF, siaran pers 6 Oktober 2006; tabel transaksi IMF untuk angka SDR. Tanggal pelunasan ditulis hanya 2006.
@@ -459,7 +451,7 @@ Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum meluna
 - Rincian piutang: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi (LKPP 2024, CaLK).
 - Pembekuan 38 bank, 7 diambil alih, 9 direkapitalisasi: Bank Indonesia Laporan Tahunan 1998/99.
 
-**ID ledger:** P9, P10, P1–P3, P5, P6, P8, P13, F-9, F-10.
+**ID ledger:** P9, P10, P1–P3, P5, P6, P13, F-9, F-10.
 
 ## Babak 6: Penutup (36:00–41:30)
 
