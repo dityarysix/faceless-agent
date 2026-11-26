@@ -68,8 +68,8 @@ Catatan: nama terdakwa dan pejabat tidak dicantumkan dalam naskah.
 | P8 | Jumlah obligor yang sudah dan belum lunas | Belum valid | Tidak ditemukan. Perlu data dari DJKN atau PUPN. |
 | P9 | BPPN dibubarkan | Valid | Keppres 15/2004, berakhir 27 Februari 2004. Sumber sekunder. |
 | P10 | LPS dibentuk | Valid | UU 24/2004, mulai beroperasi 22 September 2005. Sumber sekunder. |
-| P11 | Independensi BI (UU 23/1999) dan peran DPR | Belum valid | Belum ditemukan rincian dari sumber yang bisa dibuka. |
-| P12 | OJK dibentuk | Belum valid | Sumber menyebut UU 6/2009. Perlu dicek ke JDIH, karena biasanya dikaitkan dengan UU 21/2011. |
+| P11 | Independensi BI (UU 23/1999) dan peran DPR | Valid | Pasal 4 ayat (2) UU 23/1999 (teks asli 1999): "Bank Indonesia adalah lembaga negara yang independen, bebas dari campur tangan Pemerintah dan/atau pihak-pihak lainnya, kecuali untuk hal-hal yang secara tegas diatur dalam undang-undang ini." Pasal 41 ayat (1): Gubernur dan Deputi Gubernur Senior diangkat dengan persetujuan DPR. Pasal 59: pemeriksaan khusus BPK atas permintaan DPR. Sumber: teks UU dari PDF resmi BI (bi.go.id). Catatan: UU ini sudah beberapa kali diubah. |
+| P12 | OJK dibentuk | Valid | UU 21/2011, disahkan dan diundangkan 22 November 2011, berlaku sejak tanggal diundangkan (teks UU dalam anotasi DPR; ojk.go.id). Kata Pengantar anotasi DPR menulis 21 November, itu salah tulis. UU 6/2009 menetapkan Perppu 2/2008 (Perubahan Kedua UU BI) menjadi UU. UU itu bukan pembentuk OJK. Amanat pembentukan lembaga pengawas berasal dari Pasal 34 UU 23/1999 (tenggat 31 Desember 2002). |
 
 Kalimat penutup yang diusulkan:
 - IMF: "Indonesia meminjam sekitar 11 miliar SDR dari IMF, lalu mengembalikan seluruh pokoknya beserta sekitar 2 miliar SDR bunga dan biaya, hingga lunas pada 2006."
