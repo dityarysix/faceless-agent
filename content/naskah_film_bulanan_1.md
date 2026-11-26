@@ -109,7 +109,7 @@ Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia berceri
 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
-- Peta waktu Agustus sampai Januari, dengan kartu tanggal.
+- Peta waktu Juli 1997 sampai Januari 1998, dengan kartu tanggal.
 - Kartu angka: 16 bank ditutup, Rp36,5 triliun SBPUK kepada 28 bank.
 - Kartu tokoh T1 dan T2, masing-masing dengan label "ilustrasi, tokoh fiktif".
 - Jeda di 14:00.
@@ -121,7 +121,6 @@ Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia berceri
 - Rupiah melemah lebih dari 30%: IMF Letter of Intent, 31 Oktober 1997.
 - Pita intervensi dan kurs mengambang: IMF Letter of Intent, 31 Oktober 1997; BI Working Paper 15/2018.
 - Rupiah Rp3.700 ke Rp8.000: IMF Letter of Intent, 15 Januari 1998.
-- Kemiskinan: IMF, siaran pers 97/50, 5 November 1997.
 - 16 bank ditutup: IMF Letter of Intent, 31 Oktober 1997.
 - Stand-by IMF 5 November 1997: IMF, siaran pers 5 November 1997.
 - SBPUK Rp36,5 triliun: Bank Indonesia Working Paper 15/2018.
@@ -134,7 +133,7 @@ Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia berceri
 
 Pada pertengahan Juni 1998, nilai tukar mencapai sekitar Rp16.500 per dolar Amerika.
 
-Pada 1998, pengangguran terbuka naik dari 4,3 juta menjadi 5,1 juta orang, dan 108.363 pekerja tercatat di-PHK secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen antara Maret 1998 dan Februari 1999.
+Pengangguran terbuka naik dari 4,3 juta pada 1997 menjadi 5,1 juta pada 1998, dan 108.363 pekerja tercatat di-PHK secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen antara Maret 1998 dan Februari 1999.
 
 Pada September 1998, inflasi tahunan mencapai puncaknya di angka 82,4 persen. Harga barang naik, dan uang yang tersisa di tangan orang bernilai semakin kecil.
 
@@ -179,6 +178,7 @@ T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang ma
 **Sumber di layar**
 - Rupiah Rp16.500: Bank Indonesia Laporan Tahunan 1998/99.
 - Inflasi 82,4 persen: Bank Indonesia Laporan Tahunan 1998/99.
+- Kemiskinan: IMF, siaran pers 97/50, 5 November 1997.
 - Pengangguran dan PHK: Bank Indonesia Laporan Tahunan 1998/99.
 - Rasio kecukupan modal: Bank Indonesia Laporan Tahunan 1998/99.
 - PDB minus 13,7 persen: Bank Indonesia Laporan Tahunan 1998/99.
@@ -317,7 +317,7 @@ T2 berdiri di depan rak kecil di warungnya sendiri. Di sana ada beberapa batang 
 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
-- Layar tipografi penuh untuk tiga hal yang sudah dilihat.
+- Layar tipografi penuh untuk lima hal yang sudah dilihat.
 - Layar tanya terakhir, tanpa kesimpulan tambahan.
 - Logo kanal.
 
@@ -326,5 +326,7 @@ T2 berdiri di depan rak kecil di warungnya sendiri. Di sana ada beberapa batang 
 - Pelunasan BLBI: CNBC Indonesia, Kompas TV.
 - Piutang Rp211,96 triliun: LKPP 2024 (audited).
 - LPS: UU 24/2004.
+- Larangan kredit BI kepada pemerintah: UU 23/1999, Pasal 56 ayat (1).
+- Pengawasan perbankan ke OJK: UU 21/2011, Pasal 55 ayat (2).
 
 **ID ledger:** P2, P5, P6, P9, P10, P13.
