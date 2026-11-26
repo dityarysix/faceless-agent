@@ -131,4 +131,4 @@ Durasi target: sekitar 40 menit. Tokoh T1 dan T2 adalah pengusaha komposit fikti
 
 Catatan:
 - Babak 2 memuat satu-satunya perkenalan T3, karena mekanisme BLBI dimulai Agustus 1997.
-- Semua angka dan tanggal sudah tercatat di ledger. Nasib T1 dan T2 adalah bagian fiktif berlabel ilustrasi.
+- Angka yang belum ada di ledger tercantum di treatment. Nasib T1 dan T2 adalah bagian fiktif berlabel ilustrasi.
