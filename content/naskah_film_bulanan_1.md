@@ -124,7 +124,7 @@ Siang itu, T1 duduk di ruang tamu pemasok kayu di kota sebelah. Pemasoknya menaw
 
 Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia bercerita bahwa beberapa toko langganannya sudah menunda pembelian. T2 menawarkan diskon kecil supaya stok tetap bergerak. Distributor itu setuju, tetapi keduanya tahu diskon itu hanya menunda masalah. Setelah ia pergi, T2 duduk sebentar di bangku dekat jendela dan menghitung, sekali lagi, berapa karyawan yang bisa ia pertahankan.
 
-ketika bank kehilangan kepercayaan, nasabah cenderung mengambil dana lebih cepat. Bank yang punya aset panjang dan kewajiban pendek bisa kesulitan memenuhi penarikan, meskipun asetnya sendiri sebenarnya masih ada.
+Ketika bank kehilangan kepercayaan, nasabah cenderung mengambil dana lebih cepat. Bank yang punya aset panjang dan kewajiban pendek bisa kesulitan memenuhi penarikan, meskipun asetnya sendiri sebenarnya masih ada.
 
 **Adegan T1, pertemuan dengan bank di akhir 1997**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -183,7 +183,7 @@ Pada September 1998, inflasi tahunan mencapai puncaknya di angka 82,4 persen. Ha
 Menurut catatan Bank Indonesia, ekonomi Indonesia turun 13,7 persen pada 1998.
 
 
-Pada kredit usaha kecil, porsi kredit macet naik dari 3,9 persen menjadi 9,4 persen antara akhir tahun buku 1997/98 dan 1998/99.
+Pada kredit usaha kecil, pangsa kredit macet naik dari 3,9 persen menjadi 9,4 persen antara akhir tahun buku 1997/98 dan 1998/99.
 
 **Adegan T1, Juni 1998**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -212,9 +212,9 @@ Di warung dekat rumah produksi, T2 melihat seorang ibu menghitung rupiah di tela
 
 T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang masih ada. Ia menjelaskan siapa yang masih bekerja dan siapa yang harus pulang sementara. Tidak ada yang bertanya lebih jauh. Semua tahu bahwa tanggal berikutnya belum pasti.
 
-angka pengangguran terbuka hanya menghitung orang yang sedang mencari kerja. Orang yang berhenti mencari, atau bekerja sedikit jam, tidak selalu ikut terhitung. Karena itu, angka PHK sering dibaca sebagai batas bawah.
+Angka pengangguran terbuka hanya menghitung orang yang sedang mencari kerja. Orang yang berhenti mencari, atau bekerja sedikit jam, tidak selalu ikut terhitung. Karena itu, angka PHK sering dibaca sebagai batas bawah.
 
-rasio kecukupan modal adalah perbandingan modal bank terhadap aset berisiko. Rasio yang turun berarti bank punya ruang yang lebih kecil untuk menyerap kerugian.
+Rasio kecukupan modal adalah perbandingan modal bank terhadap aset berisiko. Rasio yang turun berarti bank punya ruang yang lebih kecil untuk menyerap kerugian.
 
 **Adegan T1, bongkar gudang**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -308,7 +308,7 @@ Penasihat hukum T1 datang dengan map tebal berisi kontrak sewa gudang. Ia menjel
 
 Di ruang rapat rumah produksi, T2 bertanya kepada karyawannya: siapa yang masih mau bekerja sampai bulan depan. Beberapa mengangkat tangan, beberapa menunduk. T2 tidak menyalahkan siapa pun. Ia hanya ingin tahu siapa yang akan tinggal.
 
-dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu.
+Dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu.
 
 **Adegan T1, surat pemberitahuan**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -405,7 +405,7 @@ Pada suatu sore, T1 menerima undangan dari pelanggan lama untuk makan siang. T1 
 
 T2 mengantar anaknya ke sekolah dan melewati toko-toko yang dulu menjadi pelanggannya. Beberapa sudah tutup, sebagian berganti nama. T2 tidak berhenti. Ia hanya memperlambat langkah, lalu melanjutkan perjalanan ke rumah produksi yang kini hanya tinggal satu ruangan.
 
-rekapitalisasi berarti pemerintah atau lembaga lain menyuntikkan modal ke bank agar bank bisa kembali memenuhi syarat minimum. Penyuntikan ini tidak gratis. 
+Rekapitalisasi berarti pemerintah atau lembaga lain menyuntikkan modal ke bank agar bank bisa kembali memenuhi syarat minimum. Penyuntikan ini tidak gratis. 
 
 **Adegan T1, usaha yang mengecil**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -417,7 +417,7 @@ Pada awal 2000, T1 hanya punya satu gudang kecil dan dua karyawan. Ia masih meng
 
 T2 membuka lagi usaha sabun dengan modal yang lebih kecil. Ia tidak lagi memakai bank. Ia menjual langsung ke warung dan membayar bahan dengan uang yang ia kumpulkan dari penjualan sebelumnya. Pekerjanya tinggal empat orang, tetapi setiap pagi mereka tetap datang.
 
-Setelah krisis, T2 memulai lagi dengan modal yang lebih kecil. Mereka mencari pelanggan baru, memperkecil biaya, dan belajar hidup dengan utang yang lebih sedikit.
+Setelah krisis, T2 memulai lagi dengan modal yang lebih kecil. Ia mencari pelanggan baru, memperkecil biaya, dan belajar hidup dengan utang yang lebih sedikit.
 
 **Adegan T2, belajar menghitung ulang**
 *Label di layar: "ilustrasi, tokoh fiktif".*
