@@ -75,3 +75,19 @@ Kalimat penutup yang diusulkan:
 - IMF: "Indonesia meminjam sekitar 11 miliar SDR dari IMF, lalu mengembalikan seluruh pokoknya beserta sekitar 2 miliar SDR bunga dan biaya, hingga lunas pada 2006."
 - BLBI: "Pemerintah telah melunasi utangnya ke Bank Indonesia, tetapi penagihan kepada para pengutang belum selesai."
 - Pembenahan: "Setelah krisis, BPPN ditutup pada 2004, dan LPS dibentuk untuk menjaga kepercayaan pada perbankan."
+
+## Angka tambahan dari tinjauan treatment
+
+| ID | Klaim | Status | Angka atau pernyataan | Sumber |
+|---|---|---|---|---|
+| T-1 | Depresiasi rupiah 1997 | Valid | Rupiah melemah lebih dari 30% antara pertengahan Juli dan pertengahan Oktober 1997. | IMF LoI 31 Oktober 1997, paragraf 3 |
+| T-2 | Pakto 1988 | Valid | Paket deregulasi perbankan 27 Oktober 1988 mempermudah pendirian bank baru. | BI, halaman sejarah resmi (bi.go.id) |
+| T-3 | Penerimaan migas Pelita III | Valid | Rata-rata 66,9% dari penerimaan dalam negeri. | Nota Keuangan RAPBN 1989/90 |
+| T-4 | SBPUK | Valid | Rp36,5 triliun kepada 28 bank, akhir Desember 1997. | BI Working Paper 15/2018 hlm. 12 |
+| T-5 | Keputusan pemerintah 3 September 1997 | Valid | Instruksi kepada Menteri Keuangan dan Gubernur BI untuk membantu bank yang kekurangan likuiditas. | Simanjuntak 2002 hlm. 16; Muliana 2024 hlm. 360 |
+
+## Klausul hukum
+
+| ID | Klaim | Status | Angka atau pernyataan | Sumber |
+|---|---|---|---|---|
+| R-1 | Klausul *Release and Discharge* (R&D) dalam penyelesaian BLBI | Valid (sumber jurnal dan media) | Klausul yang menyatakan tagihan BLBI lunas, pemerintah tidak menuntut pidana atas pelanggaran bank, dan jaminan BLBI dilepas. Diterbitkan setelah pelunasan kewajiban bank kepada pemerintah. Kekuatan hukumnya diperdebatkan. | Muliana 2024 hlm. 360; Lex Renaissance (UII); Jurnal Ius Publicum 2023; Hukumonline (cuplikan); Suara.com 2018 (tanpa nama dalam film) |
