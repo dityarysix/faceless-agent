@@ -43,7 +43,7 @@ Bahan bakunya sebagian diimpor. Minyak nabati dan pewangi datang dari luar neger
 
 T2 belum merasakan apa-apa selain harga bahan yang perlahan naik. Ia masih menganggap itu bagian biasa dari usaha. Ia tidak pernah meminjam dalam dolar.
 
-Sebelum krisis, pemerintah mengatur banyak hal dari atas: kurs, bunga, dan batas kredit. Ketika tekanan datang, aturan-aturan itu diuji. Pertanyaan yang muncul kemudian adalah siapa yang menanggung akibatnya. Jawabannya tidak pernah satu orang saja. Akibatnya tersebar ke pekerja, pengusaha, dan negara.
+Sebelum krisis, kurs rupiah dibatasi dalam pita intervensi. Ketika tekanan datang, batas itu diuji. Pertanyaan yang muncul kemudian adalah siapa yang menanggung akibatnya. Jawabannya tidak pernah satu orang saja. Akibatnya tersebar ke pekerja, pengusaha, dan negara.
 
 Di bab ini dan bab-bab berikutnya, kita mengikuti dua tokoh fiktif. Mereka dipilih untuk menunjukkan bagaimana krisis yang sama bekerja pada dua jenis pendapatan, bukan untuk mewakili seluruh pelaku usaha.
 
@@ -72,7 +72,6 @@ Pagi itu T2 datang lebih awal. Lampu gudang belum menyala. Ia membuka buku besar
 
 **Narasi**
 
-[LABEL LAYAR: penjelasan umum]
 BLBI adalah bantuan likuiditas darurat dari Bank Indonesia kepada bank yang kesulitan memenuhi kewajibannya kepada nasabah. Bank sentral bertindak sebagai pemberi pinjaman terakhir.
 
 Pada 15 Agustus 1997, Bank Indonesia mulai memberikan fasilitas likuiditas. Fasilitas ini kelak dikenal dengan nama BLBI.
@@ -155,7 +154,7 @@ Awal Januari, T2 menghitung gaji tiga puluh karyawan. Uang di rekening cukup unt
 
 Pada pertengahan Juni 1998, nilai tukar mencapai sekitar Rp16.500 per dolar Amerika.
 
-Pada 1998, pengangguran terbuka naik dari 4,3 juta menjadi 5,1 juta orang, dan 108.363 pekerja tercatat di-PHK secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen.
+Antara Maret 1998 dan Februari 1999, pengangguran terbuka naik dari 4,3 juta menjadi 5,1 juta orang, dan 108.363 pekerja tercatat di-PHK secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen.
 
 Pada September 1998, inflasi tahunan mencapai puncaknya di angka 82,4 persen. Harga barang naik, dan uang yang tersisa di tangan orang bernilai semakin kecil.
 
@@ -189,7 +188,7 @@ Di warung dekat rumah produksi, T2 melihat seorang ibu menghitung rupiah di tela
 
 T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang masih ada. Ia menjelaskan siapa yang masih bekerja dan siapa yang harus pulang sementara. Tidak ada yang bertanya lebih jauh. Semua tahu bahwa tanggal berikutnya belum pasti.
 
-Angka pengangguran terbuka hanya menghitung orang yang sedang mencari kerja. Orang yang berhenti mencari, atau bekerja sedikit jam, tidak selalu ikut terhitung.
+
 
 Rasio kecukupan modal adalah perbandingan modal bank terhadap aset berisiko. Rasio yang turun berarti bank punya ruang yang lebih kecil untuk menyerap kerugian.
 
@@ -224,11 +223,11 @@ Di ruang tunggu sebuah pabrik di kota sebelah, T2 duduk bersama beberapa pekerja
 
 **Narasi**
 
-[LABEL LAYAR: penjelasan umum] BLBI adalah bantuan likuiditas darurat dari Bank Indonesia.
+BLBI adalah bantuan likuiditas darurat dari Bank Indonesia.
 
 Nilai BLBI sekitar Rp148,8 triliun pada akhir Mei 1998, dan sekitar Rp153,5 triliun pada Desember 1998.
 
-Pada 4 Juni 1998, pemerintah menyelesaikan kewajiban kepada kreditur luar negeri melalui kesepakatan Frankfurt. Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun. Audit BPK tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
+Pada 4 Juni 1998, sesuai kesepakatan Frankfurt, pemerintah melakukan pembayaran kepada kreditur luar negeri. Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun. Audit BPK tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
 
 Dalam penyelesaiannya, sebagian penerima BLBI memperoleh klausul yang disebut *Release and Discharge*, atau R&D. Klausul ini menyatakan bahwa tagihan dinyatakan lunas, dan pemerintah tidak menuntut pidana atas pelanggaran bank. Jaminan BLBI pun dilepas. R&D diterbitkan setelah kewajiban bank kepada pemerintah dilunasi.
 
@@ -244,7 +243,7 @@ Pada suatu pagi, T1 menyiapkan gudang untuk pengiriman berikutnya. Ia menghitung
 
 T2 menyimpan map berisi catatan produksi dan pembelian bahan selama sepuluh tahun. Ia membukanya satu per satu, mengingat setiap musim yang pernah ia lalui. Ia menutup map itu dan kembali bekerja.
 
-Klausul ini tertulis dalam dokumen penyelesaian. Isinya menentukan apa yang dianggap selesai dan apa yang tidak. Karena itu, pembacaan atas klausul ini bisa berbeda tergantung pada sudut pandang.
+Pembacaan atas klausul ini bisa berbeda, tergantung sudut pandang.
 
 **Adegan T1, surat dari penasihat hukum**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -256,7 +255,7 @@ Penasihat hukum T1 datang dengan map tebal berisi kontrak sewa gudang. Ia menjel
 
 Di ruang rapat rumah produksi, T2 bertanya kepada karyawannya: siapa yang masih mau bekerja sampai bulan depan. Beberapa mengangkat tangan, beberapa menunduk. T2 tidak menyalahkan siapa pun. Ia hanya ingin tahu siapa yang akan tinggal.
 
-Dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu, meski penerimaannya kemudian diperdebatkan.
+Dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank bisa menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu, meski penerimaannya kemudian diperdebatkan.
 
 **Adegan T1, surat pemberitahuan**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -276,7 +275,7 @@ T1 naik bus malam ke kota lain untuk mencari pembeli baru. Di dalam bus ia membu
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Diagram aliran dana BLBI: bank, Bank Indonesia, pemerintah, dan tagihan. Tanpa wajah atau nama.
-- Kartu Rp148 triliun dan Rp138 triliun, dengan label sumber.
+- Kartu Rp148,8 triliun (Mei 1998), Rp177,1 triliun (Juli 1998), Rp153,5 triliun (Desember 1998), dan Rp138 triliun, dengan label sumber dan tanggal.
 - Kartu tokoh T1 dan T2, masing-masing dengan label "ilustrasi, tokoh fiktif".
 - Jeda di 28:30.
 
@@ -287,7 +286,7 @@ T1 naik bus malam ke kota lain untuk mencari pembeli baru. Di dalam bus ia membu
 - Klausul R&D: Lex Renaissance UII; Jurnal Ius Publicum 2023.
 - Definisi BLBI (jika dipakai di babak ini): IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani (media.neliti.com).
 
-**ID ledger:** C7, R2, R-1.
+**ID ledger:** F-7, F-8, F-9, R2, R-1.
 
 ## Babak 5: Pembenahan dan Tagihan (28:30–36:00)
 
