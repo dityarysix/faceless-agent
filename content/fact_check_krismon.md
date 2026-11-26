@@ -132,3 +132,22 @@ Kalimat penutup yang diusulkan:
 | 9 | Suku bunga 1998 | Simanjuntak 2002 (hlm. 13) | 40–100% per tahun. |
 
 Catatan: jurnal akademik (Muliana 2024; Sugema dan Simorangkir 2004; Simanjuntak 2002) dipakai langsung tanpa verifikasi silang, sesuai instruksi. Muliana 2024 dibaca langsung oleh pengguna. Sumber BPS untuk item 6 belum dibuka langsung (403).
+
+## Fakta baru dari sumber lokal (F)
+
+Status Valid kecuali ditulis lain. Sumber primer, dibaca langsung dari teks yang diekstrak.
+
+| ID | Klaim | Status | Angka atau pernyataan | Sumber |
+|---|---|---|---|---|
+| F-1 | Kemiskinan turun dari lebih 60% (akhir 1960-an) ke 11% (pertengahan 1990-an) | Valid | Kutipan: "incidence of poverty fell from over 60 percent in the late 1960s to 11 percent by the mid-1990s" | IMF, siaran pers 97/50, 5 November 1997 |
+| F-2 | Pita intervensi rupiah dilebarkan dari 8% ke 12% pada 11 Juli 1997; rupiah mengambang Agustus 1997 | Valid | Dua sumber independen: pitanya dilebarkan dan rupiah mengambang | BI Working Paper 15/2018, hlm. 5; IMF LoI 31 Oktober 1997 |
+| F-3 | Rupiah turun dari sekitar Rp3.700 ke sekitar Rp8.000 per dolar, awal Desember 1997 sampai awal Januari 1998 | Valid | Kutipan: "from around Rp 3,700 to around Rp 8,000" | IMF LoI 15 Januari 1998 |
+| F-4 | Pengangguran terbuka naik dari 4,3 juta (1997) ke 5,1 juta (1998) | Valid | Kutipan: "pada tahun 1997 tercatat sebesar 4,3 juta orang pada tahun 1998 meningkat menjadi 5,1 juta orang" | BI Laporan Tahunan 1998/99 |
+| F-5 | 108.363 pekerja tercatat di-PHK secara resmi pada 1998 | Valid | Dicatat sebagai PHK resmi; LT menyebut angka sebenarnya bisa lebih tinggi | BI Laporan Tahunan 1998/99 |
+| F-6 | Rasio kecukupan modal bank rata-rata turun dari 4,3% menjadi minus 24,6%, Maret 1998 sampai Februari 1999 | Valid | Kutipan: "merosot tajam dari rata-rata 4,3% menjadi negatif 24,6%" | BI Laporan Tahunan 1998/99 |
+| F-7 | BLBI mencapai Rp177,1 triliun pada akhir Juli 1998, dan sekitar Rp153,5 triliun pada Desember 1998 | Valid | Deret: Rp148,8 triliun (Mei), Rp177,1 triliun (Juli), Rp153,5 triliun (Desember). Menggantikan C7 yang menulis "Rp148 triliun pada akhir 1998" | BI Laporan Tahunan 1998/99, hlm. 80–81 |
+| F-8 | Kesepakatan Frankfurt 4 Juni 1998: pembayaran tunggakan antarbank dan pembiayaan perdagangan kepada kreditur luar negeri | Valid | Kutipan: "kesepakatan Frankfurt tanggal 4 Juni 1998, pemerintah melakukan pembayaran kepada kreditur luar negeri" | BI Laporan Tahunan 1998/99, hlm. 80–81; BI WP 15/2018, hlm. 15 |
+| F-9 | 13 Maret 1999: 38 bank dibekukan, 7 diambil alih, 9 ditetapkan untuk rekapitalisasi | Valid | Kutipan: "membekukan kegiatan usaha 38 bank, mengambil alih tujuh bank, dan menetapkan sembilan bank" | BI Laporan Tahunan 1998/99, hlm. 17 dan 81 |
+| F-10 | Piutang BLBI per 31 Desember 2024: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi | Valid | Angka dibulatkan dari LKPP 2024 | LKPP 2024 (audited), CaLK hlm. 137 |
+| F-11 | UU BI 1999 Pasal 56 ayat (1): BI dilarang memberi kredit kepada Pemerintah | Valid | Kutipan: "Bank Indonesia dilarang memberikan kredit kepada Pemerintah" | UU 23/1999 |
+| F-12 | Sejak 31 Desember 2013, pengawasan perbankan beralih dari BI ke OJK | Valid | Kutipan: "beralih dari Bank Indonesia ke OJK" | UU 21/2011, Pasal 55 ayat (2), teks dari anotasi DPR |
