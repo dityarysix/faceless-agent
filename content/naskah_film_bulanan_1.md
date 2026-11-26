@@ -117,7 +117,7 @@ Siang itu, T1 duduk di ruang tamu pemasok kayu di kota sebelah. Pemasoknya menaw
 
 Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia bercerita bahwa beberapa toko langganannya sudah menunda pembelian. T2 menawarkan diskon kecil supaya stok tetap bergerak. Distributor itu setuju, tetapi keduanya tahu diskon itu hanya menunda masalah. Setelah ia pergi, T2 duduk sebentar di bangku dekat jendela dan menghitung, sekali lagi, berapa karyawan yang bisa ia pertahankan.
 
-Ketika bank kehilangan kepercayaan, nasabah cenderung mengambil dana lebih cepat. Bank yang punya aset panjang dan kewajiban pendek bisa kesulitan memenuhi penarikan, meskipun asetnya sendiri sebenarnya masih ada.
+ketika bank kehilangan kepercayaan, nasabah cenderung mengambil dana lebih cepat. Bank yang punya aset panjang dan kewajiban pendek bisa kesulitan memenuhi penarikan, meskipun asetnya sendiri sebenarnya masih ada.
 
 **Adegan T1, pertemuan dengan bank di akhir 1997**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -157,11 +157,7 @@ Awal Januari, T2 menghitung gaji tiga puluh karyawan. Uang di rekening cukup unt
 
 Pada pertengahan Juni 1998, nilai tukar mencapai sekitar Rp16.500 per dolar Amerika.
 
-<<<<<<< HEAD
-Antara Maret 1998 dan Februari 1999, pengangguran terbuka naik dari 4,3 juta menjadi 5,1 juta orang, dan 108.363 pekerja tercatat di-PHK secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen.
-=======
 Pengangguran terbuka naik dari 4,3 juta pada 1997 menjadi 5,1 juta pada 1998, dan 108.363 pekerja tercatat di-PHK secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen antara Maret 1998 dan Februari 1999.
->>>>>>> origin/main
 
 Pada September 1998, inflasi tahunan mencapai puncaknya di angka 82,4 persen. Harga barang naik, dan uang yang tersisa di tangan orang bernilai semakin kecil.
 
@@ -195,9 +191,9 @@ Di warung dekat rumah produksi, T2 melihat seorang ibu menghitung rupiah di tela
 
 T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang masih ada. Ia menjelaskan siapa yang masih bekerja dan siapa yang harus pulang sementara. Tidak ada yang bertanya lebih jauh. Semua tahu bahwa tanggal berikutnya belum pasti.
 
+angka pengangguran terbuka hanya menghitung orang yang sedang mencari kerja. Orang yang berhenti mencari, atau bekerja sedikit jam, tidak selalu ikut terhitung. Karena itu, angka PHK sering dibaca sebagai batas bawah.
 
-
-Rasio kecukupan modal adalah perbandingan modal bank terhadap aset berisiko. Rasio yang turun berarti bank punya ruang yang lebih kecil untuk menyerap kerugian.
+rasio kecukupan modal adalah perbandingan modal bank terhadap aset berisiko. Rasio yang turun berarti bank punya ruang yang lebih kecil untuk menyerap kerugian.
 
 **Adegan T1, bongkar gudang**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -234,13 +230,9 @@ BLBI adalah bantuan likuiditas darurat dari Bank Indonesia.
 
 Nilai BLBI sekitar Rp148,8 triliun pada akhir Mei 1998, dan sekitar Rp153,5 triliun pada Desember 1998.
 
-<<<<<<< HEAD
-Pada 4 Juni 1998, sesuai kesepakatan Frankfurt, pemerintah melakukan pembayaran kepada kreditur luar negeri. Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun. Audit BPK tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
-=======
 Sesuai kesepakatan Frankfurt pada 4 Juni 1998, pemerintah membayar tunggakan utang antarbank dan pembiayaan perdagangan kepada kreditur luar negeri.
 
 Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun, lalu turun menjadi sekitar Rp153,5 triliun pada Desember 1998. Audit BPK tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
->>>>>>> origin/main
 
 Dalam penyelesaiannya, sebagian penerima BLBI memperoleh klausul yang disebut *Release and Discharge*, atau R&D. Klausul ini menyatakan bahwa tagihan dinyatakan lunas, dan pemerintah tidak menuntut pidana atas pelanggaran bank. Jaminan BLBI pun dilepas. R&D diterbitkan setelah kewajiban bank kepada pemerintah dilunasi.
 
@@ -268,7 +260,7 @@ Penasihat hukum T1 datang dengan map tebal berisi kontrak sewa gudang. Ia menjel
 
 Di ruang rapat rumah produksi, T2 bertanya kepada karyawannya: siapa yang masih mau bekerja sampai bulan depan. Beberapa mengangkat tangan, beberapa menunduk. T2 tidak menyalahkan siapa pun. Ia hanya ingin tahu siapa yang akan tinggal.
 
-Dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank bisa menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu, meski penerimaannya kemudian diperdebatkan.
+dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu, meski penerimaannya kemudian diperdebatkan.
 
 **Adegan T1, surat pemberitahuan**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -299,7 +291,7 @@ T1 naik bus malam ke kota lain untuk mencari pembeli baru. Di dalam bus ia membu
 - Klausul R&D: Lex Renaissance UII; Jurnal Ius Publicum 2023.
 - Definisi BLBI (jika dipakai di babak ini): IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani (media.neliti.com).
 
-**ID ledger:** F-7, F-8, F-9, R2, R-1.
+**ID ledger:** C7, R2, R-1.
 
 ## Babak 5: Pembenahan dan Tagihan (28:30–36:00)
 
@@ -337,7 +329,7 @@ Pada suatu sore, T1 menerima undangan dari pelanggan lama untuk makan siang. T1 
 
 T2 mengantar anaknya ke sekolah dan melewati toko-toko yang dulu menjadi pelanggannya. Beberapa sudah tutup, sebagian berganti nama. T2 tidak berhenti. Ia hanya memperlambat langkah, lalu melanjutkan perjalanan ke rumah produksi yang kini hanya tinggal satu ruangan.
 
-Rekapitalisasi berarti pemerintah atau lembaga lain menyuntikkan modal ke bank agar bank bisa kembali memenuhi syarat minimum. 
+rekapitalisasi berarti pemerintah atau lembaga lain menyuntikkan modal ke bank agar bank bisa kembali memenuhi syarat minimum. Penyuntikan ini tidak gratis. Biayanya dibebankan kepada keuangan negara.
 
 **Adegan T1, usaha yang mengecil**
 *Label di layar: "ilustrasi, tokoh fiktif".*
