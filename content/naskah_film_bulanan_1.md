@@ -52,6 +52,13 @@ Di bab ini dan bab-bab berikutnya, kita mengikuti dua tokoh fiktif. Mereka dipil
 
 Pagi itu T2 datang lebih awal. Lampu gudang belum menyala. Ia membuka buku besar dan membaca catatan bahan baku dari tiga bulan terakhir. Angka-angkanya naik perlahan, tetapi konsisten. T2 tidak panik. Ia hanya menulis satu kalimat di pinggir halaman: harga naik, pesanan jangan dulu ditambah.
 
+Film ini tidak mengajak kita menilai siapa yang bersalah. Ia mengajak kita melihat apa yang terjadi, lalu bertanya apa yang bisa kita pelajari.
+
+**Adegan T1, kursi-kursi yang dikemas**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T1 membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi punya nomor dan nama pembeli. Tangannya bergerak cepat karena sudah terbiasa, tetapi pikirannya di tempat lain: apakah pesanan berikutnya akan sama besar seperti tahun lalu.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Peta waktu 1979 sampai 1997, tanpa foto arsip.
@@ -131,6 +138,18 @@ Setelah pertemuan itu, T1 berjalan kaki ke gudang. Ia menghitung ulang setiap pe
 
 Awal Januari, T2 menghitung gaji tiga puluh karyawan. Uang di rekening cukup untuk dua minggu, tidak lebih. Ia membagi gaji dengan hati-hati dan mengumumkan di depan pekerja bahwa jam kerja akan dikurangi sementara. Tidak ada yang berteriak. Beberapa mengangguk, beberapa diam, dan satu pekerja bertanya apakah gaji bulan depan akan tetap sama. T2 tidak bisa menjawab pasti.
 
+Bank yang kehilangan dana cepat bisa menghadapi penarikan yang bersamaan. Pada situasi seperti itu, bantuan dari bank sentral menjadi jalan sementara, dan syarat yang diberikan sering menentukan siapa yang bisa bertahan.
+
+**Adegan T2, percakapan di warung**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di warung dekat rumah produksi, pemilik warung menanyakan apakah sabun T2 masih akan naik harga. T2 menjawab jujur bahwa ia tidak tahu. Pemilik warung mengangguk dan mengambil dua batang untuk dijual kembali. Hari itu, percakapan kecil seperti ini terjadi di banyak tempat.
+
+**Adegan T1, malam sebelum keputusan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Malam itu T1 menyusun dua daftar di meja makan. Daftar pertama berisi pesanan yang masih bisa dikerjakan. Daftar kedua berisi pembeli yang perlu ditagih. T1 menaruh kedua daftar berdampingan dan menatapnya lama, tanpa menulis kesimpulan apa pun.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Peta waktu Juli 1997 sampai Januari 1998, dengan kartu tanggal.
@@ -205,6 +224,23 @@ Pada pertengahan 1998, T1 meminta para pekerja gudang mengosongkan rak terakhir.
 
 Di ruang tunggu sebuah pabrik di kota sebelah, T2 duduk bersama beberapa pekerja yang kehilangan pekerjaan. Mereka tidak saling kenal, tetapi wajahnya sama. Seseorang bertanya apakah T2 punya lowongan. T2 tidak punya, dan ia merasa itu bagian paling sulit dari musim ini.
 
+Pada masa krisis, perusahaan yang masih bertahan sering mengurangi jumlah karyawan secara bertahap. Ada yang memangkas jam kerja, ada yang menunda gaji, dan ada yang akhirnya menutup kantor.
+
+**Adegan T1, daftar nama**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T1 menulis daftar nama karyawan di selembar kertas. Ia tidak menyebut nama secara lantang. Ia hanya menaruh tanda kecil di sebelah setiap nama yang harus pindah kerja. Setelah selesai, ia membaca daftar itu sekali lagi, lalu melipatnya dan memasukkannya ke saku baju.
+
+**Adegan T2, pengumuman pagi**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pagi itu T2 berdiri di depan para pekerja dan menyampaikan kabar yang sudah ia pikirkan berhari-hari. Ia tidak menyalahkan siapa pun, dan tidak berjanji lebih dari yang bisa ia tepati. Ada yang menangis, ada yang diam. Seorang pekerja tua menepuk bahu T2 sebelum pulang.
+
+**Adegan T1, lampu gudang padam**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Malam terakhir di gudang, lampu neon padam satu per satu. T1 tidak menyalakannya lagi. Ia duduk di kursi kayu, mendengarkan suara jangkrik dari luar, dan memikirkan bagaimana usaha sekecil itu bisa dibangun dengan begitu banyak harapan.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Kartu angka: Rp16.500 (Juni 1998) dan 82,4 persen (September 1998), masing-masing dengan tanggal dan sumber.
@@ -277,6 +313,28 @@ T2 mengajak karyawannya makan siang di halaman rumah produksi. Nasi bungkus, teh
 
 T1 naik bus malam ke kota lain untuk mencari pembeli baru. Di dalam bus ia membuka buku catatan dan menghitung ulang biaya perjalanan. Di kursi sebelah, seorang penumpang tertidur dengan map plastik di pangkuannya. T1 melihat ke luar jendela dan memikirkan berapa lama usaha ini bisa bertahan jika pesanan pertama tidak datang.
 
+Dalam penyelesaian sebuah krisis, pihak yang berutang dan pihak yang menagih sering memiliki kepentingan yang berbeda. Perbedaan ini tidak selalu tampak di permukaan, tetapi terasa dalam setiap pertemuan.
+
+**Adegan T2, rapat tentang masa depan usaha**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 mengundang tiga orang kepercayaannya ke ruang kecil di belakang rumah produksi. Mereka membahas apakah usaha bisa dilanjutkan dengan modal yang lebih kecil. Tidak ada keputusan hari itu. Yang ada adalah daftar pertanyaan, dan satu kesepakatan: mereka akan bertemu lagi minggu depan.
+
+**Adegan T1, bertemu pemasok lama**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di pasar kayu, T1 bertemu pemasok yang dulu sering memberinya diskon. Kali ini pemasok itu hanya menjabat tangan dan meminta uang muka. T1 mengangguk, membayar sebagian, dan pulang dengan perasaan campur aduk: lega karena bisa membeli, tetapi sedih karena hubungan lama itu berubah.
+
+**Adegan T2, surat dari pelanggan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Sebuah surat datang dari toko langganan T2 di kota sebelah. Isinya singkat: pesanan dibatalkan, dan terima kasih atas kerja sama bertahun-tahun. T2 membacanya di depan jendela, lalu menyimpan surat itu di laci bersama surat-surat lain yang ia anggap penting.
+
+**Adegan T1, perempuan di pasar**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Seorang perempuan penjual sayur di pasar menanyakan kabar usaha T1, karena mereka sudah lama saling kenal. T1 menjawab singkat. Perempuan itu tidak bertanya lebih jauh. Ia hanya menaruh sebungkus cabai di tangan T1 sebagai tanda ingat.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Diagram aliran dana BLBI: bank, Bank Indonesia, pemerintah, dan tagihan. Tanpa wajah atau nama.
@@ -341,6 +399,28 @@ Pada awal 2000, T1 hanya punya satu gudang kecil dan dua karyawan. Ia masih meng
 
 T2 membuka lagi usaha sabun dengan modal yang lebih kecil. Ia tidak lagi memakai bank. Ia menjual langsung ke warung dan membayar bahan dengan uang yang ia kumpulkan dari penjualan sebelumnya. Pekerjanya tinggal empat orang, tetapi setiap pagi mereka tetap datang.
 
+Setelah krisis, banyak usaha kecil harus mulai dari awal. Mereka mencari pelanggan baru, memperkecil biaya, dan belajar hidup dengan utang yang lebih sedikit.
+
+**Adegan T2, belajar menghitung ulang**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di buku catatan baru, T2 membuat kolom sederhana: bahan, tenaga, sewa, dan keuntungan. Ia menghitung dengan teliti, lalu mencoret satu pos yang ternyata tidak perlu. Usaha yang kecil ternyata bisa lebih mudah dijaga jika setiap rupiah tercatat.
+
+**Adegan T1, mengajar anak tentang gudang**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Sore hari, T1 mengajak anaknya masuk ke gudang yang sudah kosong. Ia menunjukkan tempat kontainer dulu berdiri dan menjelaskan bagaimana pesanan dihitung. Anaknya bertanya kenapa gudang itu tidak dijual saja. T1 tersenyum dan menjawab bahwa ia belum siap melepasnya.
+
+**Adegan T2, pertemuan dengan pelanggan baru**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Seorang pemilik warung baru di pinggir kota datang mencari sabun untuk dijual. T2 menjelaskan cara pembayarannya, dan pemilik warung itu tampak ragu. Mereka sepakat untuk mencoba satu bulan. Hari itu, T2 merasa mulai membangun sesuatu dari nol, pelan-pelan.
+
+**Adegan T1, bertemu mantan karyawan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di pasar, T1 bertemu mantan karyawannya. Mereka bercakap sebentar tentang kabar keluarga. Mantan karyawan itu sudah bekerja di tempat lain dan tampak baik-baik saja. T1 merasa lega, meski tidak bisa menjelaskan kenapa.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Timeline 2004 sampai 2026.
@@ -390,6 +470,23 @@ Sore itu T1 duduk di teras rumah dengan secangkir kopi. Anaknya datang membawa k
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
 T2 menyusun sabun di rak kecil warungnya. Pembeli pertama hari itu seorang ibu yang memilih dua batang dan membayar dengan uang lembaran lusuh. T2 mengembalikan uang kembalian dengan tangan yang sama seperti dulu, lalu mencatat penjualan di buku kecil.
+
+Sejarah krisis seperti ini tidak selesai dalam satu malam. Ia terus hadir dalam keputusan, dalam catatan, dan dalam cara orang mengingat masa lalu.
+
+**Adegan T2, buku catatan lama**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 membuka buku catatan lama dari tahun 1997. Tulisan tangannya masih terbaca. Ada harga bahan, daftar pelanggan, dan satu kalimat di pinggir halaman yang ia tulis sendiri: harga naik, pesanan jangan dulu ditambah. T2 tersenyum kecil dan menutup buku itu.
+
+**Adegan T1, percakapan dengan anak di teras**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Malam itu T1 dan anaknya duduk di teras. Anaknya bertanya apa yang paling T1 sesali. T1 berpikir cukup lama sebelum menjawab bahwa ia menyesal tidak bertanya lebih banyak ketika masih punya waktu. Anaknya mengangguk, seolah mengerti.
+
+**Adegan T2, pagi di warung**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pagi itu T2 membuka warungnya sendiri. Ia menata sabun di rak, menyapa tetangga, dan mencatat penjualan pertama di buku kecil. Tidak ada yang luar biasa, tetapi bagi T2 itu sudah cukup.
 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
