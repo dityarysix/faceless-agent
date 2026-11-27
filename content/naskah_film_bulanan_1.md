@@ -101,6 +101,8 @@ Sepanjang pertengahan Juli sampai pertengahan Oktober 1997, rupiah melemah lebih
 
 Pada 1 November 1997, enam belas bank ditutup.
 
+Menurut Boediono, dalam buku Ekonomi Indonesia dalam Lintasan Sejarah (2016), IMF awalnya merekomendasikan penutupan 34 bank. Bank Indonesia bernegosiasi hingga disepakati 16 bank saja.
+
 Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia. Menurut Bacha (2004), paket pembiayaan resmi yang disusun IMF untuk Indonesia sebesar 36 miliar dolar AS.
 
 Pada akhir Desember 1997, Surat Berharga Pasar Uang Khusus (SBPUK) sebesar Rp36,5 triliun diberikan kepada dua puluh delapan bank. Dari awal Desember 1997 sampai awal Januari 1998, rupiah turun dari sekitar Rp3.700 menjadi sekitar Rp8.000 per dolar.
@@ -179,13 +181,14 @@ Pagi itu Beni pergi ke pasar untuk membeli minyak nabati contoh, untuk menguji k
 - Pita intervensi dan kurs mengambang: IMF Letter of Intent, 31 Oktober 1997; Bank Indonesia (BI) Working Paper 15/2018.
 - Rupiah Rp3.700 ke Rp8.000: IMF Letter of Intent, 15 Januari 1998.
 - 16 bank ditutup: IMF Letter of Intent, 31 Oktober 1997.
+- Penutupan 34 bank menjadi 16: Boediono (2016), hlm. 188, dikutip tirto.id (25 November 2020).
 - Stand-by IMF 5 November 1997: IMF, siaran pers 5 November 1997.
 - SBPUK Rp36,5 triliun: Bank Indonesia Working Paper 15/2018.
 - Thailand dan baht, dolar terhadap yen: Akyüz, UNCTAD X (2000), hlm. 12–13.
 - Rupiah sekitar 40 persen: Bacha, Asia-Pacific Development Journal (APDJ) (2004), hlm. 81.
 - Paket pembiayaan resmi yang disusun IMF, 36 miliar: Bacha, APDJ (2004), hlm. 91–92.
 
-**ID ledger:** C8, T-5, T-1, C5, C3, T-4, F-2, F-3, A-3, A-4, A-5, A-6.
+**ID ledger:** C8, C9, T-5, T-1, C5, C3, T-4, F-2, F-3, A-3, A-4, A-5, A-6.
 
 ## Babak 3: Puncak 1998 (14:00–21:00)
 
@@ -303,6 +306,8 @@ BLBI adalah bantuan likuiditas darurat dari Bank Indonesia.
 
 Nilai BLBI sekitar Rp148,8 triliun pada akhir Mei 1998, dan sekitar Rp153,5 triliun pada Desember 1998.
 
+Pada Maret 1998, total utang luar negeri Indonesia sebesar 138 miliar dolar AS, menurut Bank Dunia.
+
 Sesuai kesepakatan Frankfurt pada 4 Juni 1998, pemerintah membayar tunggakan utang antarbank dan pembiayaan perdagangan kepada kreditur luar negeri.
 
 Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun, lalu turun menjadi sekitar Rp153,5 triliun pada Desember 1998. Audit Badan Pemeriksa Keuangan (BPK) tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
@@ -397,12 +402,13 @@ Rudi membaca dokumen perjanjian sewa dengan teliti. Ada pasal yang menyebut jami
 
 **Sumber di layar**
 - Nilai BLBI 1998: Laporan Tahunan Bank Indonesia 1998/99.
+- Utang luar negeri Maret 1998 sebesar 138 miliar dolar AS: Bank Dunia, dikutip tirto.id (25 November 2020).
 - Potensi kerugian Rp138 triliun: Kementerian Keuangan melalui CNBC Indonesia (2021).
 - BLBI Rp177,1 triliun dan kesepakatan Frankfurt: Bank Indonesia Laporan Tahunan 1998/99.
 - Klausul R&D: Lex Renaissance, Universitas Islam Indonesia (UII); Jurnal Ius Publicum 2023.
 - Definisi BLBI (jika dipakai di babak ini): IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani (media.neliti.com).
 
-**ID ledger:** F-7, F-8, R2, R-1.
+**ID ledger:** F-7, F-8, K-2, R2, R-1.
 
 ## Babak 5: Pembenahan dan Tagihan (28:30–36:00)
 
