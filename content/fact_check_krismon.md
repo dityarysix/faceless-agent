@@ -151,6 +151,7 @@ Status Valid kecuali ditulis lain. Sumber primer, dibaca langsung dari teks yang
 | F-10 | Piutang BLBI per 31 Desember 2024: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi | Valid | Angka dibulatkan dari LKPP 2024 | LKPP 2024 (audited), CaLK hlm. 137 |
 | F-11 | UU BI 1999 Pasal 56 ayat (1): BI dilarang memberi kredit kepada Pemerintah | Valid | Kutipan: "Bank Indonesia dilarang memberikan kredit kepada Pemerintah" | UU 23/1999 |
 | F-12 | Sejak 31 Desember 2013, pengawasan perbankan beralih dari BI ke OJK | Valid | Kutipan: "beralih dari Bank Indonesia ke OJK" | UU 21/2011, Pasal 55 ayat (2), teks dari anotasi DPR |
+| F-13 | Tuntutan reformasi memuncak pada Mei 1998 | Sebagian | Mahasiswa menuntut reformasi setelah Presiden Soeharto menyatakan bersedia dicalonkan kembali, dan demonstrasi berujung bentrokan. Pada 12 Mei 1998, enam mahasiswa Universitas Trisakti tertembak. Catatan: hlm. 138 memakai istilah "tuntutan reformasi"; istilah "Era Reformasi" ada di hlm. 178, bukan "Orde Reformasi". Sumber menulis pencalonan itu di "Sidang Umum MPR (1988)"; tahun yang benar 1998 (salah ketik, konfirmasi pengguna; kaki 20 merujuk Kompas, 8 Maret 1998). Pemakaian di naskah: tanpa nama presiden, tanpa nama kampus, dan tanpa visual Mei 1998; cukup "tuntutan reformasi memuncak pada Mei 1998". | ISEI (2025), Kelampauan, Kekinian dan Hari Depan, hlm. 138 dan 178 (sumber sekunder) |
 
 ## Fakta dari tiga tulisan Krisis Asia (A)
 
