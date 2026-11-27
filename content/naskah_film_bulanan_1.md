@@ -77,6 +77,7 @@ Rudi membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi puny
 - Deregulasi perbankan 1988: Bank Indonesia, halaman sejarah.
 - Utang swasta jangka pendek: IMF Letter of Intent, 31 Oktober 1997.
 - Rupiah relatif stabil: Dana Moneter Internasional (IMF) Letter of Intent, 31 Oktober 1997.
+- Rupiah melemah lebih dari 30%: IMF Letter of Intent, 31 Oktober 1997.
 - Pinjaman bank internasional oleh perusahaan non-bank: Akyüz, United Nations Conference on Trade and Development (UNCTAD) X (2000), hlm. 10.
 - Tujuh sinyal dan lead time 11 bulan: Zhuang dan Dowling, Economics and Research Department (ERD) Policy Brief No. 7 (2002), hlm. 3.
 
