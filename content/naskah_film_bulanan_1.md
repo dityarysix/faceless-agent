@@ -13,7 +13,7 @@ Selama sebagian besar tahun 1990-an, rupiah relatif stabil. Lalu pada tahun 1997
 
 Film ini bertanya satu hal. Siapa yang menang dan siapa yang kalah dari krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?
 
-Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat (sumber di layar: Federal Reserve History). Pada Pelita III, penerimaan migas rata-rata 66,9 persen dari penerimaan dalam negeri.
+Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat. Pada Pelita III, penerimaan migas rata-rata 66,9 persen dari penerimaan dalam negeri.
 
 Pada 27 Oktober 1988, pemerintah mempermudah pendirian bank baru. Dalam beberapa dekade sebelum krisis, kemiskinan turun dari lebih 60 persen di akhir 1960-an menjadi 11 persen di pertengahan 1990-an.
 
@@ -43,6 +43,22 @@ Bahan bakunya sebagian diimpor. Minyak nabati dan pewangi datang dari luar neger
 
 T2 belum merasakan apa-apa selain harga bahan yang perlahan naik. Ia masih menganggap itu bagian biasa dari usaha. Ia tidak pernah meminjam dalam dolar.
 
+Sebelum krisis, rupiah bergerak dalam pita intervensi. Ketika tekanan datang, pita itu diuji. Pertanyaan yang muncul kemudian adalah siapa yang menanggung akibatnya. Jawabannya tidak pernah satu orang saja. Pertanyaan itu kita bawa ke babak-babak berikutnya.
+
+Di bab ini dan babak-babak berikutnya, kita mengikuti dua tokoh fiktif. Mereka dipilih untuk menunjukkan bagaimana krisis yang sama bekerja pada dua jenis pendapatan, bukan untuk mewakili seluruh pelaku usaha.
+
+**Adegan T2, pagi di rumah produksi**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pagi itu T2 datang lebih awal. Lampu gudang belum menyala. Ia membuka buku besar dan membaca catatan bahan baku dari tiga bulan terakhir. Angka-angkanya naik perlahan, tetapi konsisten. T2 tidak panik. Ia hanya menulis satu kalimat di pinggir halaman: harga naik, pesanan jangan dulu ditambah.
+
+Film ini tidak mengajak kita menilai siapa yang bersalah. Ia mengajak kita melihat apa yang terjadi, lalu bertanya apa yang bisa kita pelajari.
+
+**Adegan T1, kursi-kursi yang dikemas**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T1 membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi punya nomor dan nama pembeli. Tangannya bergerak cepat karena sudah terbiasa, tetapi pikirannya di tempat lain: apakah pesanan berikutnya akan sama besar seperti tahun lalu.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Peta waktu 1979 sampai 1997, tanpa foto arsip.
@@ -58,7 +74,7 @@ T2 belum merasakan apa-apa selain harga bahan yang perlahan naik. Ia masih menga
 - Utang swasta jangka pendek: IMF Letter of Intent, 31 Oktober 1997.
 - Rupiah relatif stabil: IMF Letter of Intent, 31 Oktober 1997.
 
-**ID ledger:** K-1, T-3, T-2, K-3a, K-3b.
+**ID ledger:** K-1, T-3, T-2, K-3a, K-3b, T-1, F-1, F-2.
 
 ## Babak 2: Rupiah Runtuh (6:30–14:00)
 
@@ -76,7 +92,7 @@ Sepanjang pertengahan Juli sampai pertengahan Oktober 1997, rupiah melemah lebih
 
 Pada 1 November 1997, enam belas bank ditutup.
 
-Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia (sumber di layar: IMF, siaran pers).
+Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia.
 
 Pada akhir Desember 1997, SBPUK sebesar Rp36,5 triliun diberikan kepada dua puluh delapan bank. Dari awal Desember 1997 sampai awal Januari 1998, rupiah turun dari sekitar Rp3.700 menjadi sekitar Rp8.000 per dolar.
 
@@ -108,6 +124,32 @@ Siang itu, T1 duduk di ruang tamu pemasok kayu di kota sebelah. Pemasoknya menaw
 
 Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia bercerita bahwa beberapa toko langganannya sudah menunda pembelian. T2 menawarkan diskon kecil supaya stok tetap bergerak. Distributor itu setuju, tetapi keduanya tahu diskon itu hanya menunda masalah. Setelah ia pergi, T2 duduk sebentar di bangku dekat jendela dan menghitung, sekali lagi, berapa karyawan yang bisa ia pertahankan.
 
+Ketika bank kehilangan kepercayaan, nasabah cenderung mengambil dana lebih cepat. Bank yang punya aset panjang dan kewajiban pendek bisa kesulitan memenuhi penarikan, meskipun asetnya sendiri sebenarnya masih ada.
+
+**Adegan T1, pertemuan dengan bank di akhir 1997**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di ruang rapat kecil di lantai dua bank, T1 duduk berhadapan dengan petugas kredit. Petugas itu membuka map dan menjelaskan syarat baru: jaminan tambahan, jadwal pembayaran yang lebih pendek, dan bunga yang lebih tinggi dari biasanya. T1 bertanya apakah ada pilihan lain. Petugas itu menjawab singkat, bahwa bank sedang mengetatkan kredit.
+
+Setelah pertemuan itu, T1 berjalan kaki ke gudang. Ia menghitung ulang setiap pesanan yang masih terbuka. Sebagian harus dibatalkan.
+
+**Adegan T2, pembayaran gaji di awal Januari 1998**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Awal Januari, T2 menghitung gaji tiga puluh karyawan. Uang di rekening cukup untuk dua minggu, tidak lebih. Ia membagi gaji dengan hati-hati dan mengumumkan di depan pekerja bahwa jam kerja akan dikurangi sementara. Tidak ada yang berteriak. Beberapa mengangguk, beberapa diam, dan satu pekerja bertanya apakah gaji bulan depan akan tetap sama. T2 tidak bisa menjawab pasti.
+
+Bank yang kehilangan dana cepat bisa menghadapi penarikan yang bersamaan. Pada situasi seperti itu, bantuan dari bank sentral menjadi jalan sementara, dan syarat yang diberikan sering menentukan siapa yang bisa bertahan.
+
+**Adegan T2, percakapan di warung**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di warung dekat rumah produksi, pemilik warung menanyakan apakah sabun T2 masih akan naik harga. T2 menjawab jujur bahwa ia tidak tahu. Pemilik warung mengangguk dan mengambil dua batang untuk dijual kembali. Hari itu, percakapan kecil seperti ini terjadi di sebuah warung.
+
+**Adegan T1, malam sebelum keputusan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Malam itu T1 menyusun dua daftar di meja makan. Daftar pertama berisi pesanan yang masih bisa dikerjakan. Daftar kedua berisi pembeli yang perlu ditagih. T1 menaruh kedua daftar berdampingan dan menatapnya lama, tanpa menulis kesimpulan apa pun.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Peta waktu Juli 1997 sampai Januari 1998, dengan kartu tanggal.
@@ -126,7 +168,7 @@ Distributor langganan T2 datang ke rumah produksi dengan wajah lelah. Ia berceri
 - Stand-by IMF 5 November 1997: IMF, siaran pers 5 November 1997.
 - SBPUK Rp36,5 triliun: Bank Indonesia Working Paper 15/2018.
 
-**ID ledger:** C8, T-5, T-1, C5, C3, T-4.
+**ID ledger:** C8, T-5, T-1, C5, C3, T-4, F-2, F-3.
 
 ## Babak 3: Puncak 1998 (14:00–21:00)
 
@@ -139,7 +181,9 @@ Pengangguran terbuka naik dari 4,3 juta pada 1997 menjadi 5,1 juta pada 1998, da
 Pada September 1998, inflasi tahunan mencapai puncaknya di angka 82,4 persen. Harga barang naik, dan uang yang tersisa di tangan orang bernilai semakin kecil.
 
 Menurut catatan Bank Indonesia, ekonomi Indonesia turun 13,7 persen pada 1998.
-Babak ini mencatat apa yang terjadi, dalam urutan waktu.
+
+
+Pada kredit usaha kecil, pangsa kredit macet naik dari 3,9 persen menjadi 9,4 persen antara akhir tahun buku 1997/98 dan 1998/99.
 
 **Adegan T1, Juni 1998**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -168,6 +212,45 @@ Di warung dekat rumah produksi, T2 melihat seorang ibu menghitung rupiah di tela
 
 T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang masih ada. Ia menjelaskan siapa yang masih bekerja dan siapa yang harus pulang sementara. Tidak ada yang bertanya lebih jauh. Semua tahu bahwa tanggal berikutnya belum pasti.
 
+Angka pengangguran terbuka hanya menghitung orang yang sedang mencari kerja. Orang yang berhenti mencari, atau bekerja sedikit jam, tidak selalu ikut terhitung. Karena itu, angka PHK sering dibaca sebagai batas bawah.
+
+Rasio kecukupan modal adalah perbandingan modal bank terhadap aset berisiko. Rasio yang turun berarti bank punya ruang yang lebih kecil untuk menyerap kerugian.
+
+**Adegan T1, bongkar gudang**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pada pertengahan 1998, T1 meminta para pekerja gudang mengosongkan rak terakhir. Tidak ada upacara. Mesin pemotong sudah dijual, tinggal kursi dan meja kerja. T1 memanggil setiap orang satu per satu dan menyerahkan surat berhenti kerja sementara, dengan janji akan memanggil kembali bila pesanan membaik. Janji itu ia tulis di kertas, bukan di kontrak.
+
+**Adegan T2, ruang tunggu pabrik lain**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di ruang tunggu sebuah pabrik di kota sebelah, T2 duduk bersama beberapa pekerja yang kehilangan pekerjaan. Mereka tidak saling kenal, tetapi wajahnya sama. Seseorang bertanya apakah T2 punya lowongan. T2 tidak punya, dan ia merasa itu bagian paling sulit dari musim ini.
+
+Pada masa krisis, perusahaan yang masih bertahan sering mengurangi jumlah karyawan secara bertahap. Ada yang memangkas jam kerja, ada yang menunda gaji, dan ada yang akhirnya menutup kantor.
+
+**Adegan T1, daftar nama**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T1 menulis daftar nama karyawan di selembar kertas. Ia tidak menyebut nama secara lantang. Ia hanya menaruh tanda kecil di sebelah setiap nama yang harus pindah kerja. Setelah selesai, ia membaca daftar itu sekali lagi, lalu melipatnya dan memasukkannya ke saku baju.
+
+**Adegan T2, pengumuman pagi**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pagi itu T2 berdiri di depan para pekerja dan menyampaikan kabar yang sudah ia pikirkan berhari-hari. Ia tidak menyalahkan siapa pun, dan tidak berjanji lebih dari yang bisa ia tepati. Ada yang menangis, ada yang diam. Seorang pekerja tua menepuk bahu T2 sebelum pulang.
+
+**Adegan T1, lampu gudang padam**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Malam terakhir di gudang, lampu neon padam satu per satu. T1 tidak menyalakannya lagi. Ia duduk di kursi kayu, mendengarkan suara jangkrik dari luar, dan memikirkan bagaimana usaha sekecil itu bisa dibangun dengan begitu banyak harapan.
+
+Jumlah usaha mikro, kecil, dan menengah turun dari 39,8 juta unit pada 1997 menjadi 36,8 juta unit pada 1998, menurut angka BPS yang dikutip media.
+
+**Adegan T2, pesan dari bank yang tidak datang**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 menunggu telepon dari bank sepanjang sore. Telepon itu tidak pernah datang. Ketika akhirnya T2 pergi ke kantor cabang, petugas di sana hanya meminta maaf dan menyarankan T2 menghubungi kantor pusat. T2 pulang dengan langkah pelan dan membawa berkas yang sudah ia siapkan sejak pagi.
+
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Kartu angka: Rp16.500 (Juni 1998) dan 82,4 persen (September 1998), masing-masing dengan tanggal dan sumber.
@@ -177,13 +260,15 @@ T2 mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang ma
 - Jeda di 21:00.
 
 **Sumber di layar**
+- Kredit usaha kecil macet: Bank Indonesia Laporan Tahunan 1998/99, hlm. 96 (ledger B7).
+- Jumlah UMKM: BPS, dikutip media (ledger R4).
 - Rupiah Rp16.500: Bank Indonesia Laporan Tahunan 1998/99.
 - Inflasi 82,4 persen: Bank Indonesia Laporan Tahunan 1998/99.
 - Pengangguran dan PHK: Bank Indonesia Laporan Tahunan 1998/99.
 - Rasio kecukupan modal: Bank Indonesia Laporan Tahunan 1998/99.
 - PDB minus 13,7 persen: Bank Indonesia Laporan Tahunan 1998/99.
 
-**ID ledger:** C2, C4, C1.
+**ID ledger:** C2, C4, C1, F-4, F-5, F-6, B7, R4.
 
 ## Babak 4: Mesin BLBI (21:00–28:30)
 
@@ -211,7 +296,7 @@ Pada suatu pagi, T1 menyiapkan gudang untuk pengiriman berikutnya. Ia menghitung
 
 T2 menyimpan map berisi catatan produksi dan pembelian bahan selama sepuluh tahun. Ia membukanya satu per satu, mengingat setiap musim yang pernah ia lalui. Ia menutup map itu dan kembali bekerja.
 
-Klausul ini tertulis dalam dokumen penyelesaian. Isinya menentukan apa yang dianggap selesai dan apa yang tidak. Karena itu, pembacaan atas klausul ini bisa berbeda tergantung pada sudut pandang.
+Pembacaan atas klausul ini bisa berbeda, tergantung sudut pandang.
 
 **Adegan T1, surat dari penasihat hukum**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -222,6 +307,51 @@ Penasihat hukum T1 datang dengan map tebal berisi kontrak sewa gudang. Ia menjel
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
 Di ruang rapat rumah produksi, T2 bertanya kepada karyawannya: siapa yang masih mau bekerja sampai bulan depan. Beberapa mengangkat tangan, beberapa menunduk. T2 tidak menyalahkan siapa pun. Ia hanya ingin tahu siapa yang akan tinggal.
+
+Dalam krisis, bank yang kesulitan sering kehilangan kepercayaan dari bank lain. Pinjaman antarbank menjadi mahal, atau berhenti sama sekali. Itu sebabnya bantuan likuiditas dianggap perlu.
+
+**Adegan T1, surat pemberitahuan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Sebuah surat datang ke gudang T1 pada suatu sore. Isinya memberi tahu bahwa kontrak sewa akan ditinjau ulang. T1 membaca dua kali, lalu meletakkannya di atas meja. Ia tidak lagi tahu apakah ia sedang menagih atau ditagih. Yang jelas, gudang itu sudah terlalu besar untuk usaha yang tersisa.
+
+**Adegan T2, makan siang bersama karyawan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 mengajak karyawannya makan siang di halaman rumah produksi. Nasi bungkus, teh manis, dan obrolan ringan. Tidak ada yang membahas krisis secara langsung. Setelah makan, T2 berdiri dan mengucapkan terima kasih. Itu satu-satunya pidato yang ia buat tahun itu.
+
+**Adegan T1, perjalanan ke kota lain**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T1 naik bus malam ke kota lain untuk mencari pembeli baru. Di dalam bus ia membuka buku catatan dan menghitung ulang biaya perjalanan. Di kursi sebelah, seorang penumpang tertidur dengan map plastik di pangkuannya. T1 melihat ke luar jendela dan memikirkan berapa lama usaha ini bisa bertahan jika pesanan pertama tidak datang.
+
+Dalam penyelesaian sebuah krisis, pihak yang berutang dan pihak yang menagih sering memiliki kepentingan yang berbeda. Perbedaan ini tidak selalu tampak di permukaan, tetapi terasa dalam setiap pertemuan.
+
+**Adegan T2, rapat tentang masa depan usaha**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 mengundang tiga orang kepercayaannya ke ruang kecil di belakang rumah produksi. Mereka membahas apakah usaha bisa dilanjutkan dengan modal yang lebih kecil. Tidak ada keputusan hari itu. Yang ada adalah daftar pertanyaan, dan satu kesepakatan: mereka akan bertemu lagi minggu depan.
+
+**Adegan T1, bertemu pemasok lama**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di pasar kayu, T1 bertemu pemasok yang dulu sering memberinya diskon. Kali ini pemasok itu hanya menjabat tangan dan meminta uang muka. T1 mengangguk, membayar sebagian, dan pulang dengan perasaan campur aduk: lega karena bisa membeli, tetapi sedih karena hubungan lama itu berubah.
+
+**Adegan T2, surat dari pelanggan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Sebuah surat datang dari toko langganan T2 di kota sebelah. Isinya singkat: pesanan dibatalkan, dan terima kasih atas kerja sama bertahun-tahun. T2 membacanya di depan jendela, lalu menyimpan surat itu di laci bersama surat-surat lain yang ia anggap penting.
+
+**Adegan T1, perempuan di pasar**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Seorang perempuan penjual sayur di pasar menanyakan kabar usaha T1, karena mereka sudah lama saling kenal. T1 menjawab singkat. Perempuan itu tidak bertanya lebih jauh. Ia hanya menaruh sebungkus cabai di tangan T1 sebagai tanda ingat.
+
+**Adegan T1, dokumen yang harus ditandatangani**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T1 membaca dokumen perjanjian sewa dengan teliti. Ada pasal yang menyebut jaminan dan tenggat. T1 bertanya kepada petugas apa yang terjadi jika tenggat terlewat. Petugas itu menjawab bahwa akan ada pemberitahuan lebih dulu. T1 menandatangani, tetapi menyimpan salinan di laci sebagai pegangan.
+
 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
@@ -237,19 +367,19 @@ Di ruang rapat rumah produksi, T2 bertanya kepada karyawannya: siapa yang masih 
 - Klausul R&D: Lex Renaissance UII; Jurnal Ius Publicum 2023.
 - Definisi BLBI (jika dipakai di babak ini): IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani (media.neliti.com).
 
-**ID ledger:** C7, R2, R-1.
+**ID ledger:** F-7, F-8, R2, R-1.
 
 ## Babak 5: Pembenahan dan Tagihan (28:30–36:00)
 
 **Narasi**
 
-Pada 13 Maret 1999, pemerintah membekukan kegiatan usaha 38 bank, mengambil alih tujuh bank, dan menetapkan sembilan bank untuk direkapitalisasi. Pada 27 Februari 2004, Badan Penyehatan Perbankan Nasional, BPPN, berakhir (sumber di layar: Keppres 15/2004). Lembaga ini dibubarkan berdasarkan Keputusan Presiden.
+Pada 13 Maret 1999, pemerintah membekukan kegiatan usaha 38 bank, mengambil alih tujuh bank, dan menetapkan sembilan bank untuk direkapitalisasi. Pada 27 Februari 2004, Badan Penyehatan Perbankan Nasional, BPPN, berakhir. Lembaga ini dibubarkan berdasarkan Keputusan Presiden.
 
-Pada 2004, Undang-Undang Nomor 24 Tahun 2004 membentuk Lembaga Penjamin Simpanan, LPS. LPS mulai beroperasi pada 22 September 2005 (sumber di layar: UU 24/2004).
+Pada 2004, Undang-Undang Nomor 24 Tahun 2004 membentuk Lembaga Penjamin Simpanan, LPS. LPS mulai beroperasi pada 22 September 2005.
 
-Dari sisi utang kepada luar negeri, pemerintah melunasi pinjaman IMF lebih awal, pada tahun 2006 (sumber di layar: IMF, siaran pers). Pokok pinjaman sebesar SDR 11,1 miliar sudah lunas, bersama bunga dan biaya sekitar SDR 2,1 miliar.
+Dari sisi utang kepada luar negeri, pemerintah melunasi pinjaman IMF lebih awal, pada tahun 2006. Pokok pinjaman sebesar SDR 11,1 miliar sudah lunas, bersama bunga dan biaya sekitar SDR 2,1 miliar.
 
-Pada 24 Agustus 2026, pemerintah melunasi utang BLBI kepada Bank Indonesia sebesar Rp218,3 triliun (sumber di layar: CNBC Indonesia; Kompas TV).
+Pada 24 Agustus 2026, pemerintah melunasi utang BLBI kepada Bank Indonesia sebesar Rp218,3 triliun.
 
 Namun pelunasan itu tidak menutup urusan tagihan kepada para pengutang. Per 31 Desember 2024, piutang yang timbul dari BLBI tercatat sebesar Rp211,96 triliun, menurut Laporan Keuangan Pemerintah Pusat 2024 yang telah diaudit.
 
@@ -275,6 +405,44 @@ Pada suatu sore, T1 menerima undangan dari pelanggan lama untuk makan siang. T1 
 
 T2 mengantar anaknya ke sekolah dan melewati toko-toko yang dulu menjadi pelanggannya. Beberapa sudah tutup, sebagian berganti nama. T2 tidak berhenti. Ia hanya memperlambat langkah, lalu melanjutkan perjalanan ke rumah produksi yang kini hanya tinggal satu ruangan.
 
+Rekapitalisasi berarti pemerintah atau lembaga lain menyuntikkan modal ke bank agar bank bisa kembali memenuhi syarat minimum. Penyuntikan ini tidak gratis. 
+
+**Adegan T1, usaha yang mengecil**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pada awal 2000, T1 hanya punya satu gudang kecil dan dua karyawan. Ia masih mengirim kursi ke Eropa, tetapi frekuensinya tidak sama lagi. Setiap kali kontainer berangkat, T1 berdiri di dermaga dan membayangkan usaha yang dulu pernah memenuhi gudang besar itu.
+
+**Adegan T2, usaha kecil yang bertahan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 membuka lagi usaha sabun dengan modal yang lebih kecil. Ia tidak lagi memakai bank. Ia menjual langsung ke warung dan membayar bahan dengan uang yang ia kumpulkan dari penjualan sebelumnya. Pekerjanya tinggal empat orang, tetapi setiap pagi mereka tetap datang.
+
+Setelah krisis, T2 memulai lagi dengan modal yang lebih kecil. Ia mencari pelanggan baru, memperkecil biaya, dan belajar hidup dengan utang yang lebih sedikit.
+
+**Adegan T2, belajar menghitung ulang**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di buku catatan baru, T2 membuat kolom sederhana: bahan, tenaga, sewa, dan keuntungan. Ia menghitung dengan teliti, lalu mencoret satu pos yang ternyata tidak perlu. Usaha yang kecil ternyata bisa lebih mudah dijaga jika setiap rupiah tercatat.
+
+**Adegan T1, mengajar anak tentang gudang**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Sore hari, T1 mengajak anaknya masuk ke bekas gudang yang sudah kosong. Ia menunjukkan tempat kontainer dulu berdiri dan menjelaskan bagaimana pesanan dihitung. Anaknya bertanya kenapa ayah tidak mencari gudang baru. T1 tersenyum dan menjawab bahwa ia belum siap memulai lagi.
+
+**Adegan T2, pertemuan dengan pelanggan baru**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Seorang pemilik warung baru di pinggir kota datang mencari sabun untuk dijual. T2 menjelaskan cara pembayarannya, dan pemilik warung itu tampak ragu. Mereka sepakat untuk mencoba satu bulan. Hari itu, T2 merasa mulai membangun sesuatu dari nol, pelan-pelan.
+
+**Adegan T1, bertemu mantan karyawan**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di pasar, T1 bertemu mantan karyawannya. Mereka bercakap sebentar tentang kabar keluarga. Mantan karyawan itu sudah bekerja di tempat lain dan tampak baik-baik saja. T1 merasa lega, meski tidak bisa menjelaskan kenapa.
+
+
+
+Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum melunasi kewajiban, dengan nilai Rp211,02 triliun. Angka ini dikutip beberapa media dari IHPS II-2025.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Timeline 2004 sampai 2026.
@@ -283,6 +451,7 @@ T2 mengantar anaknya ke sekolah dan melewati toko-toko yang dulu menjadi pelangg
 - Jeda di 36:00.
 
 **Sumber di layar**
+- Debitur eks-BLBI belum lunas per 30 Juni 2025: BPK, IHPS II-2025, dikutip media (ledger P8).
 - BPPN berakhir 27 Februari 2004: Keputusan Presiden 15/2004.
 - LPS dibentuk UU 24/2004, beroperasi 22 September 2005: UU 24/2004.
 - Pelunasan dini pinjaman IMF: IMF, siaran pers 6 Oktober 2006; tabel transaksi IMF untuk angka SDR. Tanggal pelunasan ditulis hanya 2006.
@@ -291,15 +460,15 @@ T2 mengantar anaknya ke sekolah dan melewati toko-toko yang dulu menjadi pelangg
 - Rincian piutang: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi (LKPP 2024, CaLK).
 - Pembekuan 38 bank, 7 diambil alih, 9 direkapitalisasi: Bank Indonesia Laporan Tahunan 1998/99.
 
-**ID ledger:** P9, P10, P1–P3, P5, P6, P13.
+**ID ledger:** P9, P10, P1–P3, P5, P6, P8, P13, F-9, F-10.
 
 ## Babak 6: Penutup (36:00–41:30)
 
 **Narasi**
 
-Rupiah melemah lebih dari tiga puluh persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan, dan sebagian penerimanya memperoleh klausul yang sampai hari ini masih diperdebatkan.
+Rupiah melemah lebih dari tiga puluh persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan, dan sebagian penerimanya memperoleh klausul yang masih diperdebatkan.
 
-Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006 (sumber di layar: IMF, siaran pers). Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis (sumber di layar: UU 24/2004). Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah (sumber di layar: UU 23/1999, Pasal 56 ayat (1)). Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke OJK (sumber di layar: UU 21/2011, Pasal 55 ayat (2)).
+Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006. Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis. Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah. Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke OJK.
 
 Film ini menutup dengan pertanyaan, bukan kesimpulan. Siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih?
 
@@ -315,6 +484,33 @@ Sore itu T1 duduk di bangku depan rumah. Ada sebuah buku catatan di pangkuannya,
 
 T2 berdiri di depan rak kecil di warungnya sendiri. Di sana ada beberapa batang sabun dengan label tulisan tangan. Ia mengambil satu, mencium aromanya, lalu meletakkannya kembali. Ia tidak menjual semuanya hari itu, tetapi ia tidak merasa kalah. Ia hanya tahu bahwa ia akan terus mencatat.
 
+**Adegan T1, sore di teras**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Sore itu T1 duduk di teras rumah dengan secangkir kopi. Anaknya datang membawa kabar tentang sekolah baru. T1 mendengarkan dengan sungguh-sungguh. Ia tidak lagi mengukur hidupnya dengan kurs. Yang ia ukur sekarang adalah waktu bersama keluarga, dan pilihan-pilihan yang tidak bisa diulang.
+
+**Adegan T2, rak sabun**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 menyusun sabun di rak kecil warungnya. Pembeli pertama hari itu seorang ibu yang memilih dua batang dan membayar dengan uang lembaran lusuh. T2 mengembalikan uang kembalian dengan tangan yang sama seperti dulu, lalu mencatat penjualan di buku kecil.
+
+Sejarah krisis seperti ini tidak selesai dalam satu malam. Ia terus hadir dalam keputusan, dalam catatan, dan dalam cara orang mengingat masa lalu.
+
+**Adegan T2, buku catatan lama**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+T2 membuka buku catatan lama dari tahun 1997. Tulisan tangannya masih terbaca. Ada harga bahan, daftar pelanggan, dan satu kalimat di pinggir halaman yang ia tulis sendiri: harga naik, pesanan jangan dulu ditambah. T2 tersenyum kecil dan menutup buku itu.
+
+**Adegan T1, percakapan dengan anak di teras**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Malam itu T1 dan anaknya duduk di teras. Anaknya bertanya apa yang paling T1 sesali. T1 berpikir cukup lama sebelum menjawab bahwa ia menyesal tidak bertanya lebih banyak ketika masih punya waktu. Anaknya mengangguk, seolah mengerti.
+
+**Adegan T2, pagi di warung**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pagi itu T2 membuka warungnya sendiri. Ia menata sabun di rak, menyapa tetangga, dan mencatat penjualan pertama di buku kecil. Tidak ada yang luar biasa, tetapi bagi T2 itu sudah cukup.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Layar tipografi penuh untuk lima hal yang sudah dilihat.
@@ -329,4 +525,4 @@ T2 berdiri di depan rak kecil di warungnya sendiri. Di sana ada beberapa batang 
 - Larangan kredit BI kepada pemerintah: UU 23/1999, Pasal 56 ayat (1).
 - Pengawasan perbankan ke OJK: UU 21/2011, Pasal 55 ayat (2).
 
-**ID ledger:** P2, P5, P6, P9, P10, P13.
+**ID ledger:** P2, P5, P6, P10, P13, F-11, F-12, R-1.
