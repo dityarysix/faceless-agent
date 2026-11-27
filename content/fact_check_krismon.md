@@ -18,6 +18,7 @@ Muliana 2024 dan IMF LoI 31 Oktober 1997 dibaca langsung oleh pengguna.
 | C6 | Utang swasta akhir 1997 | Sebagian | US$82.223 juta dari total US$136.088 juta (BI, tabel dalam PECC, Anwar Nasution; dikutip Investor.id). Rantai sumber masih satu. Tidak dipakai di naskah sampai tabel BI dibuka langsung. |
 | C7 | BLBI Rp147,7 triliun (Des 1998); revisi Rp144,54 triliun (6 Feb 1999) | Valid, dengan catatan posisi tanggal | Simanjuntak 2002 hal. 14; BI Sejarah BI Periode VIII (2025) hal. 86 (Rp148 triliun); Kemenkeu via media; audit BPK Rp144,536 triliun berbeda definisi. |
 | C8 | Awal penyaluran BLBI | Valid, perlu dirumuskan ulang | Fasilitas mulai 15 Agustus 1997 (BI WP 15/2018 hal. 8). Keppres 3 Sep 1997 (Simanjuntak hal. 16; Muliana hal. 360, dibaca langsung oleh pengguna). Istilah BLBI 15 Jan 1998 (IMF LoI; Simanjuntak hal. 15). Posisi Des 1997 Rp48,8 triliun (Simanjuntak hal. 14). |
+| C9 | Penutupan bank: IMF awalnya 34 bank, disepakati 16 | Sebagian | Menurut Boediono (2016, hlm. 188), IMF awalnya merekomendasikan penutupan 34 bank; BI bernegosiasi hingga disepakati 16 bank. Dikutip tirto.id (25 November 2020). Boediono disebut sebagai penulis buku, bukan pejabat (keputusan pengguna). |
 
 ## Rumusan yang disarankan untuk naskah
 - C5: "Pada 1 November 1997, pemerintah menutup 16 bank bermasalah, sebagai bagian dari kesepakatan dengan IMF."
@@ -107,7 +108,7 @@ Kalimat penutup yang diusulkan:
 | ID | Klaim | Status | Angka atau pernyataan | Sumber |
 |---|---|---|---|---|
 | K-1 | Kenaikan harga minyak dunia lebih dari dua kali lipat, April 1979 ke April 1980 | Sebagian | Naskah boleh menyebut kenaikan ini dengan sumber tampil di layar. Grafik seri harga tidak dipakai sampai ada seri primer (EIA, BP Statistical Review, atau World Bank Pink Sheet). | Federal Reserve History, "Oil Shock of 1978-79" (satu sumber resmi) |
-| K-2 | Utang luar negeri sekitar US$140 miliar | Belum terverifikasi | Cuplikan IMF LoI memuat dua tanggal berbeda: akhir Juni 1997 (US$33 miliar jangka pendek) dan akhir Desember 1997 (US$20 miliar jangka pendek). BI mencatat sekitar US$136 miliar akhir 1997 (C6). Tidak dipakai di naskah sampai paragraf LoI dicatat. | IMF LoI 31 Oktober 1997 (cuplikan pencarian; teks penuh belum dibaca asisten) |
+| K-2 | Utang luar negeri Indonesia Maret 1998: US$138 miliar | Sebagian (dilonggarkan keputusan pengguna) | Bank Dunia, dikutip tirto.id (25 November 2020): total utang luar negeri Indonesia hingga Maret 1998 sebesar 138 miliar dolar AS. Angka sekitar US$140 miliar dan akhir 1997 (C6) tetap tidak dipakai. | Bank Dunia, dikutip tirto.id (sumber sekunder; laporan Bank Dunia asli belum dicari) |
 | K-3a | Pinjaman luar negeri swasta jangka pendek sebagian besar tanpa lindung nilai | Valid | Pinjaman luar negeri swasta jangka pendek sebagian besar tanpa lindung nilai. | IMF LoI 31 Oktober 1997 (dibaca langsung oleh pengguna; nomor paragraf belum dicatat) |
 | K-3b | Rupiah relatif stabil selama sebagian besar 1990-an | Valid | Naskah harus memakai "sebagian besar 1990-an", bukan "sepanjang 1990-an", karena rupiah melemah 1997–1999. | IMF LoI 31 Oktober 1997 (dibaca langsung oleh pengguna) |
 
