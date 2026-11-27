@@ -1,7 +1,7 @@
 # Treatment: film bulanan 1 (Krisis Moneter 1998)
 
-Status: draf treatment, sudah direvisi sesuai tinjauan Opus. Naskah narasi sudah dibekukan (draf beku v1, lihat `content/naskah_film_bulanan_1.md`). Tanggal rilis belum ditentukan.
-Durasi isi: 58:36 (keputusan pengguna). Narasi sekitar 35:42, sisanya shot visual. Struktur lengkap ada di `content/preproduksi_film_bulanan_1.md`.
+Status: draf treatment, sudah direvisi sesuai tinjauan Opus. Naskah narasi sudah dibekukan (draf beku v1, lihat `content/film_bulanan_1/naskah_film_bulanan_1.md`). Tanggal rilis belum ditentukan.
+Durasi isi: 58:36 (keputusan pengguna). Narasi sekitar 35:42, sisanya shot visual. Struktur lengkap ada di `content/film_bulanan_1/preproduksi_film_bulanan_1.md`.
 
 ## Judul kerja
 Krisis 1998: Siapa Menang, Siapa Kalah
@@ -42,4 +42,4 @@ Angka berikut sudah tercatat sebagai baris ledger T-1 sampai T-5: depresiasi rup
 - Kaitan kredit macet dengan kebangkrutan usaha Rudi dan Beni. R4 belum memverifikasi jumlah usaha tutup.
 
 ## Sumber
-Angka dan tanggal merujuk ke `content/fact_check_krismon.md`. Keputusan sumber untuk data bagian B ada di bagian "Keputusan sumber untuk data bagian B".
+Angka dan tanggal merujuk ke `content/film_bulanan_1/fact_check_krismon.md`. Keputusan sumber untuk data bagian B ada di bagian "Keputusan sumber untuk data bagian B".

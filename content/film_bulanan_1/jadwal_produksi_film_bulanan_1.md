@@ -5,7 +5,7 @@ Tanggal rilis target: Senin 21 Desember 2026. Dihitung mundur dari rilis. Dasar:
 ## Titik beku (sudah tercapai)
 
 - Naskah narasi: DIBEKUKAN, commit 0a17a45, cabang `naskah-beku-v1`.
-- Shot list: v5, di `content/shot_list_film_bulanan_1.md`.
+- Shot list: v5, di `content/film_bulanan_1/shot_list_film_bulanan_1.md`.
 - Durasi isi: 58:36. Batas maksimal belum ditetapkan. Cadangan overrun 0:30.
 
 ## Jadwal
