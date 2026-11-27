@@ -6,7 +6,7 @@ Aturan layar: setiap shot ilustrasi Rudi atau Roni berlabel "ilustrasi, tokoh fi
 
 Kolom "v3" memuat nomor shot di v3 ("baru" bila shot ditambahkan di v4). Kolom "Adegan" memuat nomor adegan berlabel di naskah beku (A1 sampai A56); tanda "-" berarti kartu fakta atau shot narasi penghubung (bukan adegan berlabel).
 
-## Babak 1: Pembuka (v4 8:45; master 6:30)
+## Babak 1: Pembuka (v4 9:10; master 6:30)
 
 | Shot | v3 | Adegan | Durasi | Visual | Isi layar | Sumber di layar | ID |
 |---|---|---|---|---|---|---|---|
@@ -194,13 +194,13 @@ Akhir: logo kanal.
 
 | Babak | Master | v3 | v4 | Selisih v4 terhadap master |
 |---|---|---|---|---|
-| 1 | 6:30 | 6:30 | 8:45 | +2:15 |
+| 1 | 6:30 | 6:30 | 9:10 | +2:40 |
 | 2 | 7:30 | 7:30 | 10:15 | +2:45 |
 | 3 | 7:00 | 7:00 | 8:16 | +1:16 |
 | 4 | 7:30 | 7:30 | 13:25 | +5:55 |
 | 5 | 7:30 | 7:30 | 10:55 | +3:25 |
 | 6 | 5:30 | 5:30 | 7:00 | +1:30 |
-| Total | 41:30 | 41:30 | 58:36 | +17:06 |
+| Total | 41:30 | 41:30 | 59:01 | +17:31 |
 
 v4 belum dipotong. Cara mencapai 41:30 ada di `estimasi_durasi_v4.md` (opsi A, B, C). Keputusan ada di pengguna.
 
@@ -277,7 +277,7 @@ Tidak ada adegan yang digabung dalam satu shot di v4; setiap adegan punya shot s
 
 ## Hal yang masih terbuka
 
-1. Total v4 58:36 jauh di atas 41:30. Perlu keputusan pengguna: pakai opsi A (tanpa potong), B (potong padding), atau C (kunci ke naskah), atau ubah target master. Lihat `estimasi_durasi_v4.md`.
+1. Total v4 58:36 (sebelum shot 1.1c 0:25) jauh di atas 41:30. Perlu keputusan pengguna: pakai opsi A (tanpa potong), B (potong padding), atau C (kunci ke naskah), atau ubah target master. Lihat `estimasi_durasi_v4.md`.
 2. Sumber definisi BLBI di naskah beku (IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani) tidak ada di ledger. Shot 2.1d dan 4.1a tetap memakai B-1 (Hadi 2023). Perlu keputusan: tetap B-1 (naskah beku perlu koreksi dengan persetujuan), atau masukkan sumber naskah ke ledger.
 3. Boediono (shot 2.3a) adalah nama orang dalam sumber. Ledger mencatat keputusan pengguna bahwa ia disebut sebagai penulis buku, bukan pejabat. Dipertahankan. Perlu konfirmasi bila aturan "tanpa nama pejabat" dimaksudkan lebih ketat.
 4. Kalimat "Istilah BLBI baru resmi dipakai pada 15 Januari 1998" (naskah beku, Babak 2) belum punya kartu. Daftar sumber naskah beku menulis BI Working Paper 15/2018, sedangkan ledger C8 menulis IMF Letter of Intent 15 Januari 1998 dan Simanjuntak hlm. 15. Usul: kartu 0:10 setelah 2.3e dengan sumber menurut ledger. Belum ditambahkan karena di luar tugas pemetaan adegan.

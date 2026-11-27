@@ -1,12 +1,12 @@
 # Jadwal produksi film bulanan 1 (draf)
 
-Tanggal rilis target: Senin 21 Desember 2026. Dihitung mundur dari rilis. Dasar: naskah beku (`naskah-beku-v1`, commit 0a17a45) dan shot list v5 (58:36).
+Tanggal rilis target: Senin 21 Desember 2026. Dihitung mundur dari rilis. Dasar: naskah beku (`naskah-beku-v1`, commit 0a17a45) dan shot list v5 (59:01).
 
 ## Titik beku (sudah tercapai)
 
 - Naskah narasi: DIBEKUKAN, commit 0a17a45, cabang `naskah-beku-v1`.
 - Shot list: v5, di `content/film_bulanan_1/shot_list_film_bulanan_1.md`.
-- Durasi isi: 58:36. Batas maksimal belum ditetapkan. Cadangan overrun 0:30.
+- Durasi isi: 59:01. Batas maksimal belum ditetapkan. Cadangan overrun 0:30.
 
 ## Jadwal
 

@@ -7,10 +7,10 @@ Status per 27 November 2026. Ringkas dan diperbarui setiap ada aset baru atau pe
 | Aset | Lokasi | Status | Acuan |
 |---|---|---|---|
 | Naskah narasi | content/film_bulanan_1/naskah_film_bulanan_1.md | DIBEKUKAN (draf beku v1) | commit 0a17a45, header naskah |
-| Shot list | content/film_bulanan_1/shot_list_film_bulanan_1.md | Draf v5, sudah approve Opus | 56 adegan dipetakan, durasi 58:36 |
-| Master breakdown | content/film_bulanan_1/master_breakdown_film_bulanan_1.md | Diperbarui ke 58:36 | shot list v5 |
-| Treatment | content/film_bulanan_1/treatment_film_bulanan_1.md | Diperbarui ke 58:36 | keputusan pengguna |
-| Preproduksi | content/film_bulanan_1/preproduksi_film_bulanan_1.md | Diperbarui ke 58:36 | keputusan pengguna |
+| Shot list | content/film_bulanan_1/shot_list_film_bulanan_1.md | Draf v5, sudah approve Opus | 56 adegan dipetakan, durasi 59:01 |
+| Master breakdown | content/film_bulanan_1/master_breakdown_film_bulanan_1.md | Diperbarui ke 59:01 | shot list v5 + 1.1c |
+| Treatment | content/film_bulanan_1/treatment_film_bulanan_1.md | Diperbarui ke 59:01 | keputusan pengguna |
+| Preproduksi | content/film_bulanan_1/preproduksi_film_bulanan_1.md | Diperbarui ke 59:01 | keputusan pengguna |
 | Ledger fakta | content/film_bulanan_1/fact_check_krismon.md | Aktif | sumber dan status per klaim |
 | Workbook anggaran | content/film_bulanan_1/workbook_anggaran_film_bulanan_1.md | 56 gambar, narasi 35:42 | estimasi kredit |
 

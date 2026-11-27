@@ -8,7 +8,7 @@ Tujuan: mendukung narasi tanpa mengalihkan perhatian dari angka dan sumber di la
 - **Gaya:** piano dan string yang tenang, tanpa vokal, tanpa tanda kemenangan atau tragedi yang dramatis.
 - **Warna:** selaras dengan kanal (hijau dan emas), misalnya nada hangat dan rendah.
 - **Volume:** sekitar 20 dB di bawah narasi. Turun otomatis (ducking) saat narasi dibacakan, naik saat jeda.
-- **Panjang:** sesuai durasi babak (8:45, 10:15, 8:16, 13:25, 10:55, 7:00). Dibuat per 2 menit, lalu digabung dengan crossfade.
+- **Panjang:** sesuai durasi babak (9:10, 10:15, 8:16, 13:25, 10:55, 7:00). Dibuat per 2 menit, lalu digabung dengan crossfade.
 - **Jeda:** kartu angka dan sumber boleh tanpa musik, supaya angka mudah dibaca.
 
 Prompt awal: "soft instrumental documentary underscore, warm, restrained, piano and strings, no vocals, no dramatic swell".
@@ -35,7 +35,7 @@ Tidak dipakai: sirene, teriakan, kerumunan, pecahan kaca, tembakan, suara demons
 
 ## Estimasi kredit
 
-- **Musik:** sekitar 16 kredit per 2 menit. Untuk total 58:36 sekitar 528 kredit, dihitung per babak (33 blok 2 menit × 16 kredit). Angka ini perlu dihitung ulang saat durasi final.
+- **Musik:** sekitar 16 kredit per 2 menit. Untuk total 59:01 sekitar 528 kredit, dihitung per babak (33 blok 2 menit × 16 kredit; pembulatan per babak membuat total blok 66 menit). Angka ini perlu dihitung ulang saat durasi final.
 - **SFX:** sekitar 20 kredit untuk 7 aset (dihitung dengan alat estimasi, 0,4 kredit per detik dibulatkan ke atas). Kertas dan kalkulator dipakai di beberapa adegan, sisanya di satu adegan. Belum dibuat.
 
 ## Keputusan
