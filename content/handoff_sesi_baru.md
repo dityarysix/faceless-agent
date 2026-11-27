@@ -8,9 +8,9 @@ Salin isi bagian "PROMPT" ke pesan pertama di sesi baru.
 Kamu melanjutkan proyek kanal "Jejak Menuju Kaya" (video edukasi keuangan dan sejarah ekonomi, bahasa Indonesia).
 
 BACA DULU (sebelum mengerjakan apa pun):
-1. content/panduan_short.md (cabang claude/eloquent-mccarthy-r5cuoa)
-2. content/shorts/hari4-7.md (cabang claude/eloquent-mccarthy-r5cuoa)
-3. content/jadwal_rilis.md (cabang claude/eloquent-mccarthy-r5cuoa)
+1. content/short/panduan_short.md (cabang claude/eloquent-mccarthy-r5cuoa)
+2. content/short/shorts/hari4-7.md (cabang claude/eloquent-mccarthy-r5cuoa)
+3. content/short/jadwal_rilis.md (cabang claude/eloquent-mccarthy-r5cuoa)
 4. content/calendar.md (cabang content-calendar)
 5. tools/render_short.py (cabang claude/eloquent-mccarthy-r5cuoa)
 6. content/handoff_sesi_baru.md (cabang claude/eloquent-mccarthy-r5cuoa)
@@ -30,7 +30,7 @@ STATUS SAAT INI:
 - Short Hari 3 (Sepuluh ribu sehari, jadi berapa setahun?): dijadwalkan tayang 26 Nov 2026. ID video belum tercatat di repo. Cek di YouTube Studio.
 - Short Hari 4 (Cara sederhana mencatat pengeluaran harian): dijadwalkan Jumat 27 Nov 2026 pukul 06.00 WIB. ID BxOg765MVto (tercatat di content/calendar.md). File master: scratchpad/render/short_hari4_v3.mp4.
 - Short Hari 5 (Kebutuhan, keinginan, dan belanja impulsif): dijadwalkan Sabtu 28 Nov 2026 pukul 06.00 WIB. ID KGR1-bMB27k (tercatat di content/calendar.md). File master: scratchpad/render/short_hari5_v4.mp4 (APPROVE reviewer).
-- Short Hari 6 dan 7: naskah sudah disetujui pengguna (content/shorts/hari4-7.md). Belum ada latar, render, atau unggahan.
+- Short Hari 6 dan 7: naskah sudah disetujui pengguna (content/short/shorts/hari4-7.md). Belum ada latar, render, atau unggahan.
   - Narasi Hari 6: scratchpad/voice_shorts/hari6_narasi.mp3 (52,5 detik). Loudness-nya -14,8 LUFS, perlu dinormalisasi ulang dengan prosedur yang sama seperti Hari 4 dan 5 (dua tahap loudnorm, lalu penyesuaian volume agar -14 LUFS).
   - Narasi Hari 7: scratchpad/voice_shorts/hari7_narasi.mp3 (50,7 detik, di bawah target 52). Sesi baru yang menentukan cara menanganinya (terima, tambah kalimat, atau TTS ulang). Usulkan pilihan ke pengguna sebelum TTS ulang. Setelah itu normalisasi ulang seperti Hari 6.
   - wordstarts Hari 6 dan 7 belum ada. TTS perlu diambil ulang lewat job ID Creative Claw bila masih tersedia (search_assets/check_job); kalau tidak, buat ulang TTS.
@@ -47,7 +47,7 @@ PERBAIKAN YANG HARUS DIKERJAKAN DI AWAL SESI BARU (masing-masing dengan diff dul
 5. Suara: Hope (voice_id tnSpp4vdxKPjI9w0GnoV), language_code "id", mp3_44100_128.
 
 PIPELINE SHORT (sudah teruji):
-1. Naskah: content/shorts/hari{N}-... disetujui pengguna, ditinjau Opus sebagai paket mingguan.
+1. Naskah: content/short/shorts/hari{N}-... disetujui pengguna, ditinjau Opus sebagai paket mingguan.
 2. Narasi TTS: ElevenLabs v4 lewat Creative Claw (speech/elevenlabs-v4), satu per satu, lalu check_job sampai completed.
 3. wordTimings dari check_job disimpan ke scratchpad/voice_shorts/hari{N}_wordstarts.json (array starts per kata; jumlahnya harus sama dengan jumlah kata naskah).
 4. Normalisasi narasi ke -14 LUFS (dua tahap loudnorm dengan measured values, lalu penyesuaian volume jika perlu). Simpan sebagai hari{N}_narasi_norm14.mp3.
