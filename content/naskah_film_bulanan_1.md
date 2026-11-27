@@ -5,7 +5,7 @@
 Format per babak: narasi (dibacakan), visual dan jeda, sumber di layar, ID ledger.
 Adegan Rudi dan Beni selalu diberi label "ilustrasi, tokoh fiktif" di layar.
 
-## Babak 1: Pembuka (0:00–6:30)
+## Babak 1: Pembuka (0:00–8:45)
 
 **Narasi**
 
@@ -68,7 +68,7 @@ Rudi membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi puny
 - Peta waktu 1979 sampai 1997, tanpa foto arsip.
 - Kartu teks: harga minyak dunia naik lebih dari dua kali lipat, April 1979 ke April 1980. Tidak ada grafik.
 - Kartu tokoh Rudi dan Beni, masing-masing dengan label "ilustrasi, tokoh fiktif".
-- Jeda di 6:30.
+- Jeda di 8:45.
 
 **Sumber di layar**
 - Kemiskinan: IMF, siaran pers 97/50, 5 November 1997.
@@ -83,7 +83,7 @@ Rudi membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi puny
 
 **ID ledger:** K-1, T-3, T-2, K-3a, K-3b, T-1, F-1, F-2, A-1, A-2.
 
-## Babak 2: Rupiah Runtuh (6:30–14:00)
+## Babak 2: Rupiah Runtuh (8:45–19:00)
 
 **Narasi**
 
@@ -171,7 +171,7 @@ Pagi itu Beni pergi ke pasar untuk membeli minyak nabati contoh, untuk menguji k
 - Peta waktu Mei 1997 sampai Januari 1998, dengan kartu tanggal.
 - Kartu angka: 16 bank ditutup, Rp36,5 triliun SBPUK kepada 28 bank.
 - Kartu tokoh Rudi dan Beni, masing-masing dengan label "ilustrasi, tokoh fiktif".
-- Jeda di 14:00.
+- Jeda di 19:00.
 
 **Sumber di layar**
 - Fasilitas 15 Agustus 1997, istilah BLBI 15 Januari 1998: Bank Indonesia Working Paper 15/2018.
@@ -190,7 +190,7 @@ Pagi itu Beni pergi ke pasar untuk membeli minyak nabati contoh, untuk menguji k
 
 **ID ledger:** C8, C9, T-5, T-1, C5, C3, T-4, F-2, F-3, A-3, A-4, A-5, A-6.
 
-## Babak 3: Puncak 1998 (14:00–21:00)
+## Babak 3: Puncak 1998 (19:00–27:16)
 
 **Narasi**
 
@@ -284,7 +284,7 @@ Beni menunggu telepon dari bank sepanjang sore. Telepon itu tidak pernah datang.
 - Kartu produk domestik bruto (PDB) 1998, dengan label sumber.
 - Kartu tokoh Rudi dan Beni, masing-masing dengan label "ilustrasi, tokoh fiktif".
 - Tidak ada visual kerusuhan Mei 1998.
-- Jeda di 21:00.
+- Jeda di 27:16.
 
 **Sumber di layar**
 - Tuntutan reformasi memuncak pada Mei 1998: Ikatan Sarjana Ekonomi Indonesia (ISEI) (2025), Kelampauan, Kekinian dan Hari Depan, hlm. 138 (sumber sekunder).
@@ -298,7 +298,7 @@ Beni menunggu telepon dari bank sepanjang sore. Telepon itu tidak pernah datang.
 
 **ID ledger:** C2, C4, C1, F-4, F-5, F-6, F-13, B7, R4.
 
-## Babak 4: Mesin BLBI (21:00–28:30)
+## Babak 4: Mesin BLBI (27:16–40:41)
 
 **Narasi**
 
@@ -398,7 +398,7 @@ Rudi membaca dokumen perjanjian sewa dengan teliti. Ada pasal yang menyebut jami
 - Diagram aliran dana BLBI: bank, Bank Indonesia, pemerintah, dan tagihan. Tanpa wajah atau nama.
 - Kartu Rp148,8 triliun (Mei 1998), Rp177,1 triliun (Juli 1998), Rp153,5 triliun (Desember 1998), dan Rp138 triliun, dengan label sumber dan tanggal.
 - Kartu tokoh Rudi dan Beni, masing-masing dengan label "ilustrasi, tokoh fiktif".
-- Jeda di 28:30.
+- Jeda di 40:41.
 
 **Sumber di layar**
 - Nilai BLBI 1998: Laporan Tahunan Bank Indonesia 1998/99.
@@ -410,7 +410,7 @@ Rudi membaca dokumen perjanjian sewa dengan teliti. Ada pasal yang menyebut jami
 
 **ID ledger:** F-7, F-8, K-2, R2, R-1.
 
-## Babak 5: Pembenahan dan Tagihan (28:30–36:00)
+## Babak 5: Pembenahan dan Tagihan (40:41–51:36)
 
 **Narasi**
 
@@ -489,7 +489,7 @@ Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum meluna
 - Timeline 2004 sampai 2026.
 - Kartu angka pelunasan IMF, pelunasan BLBI, dan piutang BLBI, dengan tanggal masing-masing.
 - Adegan akhir Rudi dan Beni, masing-masing dengan label "ilustrasi, tokoh fiktif".
-- Jeda di 36:00.
+- Jeda di 51:36.
 
 **Sumber di layar**
 - Debitur eks-BLBI belum lunas per 30 Juni 2025: BPK, IHPS II-2025, dikutip media (ledger P8).
@@ -503,7 +503,7 @@ Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum meluna
 
 **ID ledger:** P9, P10, P1–P3, P5, P6, P8, P13, F-9, F-10.
 
-## Babak 6: Penutup (36:00–41:30)
+## Babak 6: Penutup (51:36–58:36)
 
 **Narasi**
 
