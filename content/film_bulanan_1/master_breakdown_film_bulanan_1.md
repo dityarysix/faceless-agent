@@ -4,7 +4,7 @@ Satu baris per segmen. Durasi TTS diisi setelah narasi dibacakan.
 
 | Babak | Segmen | Jenis visual | Label | ID ledger | Durasi target | Catatan |
 |---|---|---|---|---|---|---|
-| 1 Pembuka | 1.1 Pertanyaan sentral dan latar | Tipografi | Fakta | K-3b | 1:00 | |
+| 1 Pembuka | 1.1 Pertanyaan sentral dan latar, grafik kurs | Tipografi, grafik garis | Fakta | K-3b, K-4, C2 | 1:25 | Grafik kurs: rata-rata tahunan 1990–1997; titik 1998 terpisah |
 | 1 Pembuka | 1.2 Minyak dan Pakto 1988 | Teks dan peta | Fakta | K-1, T-2, T-3 | 1:30 | Tidak ada grafik seri |
 | 1 Pembuka | 1.3 Mekanisme utang dolar | Tipografi | Penjelasan umum | K-3a | 1:00 | Label di layar |
 | 1 Pembuka | 1.4 Adegan Rudi dan Roni (digabung) | Ilustrasi AI | Fiktif | - | 5:15 | Label ilustrasi |
@@ -27,4 +27,4 @@ Satu baris per segmen. Durasi TTS diisi setelah narasi dibacakan.
 | 6 Penutup | 6.2 Pertanyaan terbuka | Tipografi | - | - | 1:00 | |
 | 6 Penutup | 6.3 Adegan Rudi dan Roni | Ilustrasi AI | Fiktif | - | 4:30 | Label ilustrasi |
 
-Total target: 58:36 (keputusan pengguna; lihat pembabakan).
+Total target: 59:01 (58:36 + 0:25 untuk shot 1.1c; keputusan pengguna; lihat pembabakan).
