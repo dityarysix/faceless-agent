@@ -13,7 +13,7 @@ Selama sebagian besar tahun 1990-an, rupiah relatif stabil. Lalu pada tahun 1997
 
 Film ini bertanya satu hal. Siapa yang menang dan siapa yang kalah dari krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?
 
-Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat. Pada Pelita III, penerimaan migas rata-rata 66,9 persen dari penerimaan dalam negeri.
+Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat. Pada Pembangunan Lima Tahun III (Pelita III), penerimaan migas rata-rata 66,9 persen dari penerimaan dalam negeri.
 
 Pada 27 Oktober 1988, pemerintah mempermudah pendirian bank baru. Dalam beberapa dekade sebelum krisis, kemiskinan turun dari lebih 60 persen di akhir 1960-an menjadi 11 persen di pertengahan 1990-an.
 
@@ -73,12 +73,12 @@ Rudi membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi puny
 **Sumber di layar**
 - Kemiskinan: IMF, siaran pers 97/50, 5 November 1997.
 - Kenaikan harga minyak: Federal Reserve History, "Oil Shock of 1978-79".
-- Penerimaan migas: Nota Keuangan RAPBN 1989/90.
+- Penerimaan migas: Nota Keuangan Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) 1989/90.
 - Deregulasi perbankan 1988: Bank Indonesia, halaman sejarah.
 - Utang swasta jangka pendek: IMF Letter of Intent, 31 Oktober 1997.
-- Rupiah relatif stabil: IMF Letter of Intent, 31 Oktober 1997.
-- Pinjaman bank internasional oleh perusahaan non-bank: Akyüz, UNCTAD X (2000), hlm. 10.
-- Tujuh sinyal dan lead time 11 bulan: Zhuang dan Dowling, ERD Policy Brief No. 7 (2002), hlm. 3.
+- Rupiah relatif stabil: Dana Moneter Internasional (IMF) Letter of Intent, 31 Oktober 1997.
+- Pinjaman bank internasional oleh perusahaan non-bank: Akyüz, United Nations Conference on Trade and Development (UNCTAD) X (2000), hlm. 10.
+- Tujuh sinyal dan lead time 11 bulan: Zhuang dan Dowling, Economics and Research Department (ERD) Policy Brief No. 7 (2002), hlm. 3.
 
 **ID ledger:** K-1, T-3, T-2, K-3a, K-3b, T-1, F-1, F-2, A-1, A-2.
 
@@ -86,7 +86,7 @@ Rudi membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi puny
 
 **Narasi**
 
-BLBI adalah bantuan likuiditas darurat dari Bank Indonesia kepada bank yang kesulitan memenuhi kewajibannya kepada nasabah. Bank sentral bertindak sebagai pemberi pinjaman terakhir.
+Bantuan Likuiditas Bank Indonesia (BLBI) adalah bantuan likuiditas darurat dari Bank Indonesia kepada bank yang kesulitan memenuhi kewajibannya kepada nasabah. Bank sentral bertindak sebagai pemberi pinjaman terakhir.
 
 Di Thailand, krisis pecah pada awal Juli 1997, ketika Bank of Thailand tidak lagi bisa menjaga baht tetap di dalam pitanya. Sebelumnya, dolar sempat turun terhadap yen, dari sekitar 127 yen pada awal Mei 1997 menjadi 114 yen pada akhir Juni. Menurut Akyüz, ini tampaknya menjadi pemicu terpenting krisis di Thailand.
 
@@ -102,7 +102,7 @@ Pada 1 November 1997, enam belas bank ditutup.
 
 Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia. Menurut Bacha (2004), paket pembiayaan resmi yang disusun IMF untuk Indonesia sebesar 36 miliar dolar AS.
 
-Pada akhir Desember 1997, SBPUK sebesar Rp36,5 triliun diberikan kepada dua puluh delapan bank. Dari awal Desember 1997 sampai awal Januari 1998, rupiah turun dari sekitar Rp3.700 menjadi sekitar Rp8.000 per dolar.
+Pada akhir Desember 1997, Surat Berharga Pasar Uang Khusus (SBPUK) sebesar Rp36,5 triliun diberikan kepada dua puluh delapan bank. Dari awal Desember 1997 sampai awal Januari 1998, rupiah turun dari sekitar Rp3.700 menjadi sekitar Rp8.000 per dolar.
 
 Istilah BLBI baru resmi dipakai pada 15 Januari 1998.
 
@@ -158,6 +158,11 @@ Di warung dekat rumah produksi, pemilik warung menanyakan apakah sabun Beni masi
 
 Malam itu Rudi menyusun dua daftar di meja makan. Daftar pertama berisi pesanan yang masih bisa dikerjakan. Daftar kedua berisi pembeli yang perlu ditagih. Rudi menaruh kedua daftar berdampingan dan menatapnya lama, tanpa menulis kesimpulan apa pun.
 
+**Adegan Beni, harga di pasar**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Pagi itu Beni pergi ke pasar untuk membeli minyak nabati contoh, untuk menguji kualitas pesanan berikutnya. Harga di kios langganannya sudah berbeda dari minggu lalu. Penjualnya menjelaskan dengan singkat, lalu menyebut angka baru. Beni menghitung di kepala, mengangguk, dan membayar dengan uang yang sudah ia siapkan. Di jalan pulang, ia menulis angka itu di buku catatan, di bawah catatan sebelumnya.
+
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Peta waktu Mei 1997 sampai Januari 1998, dengan kartu tanggal.
@@ -170,13 +175,13 @@ Malam itu Rudi menyusun dua daftar di meja makan. Daftar pertama berisi pesanan 
 - Definisi BLBI: IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani (media.neliti.com).
 - Instruksi 3 September 1997: Simanjuntak 2002.
 - Rupiah melemah lebih dari 30%: IMF Letter of Intent, 31 Oktober 1997.
-- Pita intervensi dan kurs mengambang: IMF Letter of Intent, 31 Oktober 1997; BI Working Paper 15/2018.
+- Pita intervensi dan kurs mengambang: IMF Letter of Intent, 31 Oktober 1997; Bank Indonesia (BI) Working Paper 15/2018.
 - Rupiah Rp3.700 ke Rp8.000: IMF Letter of Intent, 15 Januari 1998.
 - 16 bank ditutup: IMF Letter of Intent, 31 Oktober 1997.
 - Stand-by IMF 5 November 1997: IMF, siaran pers 5 November 1997.
 - SBPUK Rp36,5 triliun: Bank Indonesia Working Paper 15/2018.
 - Thailand dan baht, dolar terhadap yen: Akyüz, UNCTAD X (2000), hlm. 12–13.
-- Rupiah sekitar 40 persen: Bacha, APDJ (2004), hlm. 81.
+- Rupiah sekitar 40 persen: Bacha, Asia-Pacific Development Journal (APDJ) (2004), hlm. 81.
 - Paket pembiayaan resmi yang disusun IMF, 36 miliar: Bacha, APDJ (2004), hlm. 91–92.
 
 **ID ledger:** C8, T-5, T-1, C5, C3, T-4, F-2, F-3, A-3, A-4, A-5, A-6.
@@ -187,7 +192,7 @@ Malam itu Rudi menyusun dua daftar di meja makan. Daftar pertama berisi pesanan 
 
 Pada pertengahan Juni 1998, nilai tukar mencapai sekitar Rp16.500 per dolar Amerika.
 
-Pengangguran terbuka naik dari 4,3 juta pada 1997 menjadi 5,1 juta pada 1998, dan 108.363 pekerja tercatat di-PHK secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen antara Maret 1998 dan Februari 1999.
+Pengangguran terbuka naik dari 4,3 juta pada 1997 menjadi 5,1 juta pada 1998, dan 108.363 pekerja tercatat mengalami pemutusan hubungan kerja (PHK) secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen antara Maret 1998 dan Februari 1999.
 
 Pada September 1998, inflasi tahunan mencapai puncaknya di angka 82,4 persen. Harga barang naik, dan uang yang tersisa di tangan orang bernilai semakin kecil.
 
@@ -232,6 +237,11 @@ Rasio kecukupan modal adalah perbandingan modal bank terhadap aset berisiko. Ras
 
 Pada pertengahan 1998, Rudi meminta para pekerja gudang mengosongkan rak terakhir. Tidak ada upacara. Mesin pemotong sudah dijual, tinggal kursi dan meja kerja. Rudi memanggil setiap orang satu per satu dan menyerahkan surat berhenti kerja sementara, dengan janji akan memanggil kembali bila pesanan membaik. Janji itu ia tulis di kertas, bukan di kontrak.
 
+**Adegan Rudi, kursi terakhir**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Di sudut gudang yang sudah kosong, Rudi menemukan satu kursi kayu yang tertinggal. Ia mengusapnya, memeriksa nomor di kakinya, lalu duduk sebentar. Kursi itu seharusnya ikut dikirim ke Eropa bersama puluhan kursi lain. Sekarang ia tidak tahu harus meletakkannya di mana.
+
 **Adegan Beni, ruang tunggu pabrik lain**
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
@@ -254,7 +264,7 @@ Pagi itu Beni berdiri di depan para pekerja dan menyampaikan kabar yang sudah ia
 
 Malam terakhir di gudang, lampu neon padam satu per satu. Rudi tidak menyalakannya lagi. Ia duduk di kursi kayu, mendengarkan suara jangkrik dari luar, dan memikirkan bagaimana usaha sekecil itu bisa dibangun dengan begitu banyak harapan.
 
-Jumlah usaha mikro, kecil, dan menengah turun dari 39,8 juta unit pada 1997 menjadi 36,8 juta unit pada 1998, menurut angka BPS yang dikutip media.
+Jumlah usaha mikro, kecil, dan menengah turun dari 39,8 juta unit pada 1997 menjadi 36,8 juta unit pada 1998, menurut angka Badan Pusat Statistik (BPS) yang dikutip media.
 
 **Adegan Beni, pesan dari bank yang tidak datang**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -265,14 +275,14 @@ Beni menunggu telepon dari bank sepanjang sore. Telepon itu tidak pernah datang.
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
 - Kartu angka: Rp16.500 (Juni 1998) dan 82,4 persen (September 1998), masing-masing dengan tanggal dan sumber.
-- Kartu PDB 1998, dengan label sumber.
+- Kartu produk domestik bruto (PDB) 1998, dengan label sumber.
 - Kartu tokoh Rudi dan Beni, masing-masing dengan label "ilustrasi, tokoh fiktif".
 - Tidak ada visual kerusuhan Mei 1998.
 - Jeda di 21:00.
 
 **Sumber di layar**
 - Kredit usaha kecil macet: Bank Indonesia Laporan Tahunan 1998/99, hlm. 96 (ledger B7).
-- Jumlah UMKM: BPS, dikutip media (ledger R4).
+- Jumlah usaha mikro, kecil, dan menengah (UMKM): BPS, dikutip media (ledger R4).
 - Rupiah Rp16.500: Bank Indonesia Laporan Tahunan 1998/99.
 - Inflasi 82,4 persen: Bank Indonesia Laporan Tahunan 1998/99.
 - Pengangguran dan PHK: Bank Indonesia Laporan Tahunan 1998/99.
@@ -291,7 +301,7 @@ Nilai BLBI sekitar Rp148,8 triliun pada akhir Mei 1998, dan sekitar Rp153,5 tril
 
 Sesuai kesepakatan Frankfurt pada 4 Juni 1998, pemerintah membayar tunggakan utang antarbank dan pembiayaan perdagangan kepada kreditur luar negeri.
 
-Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun, lalu turun menjadi sekitar Rp153,5 triliun pada Desember 1998. Audit BPK tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
+Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun, lalu turun menjadi sekitar Rp153,5 triliun pada Desember 1998. Audit Badan Pemeriksa Keuangan (BPK) tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
 
 Dalam penyelesaiannya, sebagian penerima BLBI memperoleh klausul yang disebut *Release and Discharge*, atau R&D. Klausul ini menyatakan bahwa tagihan dinyatakan lunas dan jaminan BLBI dilepas. R&D diterbitkan setelah kewajiban bank kepada pemerintah dilunasi.
 
@@ -385,7 +395,7 @@ Rudi membaca dokumen perjanjian sewa dengan teliti. Ada pasal yang menyebut jami
 - Nilai BLBI 1998: Laporan Tahunan Bank Indonesia 1998/99.
 - Potensi kerugian Rp138 triliun: Kementerian Keuangan melalui CNBC Indonesia (2021).
 - BLBI Rp177,1 triliun dan kesepakatan Frankfurt: Bank Indonesia Laporan Tahunan 1998/99.
-- Klausul R&D: Lex Renaissance UII; Jurnal Ius Publicum 2023.
+- Klausul R&D: Lex Renaissance, Universitas Islam Indonesia (UII); Jurnal Ius Publicum 2023.
 - Definisi BLBI (jika dipakai di babak ini): IDN Times; e-journal Universitas Atma Jaya Yogyakarta; Nurhayani (media.neliti.com).
 
 **ID ledger:** F-7, F-8, R2, R-1.
@@ -398,7 +408,7 @@ Pada 13 Maret 1999, pemerintah membekukan kegiatan usaha 38 bank, mengambil alih
 
 Pada 2004, Undang-Undang Nomor 24 Tahun 2004 membentuk Lembaga Penjamin Simpanan, LPS. LPS mulai beroperasi pada 22 September 2005.
 
-Dari sisi utang kepada luar negeri, pemerintah melunasi pinjaman IMF lebih awal, pada tahun 2006. Pokok pinjaman sebesar SDR 11,1 miliar sudah lunas, bersama bunga dan biaya sekitar SDR 2,1 miliar.
+Dari sisi utang kepada luar negeri, pemerintah melunasi pinjaman IMF lebih awal, pada tahun 2006. Pokok pinjaman sebesar Special Drawing Rights (SDR) 11,1 miliar sudah lunas, bersama bunga dan biaya sekitar SDR 2,1 miliar.
 
 Pada 24 Agustus 2026, pemerintah melunasi utang BLBI kepada Bank Indonesia sebesar Rp218,3 triliun.
 
@@ -462,7 +472,7 @@ Di pasar, Rudi bertemu mantan karyawannya. Mereka bercakap sebentar tentang kaba
 
 
 
-Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum melunasi kewajiban, dengan nilai Rp211,02 triliun. Angka ini dikutip beberapa media dari IHPS II-2025.
+Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum melunasi kewajiban, dengan nilai Rp211,02 triliun. Angka ini dikutip beberapa media dari Ikhtisar Hasil Pemeriksaan Semester (IHPS) II-2025.
 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
@@ -474,11 +484,11 @@ Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum meluna
 **Sumber di layar**
 - Debitur eks-BLBI belum lunas per 30 Juni 2025: BPK, IHPS II-2025, dikutip media (ledger P8).
 - BPPN berakhir 27 Februari 2004: Keputusan Presiden 15/2004.
-- LPS dibentuk UU 24/2004, beroperasi 22 September 2005: UU 24/2004.
+- LPS dibentuk Undang-Undang (UU) 24/2004, beroperasi 22 September 2005: UU 24/2004.
 - Pelunasan dini pinjaman IMF: IMF, siaran pers 6 Oktober 2006; tabel transaksi IMF untuk angka SDR. Tanggal pelunasan ditulis hanya 2006.
 - Pelunasan BLBI Rp218,3 triliun: CNBC Indonesia, Kompas TV.
-- Piutang Rp211,96 triliun: LKPP 2024 (audited), CaLK.
-- Rincian piutang: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi (LKPP 2024, CaLK).
+- Piutang Rp211,96 triliun: Laporan Keuangan Pemerintah Pusat (LKPP) 2024 (audited), Catatan atas Laporan Keuangan (CaLK).
+- Rincian piutang: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT Perusahaan Pengelola Aset (PPA), Rp9,5 triliun eks bank dalam likuidasi (LKPP 2024, CaLK).
 - Pembekuan 38 bank, 7 diambil alih, 9 direkapitalisasi: Bank Indonesia Laporan Tahunan 1998/99.
 
 **ID ledger:** P9, P10, P1–P3, P5, P6, P8, P13, F-9, F-10.
@@ -489,7 +499,7 @@ Menurut BPK, per 30 Juni 2025 terdapat 25.306 debitur eks-BLBI yang belum meluna
 
 Rupiah melemah lebih dari tiga puluh persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan, dan sebagian penerimanya memperoleh klausul yang masih diperdebatkan.
 
-Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006. Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis. Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah. Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke OJK.
+Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006. Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis. Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah. Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke Otoritas Jasa Keuangan (OJK).
 
 Film ini menutup dengan pertanyaan, bukan kesimpulan. Siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih?
 
