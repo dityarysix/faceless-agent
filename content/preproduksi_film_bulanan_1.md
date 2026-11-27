@@ -1,6 +1,6 @@
 # Pra-produksi: film bulanan 1
 
-Status: pra-produksi. Belum ada naskah, narasi, atau render. Jadwal rilis belum ditetapkan.
+Status: pra-produksi. Naskah narasi sudah dibekukan (draf beku v1). Belum ada render. Jadwal rilis belum ditetapkan.
 
 ## Lingkup
 - Format: film bulanan, 35–45 menit (maksimal 45). Terpisah dari video mingguan 10–15 menit (Rabu 16.00 WIB).

@@ -1,6 +1,6 @@
 # Treatment: film bulanan 1 (Krisis Moneter 1998)
 
-Status: draf treatment, sudah direvisi sesuai tinjauan Opus. Belum ada naskah atau narasi. Tanggal rilis belum ditentukan.
+Status: draf treatment, sudah direvisi sesuai tinjauan Opus. Naskah narasi sudah dibekukan (draf beku v1, lihat `content/naskah_film_bulanan_1.md`). Tanggal rilis belum ditentukan.
 Durasi isi: 41:30. Batas maksimal 42:00, dengan 30 detik cadangan untuk overrun. Struktur lengkap ada di `content/preproduksi_film_bulanan_1.md`.
 
 ## Judul kerja
@@ -11,7 +11,7 @@ Pada 1997–1998, rupiah melemah tajam dan bank-bank bermasalah ditutup atau dib
 
 ## Pertanyaan sentral
 "Siapa yang menang dan siapa yang kalah dari Krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?"
-Status: usulan, belum disetujui pengguna.
+Status: disetujui pengguna (tugas #1).
 
 ## Tokoh
 - **Rudi, pengusaha ekspor furnitur.** Komposit fiktif, berlabel ilustrasi. Usaha ekspor atau jasa. Punya utang dalam dolar. Nasibnya diikuti sampai akhir film.

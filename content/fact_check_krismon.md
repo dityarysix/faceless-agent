@@ -1,6 +1,6 @@
 # Fact-check: Krisis Moneter 1998 (krismon)
 
-Status: riset. Belum ada naskah. Dibuat sebagai dasar fact-check ledger (tugas #6).
+Status: riset dan ledger aktif. Naskah narasi sudah dibekukan (draf beku v1). Dibuat sebagai dasar fact-check ledger (tugas #6).
 Aturan: sumber primer diutamakan. Jika tidak bisa diakses, klaim dinyatakan valid bila didukung minimal 3 sumber independen (buku, jurnal akademik, dokumen atau catatan resmi, dan artikel media).
 Catatan independensi: dokumen dari institusi yang sama dihitung sebagai sumber terpisah sesuai keputusan pengguna. Artikel media yang hanya mengutip satu sumber dihitung sebagai satu.
 Aturan pemakaian: Valid boleh dipakai sebagai fakta. Sebagian boleh dipakai di layar hanya dengan sumber yang tampil di layar saat tayang. Belum terverifikasi tidak boleh dipakai di naskah.
