@@ -191,6 +191,8 @@ Pagi itu Beni pergi ke pasar untuk membeli minyak nabati contoh, untuk menguji k
 
 **Narasi**
 
+Pada Mei 1998, tuntutan reformasi memuncak.
+
 Pada pertengahan Juni 1998, nilai tukar mencapai sekitar Rp16.500 per dolar Amerika.
 
 Pengangguran terbuka naik dari 4,3 juta pada 1997 menjadi 5,1 juta pada 1998, dan 108.363 pekerja tercatat mengalami pemutusan hubungan kerja (PHK) secara resmi. Rata-rata rasio kecukupan modal bank turun dari 4,3 persen menjadi minus 24,6 persen antara Maret 1998 dan Februari 1999.
@@ -282,6 +284,7 @@ Beni menunggu telepon dari bank sepanjang sore. Telepon itu tidak pernah datang.
 - Jeda di 21:00.
 
 **Sumber di layar**
+- Tuntutan reformasi memuncak pada Mei 1998: Ikatan Sarjana Ekonomi Indonesia (ISEI) (2025), Kelampauan, Kekinian dan Hari Depan, hlm. 138 (sumber sekunder).
 - Kredit usaha kecil macet: Bank Indonesia Laporan Tahunan 1998/99, hlm. 96 (ledger B7).
 - Jumlah usaha mikro, kecil, dan menengah (UMKM): BPS, dikutip media (ledger R4).
 - Rupiah Rp16.500: Bank Indonesia Laporan Tahunan 1998/99.
@@ -290,7 +293,7 @@ Beni menunggu telepon dari bank sepanjang sore. Telepon itu tidak pernah datang.
 - Rasio kecukupan modal: Bank Indonesia Laporan Tahunan 1998/99.
 - PDB minus 13,7 persen: Bank Indonesia Laporan Tahunan 1998/99.
 
-**ID ledger:** C2, C4, C1, F-4, F-5, F-6, B7, R4.
+**ID ledger:** C2, C4, C1, F-4, F-5, F-6, F-13, B7, R4.
 
 ## Babak 4: Mesin BLBI (21:00–28:30)
 
