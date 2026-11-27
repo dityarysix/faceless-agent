@@ -19,7 +19,11 @@ Pada 27 Oktober 1988, pemerintah mempermudah pendirian bank baru. Dalam beberapa
 
 Pinjaman luar negeri swasta yang berjangka pendek sebagian besar tidak dilindungi dari perubahan kurs.
 
+Di sektor swasta, pinjaman dari bank internasional banyak diambil perusahaan non-bank. Di Indonesia, porsinya lebih dari 60 persen. Di Korea sepertiganya, dan di Malaysia serta Thailand sekitar 60 persen.
+
 Utang dalam dolar harus dibayar dengan dolar. Karena itu, ketika rupiah melemah, setiap dolar yang harus dibayar membutuhkan lebih banyak rupiah. Pendapatan dalam dolar tidak otomatis aman. Jika utang lebih besar dari pendapatan, atau kredit dan bahan baku tiba-tiba ditarik, usaha tetap bisa kalah. Pendapatan dalam rupiah tidak ikut naik ketika kurs bergerak, sementara biaya barang impor ikut naik.
+
+Menurut kajian Zhuang dan Dowling yang diterbitkan Asian Development Bank, indeks komposit peringatan dini memberi tujuh sinyal untuk Indonesia dalam 24 bulan sebelum krisis, dengan lead time 11 bulan.
 
 Di film ini ada dua pengusaha. Keduanya fiktif, dibentuk sebagai contoh, dan diberi label ilustrasi setiap kali muncul di layar. Rudi menerima pendapatan dalam dolar dari ekspor atau jasa. Beni menerima pendapatan dalam rupiah dari pasar domestik.
 
@@ -73,8 +77,10 @@ Rudi membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi puny
 - Deregulasi perbankan 1988: Bank Indonesia, halaman sejarah.
 - Utang swasta jangka pendek: IMF Letter of Intent, 31 Oktober 1997.
 - Rupiah relatif stabil: IMF Letter of Intent, 31 Oktober 1997.
+- Pinjaman bank internasional oleh perusahaan non-bank: Akyüz, UNCTAD X (2000), hlm. 10.
+- Tujuh sinyal dan lead time 11 bulan: Zhuang dan Dowling, ERD Policy Brief No. 7 (2002), hlm. 3.
 
-**ID ledger:** K-1, T-3, T-2, K-3a, K-3b, T-1, F-1, F-2.
+**ID ledger:** K-1, T-3, T-2, K-3a, K-3b, T-1, F-1, F-2, A-1, A-2.
 
 ## Babak 2: Rupiah Runtuh (6:30–14:00)
 
@@ -82,17 +88,19 @@ Rudi membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi puny
 
 BLBI adalah bantuan likuiditas darurat dari Bank Indonesia kepada bank yang kesulitan memenuhi kewajibannya kepada nasabah. Bank sentral bertindak sebagai pemberi pinjaman terakhir.
 
+Di Thailand, krisis pecah pada awal Juli 1997, ketika Bank of Thailand tidak lagi bisa menjaga baht tetap di dalam pitanya. Sebelumnya, dolar sempat turun terhadap yen, dari sekitar 127 yen pada awal Mei 1997 menjadi 114 yen pada akhir Juni. Menurut Akyüz, ini tampaknya menjadi pemicu terpenting krisis di Thailand.
+
 Pada 11 Juli 1997, pita intervensi rupiah dilebarkan dari 8 ke 12 persen, dan pada Agustus rupiah dibiarkan mengambang.
 
 Pada 15 Agustus 1997, Bank Indonesia mulai memberikan fasilitas likuiditas. Fasilitas ini kelak dikenal dengan nama BLBI.
 
 Sekitar tiga minggu kemudian, pada 3 September 1997, keluar instruksi kepada Menteri Keuangan dan Gubernur Bank Indonesia.
 
-Sepanjang pertengahan Juli sampai pertengahan Oktober 1997, rupiah melemah lebih dari tiga puluh persen.
+Sepanjang pertengahan Juli sampai pertengahan Oktober 1997, rupiah melemah lebih dari tiga puluh persen. Bacha (2004) mencatat penurunan sekitar 40 persen untuk Juli sampai Oktober 1997.
 
 Pada 1 November 1997, enam belas bank ditutup.
 
-Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia.
+Pada 5 November 1997, IMF menyetujui program stand-by untuk Indonesia. Menurut Bacha (2004), paket pembiayaan resmi yang disusun IMF untuk Indonesia sebesar 36 miliar dolar AS.
 
 Pada akhir Desember 1997, SBPUK sebesar Rp36,5 triliun diberikan kepada dua puluh delapan bank. Dari awal Desember 1997 sampai awal Januari 1998, rupiah turun dari sekitar Rp3.700 menjadi sekitar Rp8.000 per dolar.
 
@@ -152,7 +160,7 @@ Malam itu Rudi menyusun dua daftar di meja makan. Daftar pertama berisi pesanan 
 
 **Visual dan jeda**
 - Teks kecil di layar saat penjelasan umum: "Penjelasan umum, bukan klaim peristiwa." (tidak dibacakan)
-- Peta waktu Juli 1997 sampai Januari 1998, dengan kartu tanggal.
+- Peta waktu Mei 1997 sampai Januari 1998, dengan kartu tanggal.
 - Kartu angka: 16 bank ditutup, Rp36,5 triliun SBPUK kepada 28 bank.
 - Kartu tokoh Rudi dan Beni, masing-masing dengan label "ilustrasi, tokoh fiktif".
 - Jeda di 14:00.
@@ -167,8 +175,11 @@ Malam itu Rudi menyusun dua daftar di meja makan. Daftar pertama berisi pesanan 
 - 16 bank ditutup: IMF Letter of Intent, 31 Oktober 1997.
 - Stand-by IMF 5 November 1997: IMF, siaran pers 5 November 1997.
 - SBPUK Rp36,5 triliun: Bank Indonesia Working Paper 15/2018.
+- Thailand dan baht, dolar terhadap yen: Akyüz, UNCTAD X (2000), hlm. 12–13.
+- Rupiah sekitar 40 persen: Bacha, APDJ (2004), hlm. 81.
+- Paket pembiayaan resmi yang disusun IMF, 36 miliar: Bacha, APDJ (2004), hlm. 91–92.
 
-**ID ledger:** C8, T-5, T-1, C5, C3, T-4, F-2, F-3.
+**ID ledger:** C8, T-5, T-1, C5, C3, T-4, F-2, F-3, A-3, A-4, A-5, A-6.
 
 ## Babak 3: Puncak 1998 (14:00–21:00)
 
@@ -326,6 +337,16 @@ Beni mengajak karyawannya makan siang di halaman rumah produksi. Nasi bungkus, t
 Rudi naik bus malam ke kota lain untuk mencari pembeli baru. Di dalam bus ia membuka buku catatan dan menghitung ulang biaya perjalanan. Di kursi sebelah, seorang penumpang tertidur dengan map plastik di pangkuannya. Rudi melihat ke luar jendela dan memikirkan berapa lama usaha ini bisa bertahan jika pesanan pertama tidak datang.
 
 Dalam penyelesaian sebuah krisis, pihak yang berutang dan pihak yang menagih sering memiliki kepentingan yang berbeda. Perbedaan ini tidak selalu tampak di permukaan, tetapi terasa dalam setiap pertemuan.
+
+**Adegan Rudi, hitungan ulang**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Malam itu Rudi menghitung ulang setiap pembayaran yang masih tertunda. Pembeli di Eropa masih membayar, tetapi tidak sebesar bulan-bulan sebelumnya. Ia menulis angka di kertas, mencoretnya, lalu menulisnya lagi. Yang ia pikirkan bukan keuntungan, melainkan berapa lama usahanya bisa bertahan jika satu pembeli berhenti memesan.
+
+**Adegan Beni, surat dari pemasok lama**
+*Label di layar: "ilustrasi, tokoh fiktif".*
+
+Sebuah surat datang dari pemasok lama yang dulu menjual minyak nabati kepada Beni. Isinya menanyakan apakah Beni masih mau membeli bulan depan dengan pembayaran di muka. Beni membaca surat itu dua kali, lalu menjawab bahwa ia akan memberi kabar setelah menghitung kas.
 
 **Adegan Beni, rapat tentang masa depan usaha**
 *Label di layar: "ilustrasi, tokoh fiktif".*
