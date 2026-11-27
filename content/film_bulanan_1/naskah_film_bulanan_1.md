@@ -13,7 +13,7 @@ Sebagian besar tahun 1990-an, rupiah relatif stabil. Lalu pada tahun 1997, dalam
 
 Film ini bertanya satu hal. Siapa yang menang dan siapa yang kalah dari krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?
 
-Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat. Pada Pembangunan Lima Tahun III (Pelita III), penerimaan migas rata-rata 66,9 persen dari penerimaan dalam negeri.
+Untuk menjawabnya, kita mulai dari sebelum krisis. Antara April 1979 dan April 1980, harga minyak dunia naik lebih dari dua kali lipat. Pada Pembangunan Lima Tahun III (Pelita III), penerimaan migas rata-rata menyumbang 66,9 persen dari penerimaan dalam negeri.
 
 Pada 27 Oktober 1988, pemerintah mempermudah pendirian bank baru. Dalam beberapa dekade sebelum krisis, kemiskinan turun dari lebih 60 persen di akhir 1960-an menjadi 11 persen di pertengahan 1990-an.
 
