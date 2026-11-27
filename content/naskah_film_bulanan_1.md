@@ -1,4 +1,4 @@
-> Status: DRAF. Belum final; durasi narasi masih kurang dan fakta baru sedang diperiksa.
+> Status: DIBEKUKAN (draf beku v1). Durasi narasi di bawah target, diterima sesuai keputusan pengguna. Perubahan lanjutan hanya dengan persetujuan.
 
 # Naskah narasi: Krisis 1998, siapa menang, siapa kalah (draf lengkap, opsi 2)
 
