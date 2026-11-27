@@ -46,7 +46,7 @@ Suara: Bian (ElevenLabs v4, `1k39YpzqXZn52BgyLyGO`). Disetujui pengguna dan suda
 | Dowling | dau-ling | |
 | Frankfurt | frank-furt | |
 | Rudi | ru-di | |
-| Beni | be-ni | |
+| Roni | ro-ni | |
 
 ## Angka dan satuan
 

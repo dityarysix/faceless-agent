@@ -17,7 +17,7 @@ Prompt awal: "soft instrumental documentary underscore, warm, restrained, piano 
 
 | Suara | Dipakai untuk | Catatan |
 |---|---|---|
-| Kertas dan pena | Buku catatan dan surat (Rudi dan Beni) | Adegan 1.4c (A1), 2.4b (A5), 4.4b (A27), 6.3e (A54). Termasuk variasi balik halaman |
+| Kertas dan pena | Buku catatan dan surat (Rudi dan Roni) | Adegan 1.4c (A1), 2.4b (A5), 4.4b (A27), 6.3e (A54). Termasuk variasi balik halaman |
 | Ketikan kalkulator | Hitung ulang Rudi | Adegan 2.4g (A9), 4.4a (A26), 4.4k (A33). Bukan kartu angka |
 | Langkah kaki di lantai kayu | Rudi masuk bekas gudang | Adegan 5.4j (A47). Tidak di 2.4g |
 | Pintu gudang ditutup | Gudang ditutup | Adegan 5.4a (A40) |

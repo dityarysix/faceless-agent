@@ -12,7 +12,7 @@
 - **Latar:** sesuai naskah beku. Gudang, rumah produksi, warung, pasar, kantor bank, ruang rapat, teras, rumah, dermaga, bus, sekolah, ruang tunggu pabrik, meja makan, dan halaman rumah produksi.
 - **Palet:** hijau dan emas, sesuai avatar dan banner kanal.
 
-## Ilustrasi Rudi dan Beni
+## Ilustrasi Rudi dan Roni
 - **Gaya:** ilustrasi datar editorial, non-fotorealistis, garis tegas, warna terbatas.
 - **Ciri netral:** tanpa penanda etnis, agama, atau daerah. Pakaian dan rambut generik.
 - **Ciri tetap:** bentuk tubuh umum dan warna pakaian utama, dipertahankan di semua adegan.
@@ -42,7 +42,7 @@
 - Pengecualian: logo kanal dan nama sumber berbentuk teks di layar boleh.
 
 ## Pemeriksaan sebelum rilis
-- Setiap ilustrasi Rudi, Beni, dan tokoh pendamping berlabel "ilustrasi, tokoh fiktif".
+- Setiap ilustrasi Rudi, Roni, dan tokoh pendamping berlabel "ilustrasi, tokoh fiktif".
 - Setiap penjelasan umum berlabel "Penjelasan umum, bukan klaim peristiwa".
 - Setiap klaim Sebagian menampilkan sumbernya di layar.
 - Tidak ada nama pejabat, bank, atau kampus di layar sebagai pelaku.

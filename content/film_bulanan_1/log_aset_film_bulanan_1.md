@@ -18,7 +18,7 @@ Status per 27 November 2026. Ringkas dan diperbarui setiap ada aset baru atau pe
 
 | Aset | Jumlah | Perkiraan kredit | Status |
 |---|---|---|---|
-| Gambar ilustrasi AI (Rudi dan Beni) | 56 shot | sekitar 672 kredit (12 per gambar) | belum dibuat |
+| Gambar ilustrasi AI (Rudi dan Roni) | 56 shot | sekitar 672 kredit (12 per gambar) | belum dibuat |
 | Narasi suara (TTS) | 35:42 menit | belum dihitung (estimasi 4 kredit per uji) | belum dibuat |
 | Kartu tokoh | 2 | termasuk di gambar | belum dibuat |
 

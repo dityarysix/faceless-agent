@@ -2,7 +2,7 @@
 
 Acuan: naskah beku `naskah-beku-v1` (commit 0a17a45), master breakdown, ledger, dan tinjauan Opus atas v3. Urutan shot mengikuti urutan adegan dan kartu di naskah beku. Semua 56 adegan berlabel sudah punya shot (lihat pemetaan di bagian akhir). Total v4 tanpa pemotongan: 58:36 (master: 41:30). Perhitungan dan opsi pemotongan ada di `estimasi_durasi_v4.md`.
 
-Aturan layar: setiap shot ilustrasi Rudi atau Beni berlabel "ilustrasi, tokoh fiktif". Kartu Sebagian wajib menampilkan sumbernya. Penjelasan umum berlabel "Penjelasan umum, bukan klaim peristiwa". Tidak ada visual kerusuhan Mei 1998, foto arsip 1998, nama pejabat, nama bank, atau nama kampus.
+Aturan layar: setiap shot ilustrasi Rudi atau Roni berlabel "ilustrasi, tokoh fiktif". Kartu Sebagian wajib menampilkan sumbernya. Penjelasan umum berlabel "Penjelasan umum, bukan klaim peristiwa". Tidak ada visual kerusuhan Mei 1998, foto arsip 1998, nama pejabat, nama bank, atau nama kampus.
 
 Kolom "v3" memuat nomor shot di v3 ("baru" bila shot ditambahkan di v4). Kolom "Adegan" memuat nomor adegan berlabel di naskah beku (A1 sampai A56); tanda "-" berarti kartu fakta atau shot narasi penghubung (bukan adegan berlabel).
 
@@ -21,15 +21,15 @@ Kolom "v3" memuat nomor shot di v3 ("baru" bila shot ditambahkan di v4). Kolom "
 | 1.3c | 1.3c | - | 0:30 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Utang dolar harus dibayar dengan dolar. Ketika rupiah melemah, setiap dolar membutuhkan lebih banyak rupiah | - | - |
 | 1.3d | 1.3d | - | 0:10 | Kartu angka | Indeks komposit peringatan dini: tujuh sinyal untuk Indonesia dalam 24 bulan sebelum krisis, lead time 11 bulan | Zhuang dan Dowling, Economics and Research Department (ERD) Policy Brief No. 7 (2002), hlm. 3 | A-1 |
 | 1.4a | 1.4a | - | 0:30 | Kartu tokoh, label "ilustrasi, tokoh fiktif" | Rudi, pengusaha ekspor furnitur | - | - |
-| 1.4b | 1.5a | - | 0:30 | Kartu tokoh, label "ilustrasi, tokoh fiktif" | Beni, pengusaha sabun | - | - |
+| 1.4b | 1.5a | - | 0:30 | Kartu tokoh, label "ilustrasi, tokoh fiktif" | Roni, pengusaha sabun | - | - |
 | 1.4c | 1.4b | A1 | 1:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Gudang kecil, kontainer kayu jati, buku catatan, telepon bank | - | - |
 | 1.4d | 1.5b | A2 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rumah produksi, catatan harga bahan baku | - | - |
 | 1.4e | baru | - | 0:20 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Siapa yang menanggung akibatnya? Jawabannya tidak pernah satu orang saja. | - | - |
-| 1.4f | baru | - | 0:15 | Tipografi, label "ilustrasi, tokoh fiktif" | Rudi dan Beni: dua tokoh fiktif, dipilih untuk menunjukkan bagaimana krisis yang sama bekerja pada dua jenis pendapatan | - | - |
-| 1.4g | baru | A3 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: pagi di rumah produksi, lampu gudang belum menyala, buku besar bahan baku, satu kalimat di pinggir halaman | - | - |
+| 1.4f | baru | - | 0:15 | Tipografi, label "ilustrasi, tokoh fiktif" | Rudi dan Roni: dua tokoh fiktif, dipilih untuk menunjukkan bagaimana krisis yang sama bekerja pada dua jenis pendapatan | - | - |
+| 1.4g | baru | A3 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: pagi di rumah produksi, lampu gudang belum menyala, buku besar bahan baku, satu kalimat di pinggir halaman | - | - |
 | 1.4h | baru | A4 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: membungkus kursi dengan kertas koran bekas, setiap kursi bernomor dan bernama pembeli | - | - |
 
-Catatan: Segmen 1.4 (Rudi) dan 1.5 (Beni) di master digabung menjadi satu blok, karena naskah beku menyajikan urutan: pengantar dua tokoh, adegan Rudi, adegan Beni, adegan Beni pagi, adegan Rudi kursi. Durasi master gabungan 3:00.
+Catatan: Segmen 1.4 (Rudi) dan 1.5 (Roni) di master digabung menjadi satu blok, karena naskah beku menyajikan urutan: pengantar dua tokoh, adegan Rudi, adegan Roni, adegan Roni pagi, adegan Rudi kursi. Durasi master gabungan 3:00.
 
 Catatan: T-1 tampil di 1.1a (sesuai naskah beku, kalimat pembuka) dan di 2.2b (sesuai master). Shot 1.4e dan 1.4f adalah narasi penghubung yang tidak berlabel adegan di naskah beku.
 
@@ -49,18 +49,18 @@ Catatan: T-1 tampil di 1.1a (sesuai naskah beku, kalimat pembuka) dan di 2.2b (s
 | 2.3d | 2.3d | - | 0:15 | Kartu angka | Akhir Desember 1997: Surat Berharga Pasar Uang Khusus (SBPUK) Rp36,5 triliun kepada 28 bank | Bank Indonesia Working Paper 15/2018, hlm. 12 | T-4 |
 | 2.3e | 2.3e | - | 0:15 | Kartu angka | Rupiah dari sekitar Rp3.700 ke sekitar Rp8.000 per dolar (awal Desember 1997 sampai awal Januari 1998) | IMF Letter of Intent, 15 Januari 1998 | F-3 |
 | 2.3f | baru | - | 0:10 | Kartu tanggal | Istilah BLBI resmi dipakai pada 15 Januari 1998 | IMF Letter of Intent, 15 Januari 1998; Simanjuntak (2002), hlm. 15 | C8 |
-| 2.4a | baru | - | 0:15 | Tipografi, label "ilustrasi, tokoh fiktif" | Rudi dan Beni: alur fiksi. Rudi, kredit dagang dikurangi dan pembeli menunda pembayaran. Beni, kredit tidak bisa dicairkan | - | - |
+| 2.4a | baru | - | 0:15 | Tipografi, label "ilustrasi, tokoh fiktif" | Rudi dan Roni: alur fiksi. Rudi, kredit dagang dikurangi dan pembeli menunda pembayaran. Roni, kredit tidak bisa dicairkan | - | - |
 | 2.4b | 2.4a | A5 | 0:45 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: surat bank, kredit bahan dikurangi (Oktober 1997) | - | - |
-| 2.4c | 2.4b | A6 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: rapat kepala bagian, harga minyak nabati naik | - | - |
+| 2.4c | 2.4b | A6 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: rapat kepala bagian, harga minyak nabati naik | - | - |
 | 2.4d | 2.4c | A7 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: pertemuan pemasok kayu | - | - |
-| 2.4e | 2.4d | A8 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: pembicaraan distributor, toko menunda pembelian, diskon kecil | - | - |
+| 2.4e | 2.4d | A8 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: pembicaraan distributor, toko menunda pembelian, diskon kecil | - | - |
 | 2.4f | baru | - | 0:15 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Aset panjang, kewajiban pendek: bank bisa kesulitan memenuhi penarikan nasabah | - | - |
 | 2.4g | baru | A9 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: pertemuan di ruang rapat kecil, petugas kredit membuka map syarat baru; Rudi berjalan ke gudang dan menghitung ulang pesanan (akhir 1997) | - | - |
-| 2.4h | baru | A10 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: menghitung gaji tiga puluh karyawan, mengumumkan jam kerja dikurangi sementara (awal Januari 1998) | - | - |
+| 2.4h | baru | A10 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: menghitung gaji tiga puluh karyawan, mengumumkan jam kerja dikurangi sementara (awal Januari 1998) | - | - |
 | 2.4i | baru | - | 0:20 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Penarikan bersamaan: bantuan bank sentral menjadi jalan sementara, dan syaratnya sering menentukan siapa yang bertahan | - | - |
-| 2.4j | baru | A11 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: percakapan di warung dekat rumah produksi, pemilik warung mengambil dua batang sabun | - | - |
+| 2.4j | baru | A11 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: percakapan di warung dekat rumah produksi, pemilik warung mengambil dua batang sabun | - | - |
 | 2.4k | 2.4e | A12 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi di meja makan, dua daftar pesanan dan pembeli | - | - |
-| 2.4l | 2.4f | A13 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni di pasar, harga minyak nabati berubah | - | - |
+| 2.4l | 2.4f | A13 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni di pasar, harga minyak nabati berubah | - | - |
 
 Catatan: Shot 2.4a adalah kartu peralihan dari fakta ke alur fiksi (kalimat "Bagi Rudi ... Keduanya adalah alur fiksi"). Shot 2.4f dan 2.4i adalah narasi penjelasan umum yang tertulis di antara adegan di naskah beku.
 
@@ -78,21 +78,21 @@ Catatan: Shot 2.4a adalah kartu peralihan dari fakta ke alur fiksi (kalimat "Bag
 | 3.2b | 3.2b | - | 0:10 | Kartu angka | Produk domestik bruto (PDB) 1998 turun 13,7 persen | Bank Indonesia Laporan Tahunan 1998/99, hlm. 20 | C1 |
 | 3.2c | 3.2c | - | 0:10 | Kartu angka | Pangsa kredit macet kredit usaha kecil naik dari 3,9 persen menjadi 9,4 persen (tahun buku 1997/98 ke 1998/99) | Bank Indonesia Laporan Tahunan 1998/99, hlm. 96 | B7 |
 | 3.3a | 3.3a | A14 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: gudang separuh kosong, daftar pembeli yang belum membayar (Juni 1998) | - | - |
-| 3.3b | 3.3b | A15 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: pasar, pembeli hanya membeli satu batang (September 1998) | - | - |
+| 3.3b | 3.3b | A15 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: pasar, pembeli hanya membeli satu batang (September 1998) | - | - |
 | 3.3c | baru | - | 0:15 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Harga naik lebih cepat dari upah: uang di tangan orang membeli lebih sedikit | - | - |
 | 3.3d | 3.3c | A16 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: malam di gudang, lampu neon berkedip, kontrak lama | - | - |
-| 3.3e | 3.3d | A17 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: antrean warung, seorang ibu menghitung rupiah | - | - |
-| 3.3f | 3.3e | A18 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: pertemuan dengan pekerja, sisa bahan dibagi | - | - |
+| 3.3e | 3.3d | A17 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: antrean warung, seorang ibu menghitung rupiah | - | - |
+| 3.3f | 3.3e | A18 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: pertemuan dengan pekerja, sisa bahan dibagi | - | - |
 | 3.3g | baru | - | 0:30 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Angka pengangguran terbuka hanya menghitung orang yang sedang mencari kerja, sehingga angka PHK dibaca sebagai batas bawah. Rasio kecukupan modal: perbandingan modal bank terhadap aset berisiko | - | - |
 | 3.3h | 3.3f | A19 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: bongkar gudang, surat berhenti kerja sementara | - | - |
 | 3.3i | 3.3g | A20 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: kursi terakhir di gudang yang kosong | - | - |
-| 3.3j | 3.3h | A21 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: ruang tunggu pabrik lain, pekerja yang kehilangan pekerjaan | - | - |
+| 3.3j | 3.3h | A21 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: ruang tunggu pabrik lain, pekerja yang kehilangan pekerjaan | - | - |
 | 3.3k | baru | - | 0:15 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Perusahaan yang bertahan mengurangi karyawan bertahap: jam kerja dipangkas, gaji ditunda, atau kantor ditutup | - | - |
 | 3.3l | 3.3i | A22 | 0:24 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: daftar nama karyawan yang harus pindah kerja | - | - |
-| 3.3m | 3.3j | A23 | 0:23 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: pengumuman pagi kepada para pekerja | - | - |
+| 3.3m | 3.3j | A23 | 0:23 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: pengumuman pagi kepada para pekerja | - | - |
 | 3.3n | 3.3k | A24 | 0:23 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: malam terakhir di gudang, lampu padam satu per satu | - | - |
 | 3.3o | 3.2d | - | 0:15 | Kartu angka | Jumlah usaha mikro, kecil, dan menengah (UMKM): 39,8 juta (1997) ke 36,8 juta (1998) | Badan Pusat Statistik (BPS), dikutip Pajakku dan Kompaspedia | R4 |
-| 3.3p | 3.3l | A25 | 0:23 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: menunggu telepon dari bank yang tidak datang | - | - |
+| 3.3p | 3.3l | A25 | 0:23 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: menunggu telepon dari bank yang tidak datang | - | - |
 
 Catatan: Kartu UMKM (3.3o, v3 3.2d) dipindah ke posisi naskah beku, yaitu setelah adegan A24 (Rudi, lampu gudang padam), dan durasinya 0:15 (v3 0:10) karena kalimatnya sendiri sekitar 0:14.
 
@@ -113,20 +113,20 @@ Catatan: Singkatan pada kemunculan pertama di Babak 3 sudah dijabarkan di kolom 
 | 4.3a | 4.3a | - | 1:15 | Diagram, label "Penjelasan umum, bukan klaim peristiwa" | Sebagian penerima BLBI memperoleh klausul *Release and Discharge* (R&D): tagihan dinyatakan lunas dan jaminan BLBI dilepas | Lex Renaissance; Jurnal Ius Publicum 2023 | R-1 |
 | 4.3b | 4.3b | - | 0:45 | Kartu teks, label "Penjelasan umum, bukan klaim peristiwa" | R&D diterbitkan setelah kewajiban bank kepada pemerintah dilunasi. Kekuatan hukumnya diperdebatkan; film ini tidak mengambil sikap | Lex Renaissance; Jurnal Ius Publicum 2023 | R-1 |
 | 4.4a | baru | A26 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: pagi di gudang, menghitung ulang daftar bahan yang masih bisa dibeli | - | - |
-| 4.4b | baru | A27 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: map catatan produksi dan pembelian bahan selama sepuluh tahun | - | - |
-| 4.4c | baru | - | 0:20 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa"; label "ilustrasi, tokoh fiktif" pada kalimat tentang Rudi dan Beni | Pembacaan atas klausul R&D bisa berbeda, tergantung sudut pandang. Rudi dan Beni (fiktif) merasa perdebatan ini jauh dari urusan sehari-hari | - | - |
+| 4.4b | baru | A27 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: map catatan produksi dan pembelian bahan selama sepuluh tahun | - | - |
+| 4.4c | baru | - | 0:20 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa"; label "ilustrasi, tokoh fiktif" pada kalimat tentang Rudi dan Roni | Pembacaan atas klausul R&D bisa berbeda, tergantung sudut pandang. Rudi dan Roni (fiktif) merasa perdebatan ini jauh dari urusan sehari-hari | - | - |
 | 4.4d | 4.4a | A28 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: surat penasihat hukum, kontrak sewa gudang | - | - |
-| 4.4e | baru | A29 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: ruang rapat rumah produksi, karyawan mengangkat tangan atau menunduk | - | - |
+| 4.4e | baru | A29 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: ruang rapat rumah produksi, karyawan mengangkat tangan atau menunduk | - | - |
 | 4.4f | baru | - | 0:15 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Bank yang kesulitan kehilangan kepercayaan dari bank lain: pinjaman antarbank mahal atau berhenti | - | - |
 | 4.4g | baru | A30 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: surat pemberitahuan di gudang, kontrak sewa akan ditinjau ulang | - | - |
-| 4.4h | baru | A31 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: makan siang bersama karyawan di halaman rumah produksi, nasi bungkus dan teh manis | - | - |
+| 4.4h | baru | A31 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: makan siang bersama karyawan di halaman rumah produksi, nasi bungkus dan teh manis | - | - |
 | 4.4i | baru | A32 | 0:35 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: bus malam ke kota lain mencari pembeli baru, buku catatan biaya perjalanan | - | - |
 | 4.4j | baru | - | 0:15 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Pihak yang berutang dan pihak yang menagih sering memiliki kepentingan yang berbeda | - | - |
 | 4.4k | 4.4b | A33 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: menghitung ulang pembayaran yang tertunda | - | - |
-| 4.4l | 4.4c | A34 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: surat dari pemasok lama, pembayaran di muka | - | - |
-| 4.4m | baru | A35 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: rapat tiga orang kepercayaan di ruang kecil belakang rumah produksi, daftar pertanyaan | - | - |
+| 4.4l | 4.4c | A34 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: surat dari pemasok lama, pembayaran di muka | - | - |
+| 4.4m | baru | A35 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: rapat tiga orang kepercayaan di ruang kecil belakang rumah produksi, daftar pertanyaan | - | - |
 | 4.4n | baru | A36 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: pasar kayu, pemasok lama menjabat tangan dan meminta uang muka | - | - |
-| 4.4o | baru | A37 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: surat pembatalan pesanan dari toko langganan, disimpan di laci | - | - |
+| 4.4o | baru | A37 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: surat pembatalan pesanan dari toko langganan, disimpan di laci | - | - |
 | 4.4p | baru | A38 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: penjual sayur di pasar menaruh sebungkus cabai di tangan Rudi | - | - |
 | 4.4q | baru | A39 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: dokumen perjanjian sewa, pasal jaminan dan tenggat, salinan disimpan di laci | - | - |
 
@@ -144,16 +144,16 @@ Catatan: Shot 4.4c, 4.4f, dan 4.4j adalah narasi penjelasan umum yang tertulis d
 | 5.3a | 5.3a | - | 0:30 | Kartu angka | Pemerintah melunasi utang BLBI kepada Bank Indonesia: Rp218,3 triliun (24 Agustus 2026) | CNBC Indonesia; Kompas TV | P6 |
 | 5.3b | 5.3b | - | 0:30 | Kartu angka | Piutang BLBI per 31 Desember 2024: Rp211,96 triliun | Laporan Keuangan Pemerintah Pusat (LKPP) 2024 (audited), Catatan atas Laporan Keuangan (CaLK) | P13 |
 | 5.4a | 5.4a | A40 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: menutup gudang, buku catatan lama | - | - |
-| 5.4b | 5.4b | A41 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: sabun dalam skala kecil, tiga warung tetangga | - | - |
+| 5.4b | 5.4b | A41 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: sabun dalam skala kecil, tiga warung tetangga | - | - |
 | 5.4c | baru | - | 0:15 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Penagihan: daftar pengutang, negosiasi, kadang pengadilan. Setiap tahap bisa berhenti di tengah jalan | - | - |
 | 5.4d | 5.4c | A42 | 0:50 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: undangan makan siang dari pelanggan lama | - | - |
-| 5.4e | 5.4d | A43 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: mengantar anak ke sekolah, melewati toko lama | - | - |
+| 5.4e | 5.4d | A43 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: mengantar anak ke sekolah, melewati toko lama | - | - |
 | 5.4f | baru | - | 0:15 | Tipografi, label "Penjelasan umum, bukan klaim peristiwa" | Rekapitalisasi: suntikan modal ke bank agar memenuhi syarat minimum. Penyuntikan ini tidak gratis | - | - |
 | 5.4g | baru | A44 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: awal 2000, satu gudang kecil dan dua karyawan, kontainer berangkat dari dermaga | - | - |
-| 5.4h | baru | A45 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: usaha sabun dimulai lagi dengan modal kecil, jual langsung ke warung, empat pekerja | - | - |
-| 5.4i | baru | A46 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: buku catatan baru dengan kolom bahan, tenaga, sewa, dan keuntungan | - | - |
+| 5.4h | baru | A45 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: usaha sabun dimulai lagi dengan modal kecil, jual langsung ke warung, empat pekerja | - | - |
+| 5.4i | baru | A46 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: buku catatan baru dengan kolom bahan, tenaga, sewa, dan keuntungan | - | - |
 | 5.4j | baru | A47 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: mengajak anak masuk ke bekas gudang yang kosong, tempat kontainer dulu berdiri | - | - |
-| 5.4k | baru | A48 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: pemilik warung baru di pinggir kota, sepakat mencoba satu bulan | - | - |
+| 5.4k | baru | A48 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: pemilik warung baru di pinggir kota, sepakat mencoba satu bulan | - | - |
 | 5.4l | baru | A49 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: bertemu mantan karyawan di pasar | - | - |
 | 5.4m | 5.3c | - | 0:30 | Kartu angka | Per 30 Juni 2025, 25.306 debitur eks-BLBI belum melunasi Rp211,02 triliun | BPK, Ikhtisar Hasil Pemeriksaan Semester (IHPS) II-2025, dikutip media | P8 |
 
@@ -174,14 +174,14 @@ Catatan: Rincian piutang (F-10) ada di naskah beku pada daftar sumber, tetapi ti
 | 6.1e | 6.1d | - | 0:15 | Tipografi | Bank Indonesia dilarang memberi kredit kepada pemerintah | UU 23/1999, Pasal 56 ayat (1) | F-11 |
 | 6.1f | 6.1e | - | 0:15 | Tipografi | Sejak 31 Desember 2013 pengawasan perbankan beralih ke Otoritas Jasa Keuangan (OJK) | UU 21/2011, Pasal 55 ayat (2) | F-12 |
 | 6.2a | 6.2a | - | 0:45 | Tipografi | Siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih? | - | - |
-| 6.2b | baru | - | 0:15 | Tipografi, label "ilustrasi, tokoh fiktif" | Rudi dan Beni tetap menjadi alur fiksi, cara kita melihat pilihan yang tersedia ketika kredit dan pasar bergerak | - | - |
+| 6.2b | baru | - | 0:15 | Tipografi, label "ilustrasi, tokoh fiktif" | Rudi dan Roni tetap menjadi alur fiksi, cara kita melihat pilihan yang tersedia ketika kredit dan pasar bergerak | - | - |
 | 6.3a | 6.3a | A50 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: bangku depan rumah, buku catatan tertutup | - | - |
-| 6.3b | 6.3b | A51 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: rak sabun di warung sendiri | - | - |
+| 6.3b | 6.3b | A51 | 1:00 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: rak sabun di warung sendiri | - | - |
 | 6.3c | 6.3c | A52 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: sore di teras, secangkir kopi, anak membawa kabar sekolah baru | - | - |
-| 6.3d | baru | A53 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: menyusun sabun di rak warung, pembeli pertama seorang ibu membayar dengan uang lusuh | - | - |
-| 6.3e | 6.3d | A54 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: buku catatan lama 1997 | - | - |
+| 6.3d | baru | A53 | 0:40 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: menyusun sabun di rak warung, pembeli pertama seorang ibu membayar dengan uang lusuh | - | - |
+| 6.3e | 6.3d | A54 | 0:30 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: buku catatan lama 1997 | - | - |
 | 6.3f | baru | A55 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Rudi: malam di teras bersama anak, pertanyaan tentang apa yang paling disesali | - | - |
-| 6.3g | baru | A56 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Beni: pagi membuka warung, menata sabun di rak, mencatat penjualan pertama | - | - |
+| 6.3g | baru | A56 | 0:25 | Ilustrasi AI, label "ilustrasi, tokoh fiktif" | Roni: pagi membuka warung, menata sabun di rak, mencatat penjualan pertama | - | - |
 
 Catatan: Shot 6.1a (ringkasan pembuka) ditambahkan karena paragraf pertama naskah beku Babak 6 belum punya shot di v3. Durasi tiga kartu pertama 6.1 di v3 (6.1b sampai 6.1d di v4) dipangkas 0:05 masing-masing agar segmen 6.1 tetap 1:30. Shot 6.2a dipangkas dari 1:00 ke 0:45 dan 6.2b (0:15) ditambahkan agar segmen 6.2 tetap 1:00.
 
@@ -208,61 +208,61 @@ v4 belum dipotong. Cara mencapai 41:30 ada di `estimasi_durasi_v4.md` (opsi A, B
 | Adegan | Babak | Judul adegan di naskah beku | Shot v4 | Status |
 |---|---|---|---|---|
 | A1 | 1 | Rudi, pengusaha ekspor furnitur | 1.4c | dipertahankan dari v3 (1.4b) |
-| A2 | 1 | Beni, pengusaha sabun | 1.4d | dipertahankan dari v3 (1.5b) |
-| A3 | 1 | Beni, pagi di rumah produksi | 1.4g | baru di v4 (memuat kalimat "Film ini tidak mengajak ...") |
+| A2 | 1 | Roni, pengusaha sabun | 1.4d | dipertahankan dari v3 (1.5b) |
+| A3 | 1 | Roni, pagi di rumah produksi | 1.4g | baru di v4 (memuat kalimat "Film ini tidak mengajak ...") |
 | A4 | 1 | Rudi, kursi-kursi yang dikemas | 1.4h | baru di v4 |
 | A5 | 2 | Rudi, minggu-minggu pertama Oktober 1997 | 2.4b | dipertahankan dari v3 (2.4a) |
-| A6 | 2 | Beni, awal Oktober 1997 | 2.4c | dipertahankan dari v3 (2.4b) |
+| A6 | 2 | Roni, awal Oktober 1997 | 2.4c | dipertahankan dari v3 (2.4b) |
 | A7 | 2 | Rudi, pertemuan dengan pemasok | 2.4d | dipertahankan dari v3 (2.4c) |
-| A8 | 2 | Beni, pembicaraan dengan distributor | 2.4e | dipertahankan dari v3 (2.4d) |
+| A8 | 2 | Roni, pembicaraan dengan distributor | 2.4e | dipertahankan dari v3 (2.4d) |
 | A9 | 2 | Rudi, pertemuan dengan bank di akhir 1997 | 2.4g | baru di v4 |
-| A10 | 2 | Beni, pembayaran gaji di awal Januari 1998 | 2.4h | baru di v4 |
-| A11 | 2 | Beni, percakapan di warung | 2.4j | baru di v4 |
+| A10 | 2 | Roni, pembayaran gaji di awal Januari 1998 | 2.4h | baru di v4 |
+| A11 | 2 | Roni, percakapan di warung | 2.4j | baru di v4 |
 | A12 | 2 | Rudi, malam sebelum keputusan | 2.4k | dipertahankan dari v3 (2.4e) |
-| A13 | 2 | Beni, harga di pasar | 2.4l | dipertahankan dari v3 (2.4f) |
+| A13 | 2 | Roni, harga di pasar | 2.4l | dipertahankan dari v3 (2.4f) |
 | A14 | 3 | Rudi, Juni 1998 | 3.3a | dipertahankan dari v3 (3.3a) |
-| A15 | 3 | Beni, September 1998 | 3.3b | dipertahankan dari v3 (3.3b) |
+| A15 | 3 | Roni, September 1998 | 3.3b | dipertahankan dari v3 (3.3b) |
 | A16 | 3 | Rudi, malam hari di gudang | 3.3d | dipertahankan dari v3 (3.3c) |
-| A17 | 3 | Beni, antrean di warung | 3.3e | dipertahankan dari v3 (3.3d) |
-| A18 | 3 | Beni, pertemuan dengan pekerja | 3.3f | dipertahankan dari v3 (3.3e) |
+| A17 | 3 | Roni, antrean di warung | 3.3e | dipertahankan dari v3 (3.3d) |
+| A18 | 3 | Roni, pertemuan dengan pekerja | 3.3f | dipertahankan dari v3 (3.3e) |
 | A19 | 3 | Rudi, bongkar gudang | 3.3h | dipertahankan dari v3 (3.3f) |
 | A20 | 3 | Rudi, kursi terakhir | 3.3i | dipertahankan dari v3 (3.3g) |
-| A21 | 3 | Beni, ruang tunggu pabrik lain | 3.3j | dipertahankan dari v3 (3.3h) |
+| A21 | 3 | Roni, ruang tunggu pabrik lain | 3.3j | dipertahankan dari v3 (3.3h) |
 | A22 | 3 | Rudi, daftar nama | 3.3l | dipertahankan dari v3 (3.3i) |
-| A23 | 3 | Beni, pengumuman pagi | 3.3m | dipertahankan dari v3 (3.3j) |
+| A23 | 3 | Roni, pengumuman pagi | 3.3m | dipertahankan dari v3 (3.3j) |
 | A24 | 3 | Rudi, lampu gudang padam | 3.3n | dipertahankan dari v3 (3.3k) |
-| A25 | 3 | Beni, pesan dari bank yang tidak datang | 3.3p | dipertahankan dari v3 (3.3l) |
+| A25 | 3 | Roni, pesan dari bank yang tidak datang | 3.3p | dipertahankan dari v3 (3.3l) |
 | A26 | 4 | Rudi, pagi di gudang | 4.4a | baru di v4 |
-| A27 | 4 | Beni, catatan produksi | 4.4b | baru di v4 |
+| A27 | 4 | Roni, catatan produksi | 4.4b | baru di v4 |
 | A28 | 4 | Rudi, surat dari penasihat hukum | 4.4d | dipertahankan dari v3 (4.4a) |
-| A29 | 4 | Beni, pertanyaan di ruang rapat | 4.4e | baru di v4 |
+| A29 | 4 | Roni, pertanyaan di ruang rapat | 4.4e | baru di v4 |
 | A30 | 4 | Rudi, surat pemberitahuan | 4.4g | baru di v4 |
-| A31 | 4 | Beni, makan siang bersama karyawan | 4.4h | baru di v4 |
+| A31 | 4 | Roni, makan siang bersama karyawan | 4.4h | baru di v4 |
 | A32 | 4 | Rudi, perjalanan ke kota lain | 4.4i | baru di v4 |
 | A33 | 4 | Rudi, hitungan ulang | 4.4k | dipertahankan dari v3 (4.4b) |
-| A34 | 4 | Beni, surat dari pemasok lama | 4.4l | dipertahankan dari v3 (4.4c) |
-| A35 | 4 | Beni, rapat tentang masa depan usaha | 4.4m | baru di v4 |
+| A34 | 4 | Roni, surat dari pemasok lama | 4.4l | dipertahankan dari v3 (4.4c) |
+| A35 | 4 | Roni, rapat tentang masa depan usaha | 4.4m | baru di v4 |
 | A36 | 4 | Rudi, bertemu pemasok lama | 4.4n | baru di v4 |
-| A37 | 4 | Beni, surat dari pelanggan | 4.4o | baru di v4 |
+| A37 | 4 | Roni, surat dari pelanggan | 4.4o | baru di v4 |
 | A38 | 4 | Rudi, perempuan di pasar | 4.4p | baru di v4 |
 | A39 | 4 | Rudi, dokumen yang harus ditandatangani | 4.4q | baru di v4 |
 | A40 | 5 | akhir Rudi | 5.4a | dipertahankan dari v3 (5.4a) |
-| A41 | 5 | akhir Beni | 5.4b | dipertahankan dari v3 (5.4b) |
+| A41 | 5 | akhir Roni | 5.4b | dipertahankan dari v3 (5.4b) |
 | A42 | 5 | Rudi, dua puluh tahun kemudian | 5.4d | dipertahankan dari v3 (5.4c) |
-| A43 | 5 | Beni, pengantar anak ke sekolah | 5.4e | dipertahankan dari v3 (5.4d) |
+| A43 | 5 | Roni, pengantar anak ke sekolah | 5.4e | dipertahankan dari v3 (5.4d) |
 | A44 | 5 | Rudi, usaha yang mengecil | 5.4g | baru di v4 |
-| A45 | 5 | Beni, usaha kecil yang bertahan | 5.4h | baru di v4 (memuat kalimat "Setelah krisis, Beni memulai lagi ...") |
-| A46 | 5 | Beni, belajar menghitung ulang | 5.4i | baru di v4 |
+| A45 | 5 | Roni, usaha kecil yang bertahan | 5.4h | baru di v4 (memuat kalimat "Setelah krisis, Roni memulai lagi ...") |
+| A46 | 5 | Roni, belajar menghitung ulang | 5.4i | baru di v4 |
 | A47 | 5 | Rudi, mengajar anak tentang gudang | 5.4j | baru di v4 |
-| A48 | 5 | Beni, pertemuan dengan pelanggan baru | 5.4k | baru di v4 |
+| A48 | 5 | Roni, pertemuan dengan pelanggan baru | 5.4k | baru di v4 |
 | A49 | 5 | Rudi, bertemu mantan karyawan | 5.4l | baru di v4 |
 | A50 | 6 | Rudi, di bangku depan rumah | 6.3a | dipertahankan dari v3 (6.3a) |
-| A51 | 6 | Beni, di depan rak sabun | 6.3b | dipertahankan dari v3 (6.3b) |
+| A51 | 6 | Roni, di depan rak sabun | 6.3b | dipertahankan dari v3 (6.3b) |
 | A52 | 6 | Rudi, sore di teras | 6.3c | dipertahankan dari v3 (6.3c) |
-| A53 | 6 | Beni, rak sabun | 6.3d | baru di v4 (memuat kalimat "Sejarah krisis seperti ini ...") |
-| A54 | 6 | Beni, buku catatan lama | 6.3e | dipertahankan dari v3 (6.3d) |
+| A53 | 6 | Roni, rak sabun | 6.3d | baru di v4 (memuat kalimat "Sejarah krisis seperti ini ...") |
+| A54 | 6 | Roni, buku catatan lama | 6.3e | dipertahankan dari v3 (6.3d) |
 | A55 | 6 | Rudi, percakapan dengan anak di teras | 6.3f | baru di v4 |
-| A56 | 6 | Beni, pagi di warung | 6.3g | baru di v4 |
+| A56 | 6 | Roni, pagi di warung | 6.3g | baru di v4 |
 
 Tidak ada adegan yang digabung dalam satu shot di v4; setiap adegan punya shot sendiri.
 
