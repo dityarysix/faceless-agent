@@ -151,3 +151,17 @@ Status Valid kecuali ditulis lain. Sumber primer, dibaca langsung dari teks yang
 | F-10 | Piutang BLBI per 31 Desember 2024: Rp101,7 triliun eks BPPN, Rp100,8 triliun eks PT PPA, Rp9,5 triliun eks bank dalam likuidasi | Valid | Angka dibulatkan dari LKPP 2024 | LKPP 2024 (audited), CaLK hlm. 137 |
 | F-11 | UU BI 1999 Pasal 56 ayat (1): BI dilarang memberi kredit kepada Pemerintah | Valid | Kutipan: "Bank Indonesia dilarang memberikan kredit kepada Pemerintah" | UU 23/1999 |
 | F-12 | Sejak 31 Desember 2013, pengawasan perbankan beralih dari BI ke OJK | Valid | Kutipan: "beralih dari Bank Indonesia ke OJK" | UU 21/2011, Pasal 55 ayat (2), teks dari anotasi DPR |
+
+## Fakta dari tiga tulisan Krisis Asia (A)
+
+| ID | Klaim | Status | Angka atau pernyataan | Sumber |
+|---|---|---|---|---|
+| A-1 | Indeks komposit model peringatan dini memberi sinyal untuk Indonesia sebelum krisis | Valid | Indeks komposit keseluruhan memberi 7 sinyal dalam 24 bulan sebelum krisis, lead time 11 bulan | Zhuang & Dowling, ERD Policy Brief No. 7 (Juni 2002), hlm. 3 (PDF hlm. 6) |
+| A-2 | Porsi pinjaman swasta dari bank internasional yang diambil perusahaan non-bank | Valid | Lebih dari 60% di Indonesia. Pembanding: sepertiga di Korea, sekitar 60% di Malaysia dan Thailand | Akyüz, UNCTAD X (17 Februari 2000), hlm. 10 |
+| A-3 | Penurunan rupiah, Juli sampai Oktober 1997 | Valid, dengan catatan | Sekitar 40% terhadap dolar AS. Berbeda dari T-1 (lebih dari 30%, pertengahan Juli sampai pertengahan Oktober 1997). Kedua angka dipakai dengan sumber masing-masing | Bacha, Asia-Pacific Development Journal Vol. 11 No. 2 (Desember 2004), hlm. 81 |
+| A-4 | Paket pembiayaan resmi yang disusun IMF untuk Indonesia | Valid, dengan catatan | US$36 miliar, menurut APDJ. Berbeda dari C3 (sekitar US$23 miliar, sumber IMF, status Sebagian). Keduanya dipakai sesuai keputusan pengguna, dengan sumber masing-masing, dan mungkin berbeda cakupan | Bacha, APDJ Vol. 11 No. 2 (Desember 2004), hlm. 91–92 |
+| A-5 | Dolar terhadap yen sebelum krisis Thailand | Valid | Dolar turun dari sekitar 127 yen (awal Mei 1997) ke 114 yen (akhir Juni 1997), lebih dari 10%. Menurut Akyüz, ini tampaknya pemicu terpenting krisis di Thailand | Akyüz, UNCTAD X, hlm. 12–13 |
+| A-6 | Krisis dimulai di Thailand | Valid | Bank of Thailand tidak bisa menjaga pita baht pada awal Juli 1997 (UNCTAD hlm. 12). Serangan spekulatif terhadap baht pada Juli 1997 (APDJ hlm. 81, 88) | Akyüz, UNCTAD X, hlm. 12; Bacha, APDJ hlm. 81, 88 |
+| A-7 | Eksportir yang berutang valas terlindung secara implisit oleh pendapatan ekspor, sampai ekspor melambat | Valid, penjelasan umum | Penjelasan umum tentang perusahaan Asia Timur, bukan klaim peristiwa. Perlindungan implisit menyusut saat pertumbuhan ekspor melambat | Akyüz, UNCTAD X, hlm. 7 |
+
+Catatan: C3 tetap berstatus Sebagian dan wajib menampilkan sumbernya di layar. A-4 dicatat terpisah dan tidak menggantikan C3.
