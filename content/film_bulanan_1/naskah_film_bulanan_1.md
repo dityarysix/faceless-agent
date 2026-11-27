@@ -9,7 +9,7 @@ Adegan Rudi dan Beni selalu diberi label "ilustrasi, tokoh fiktif" di layar.
 
 **Narasi**
 
-Selama sebagian besar tahun 1990-an, rupiah relatif stabil. Lalu pada tahun 1997, dalam beberapa bulan saja, nilainya melemah lebih dari tiga puluh persen.
+Sebagian besar tahun 1990-an, rupiah relatif stabil. Lalu pada tahun 1997, dalam beberapa bulan saja, nilainya melemah lebih dari tiga puluh persen.
 
 Film ini bertanya satu hal. Siapa yang menang dan siapa yang kalah dari krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?
 
