@@ -40,7 +40,7 @@ Catatan: T-1 tampil di 1.1a (sesuai naskah beku, kalimat pembuka) dan di 2.2b (s
 | 2.1a | 2.1a | - | 0:20 | Peta waktu, Mei sampai Agustus 1997 | Thailand: krisis pecah awal Juli 1997 ketika baht tidak bisa dijaga dalam pita | Akyüz, UNCTAD X (2000), hlm. 12 | A-6 |
 | 2.1b | 2.1b | - | 0:20 | Kartu angka | Dolar terhadap yen: 127 ke 114 (Mei sampai Juni 1997) | Akyüz, UNCTAD X (2000), hlm. 12–13 | A-5 |
 | 2.1c | 2.1c | - | 0:20 | Kartu tanggal | 11 Juli 1997: pita intervensi rupiah dilebarkan dari 8 ke 12 persen. Agustus 1997: rupiah dibiarkan mengambang | Bank Indonesia (BI) Working Paper 15/2018, hlm. 5; IMF Letter of Intent, 31 Oktober 1997 | F-2 |
-| 2.1d | 2.1d | - | 0:30 | Kartu definisi, label "Penjelasan umum, bukan klaim peristiwa" pada baris definisi | 15 Agustus 1997: BI mulai memberi fasilitas likuiditas, kelak dikenal sebagai Bantuan Likuiditas Bank Indonesia (BLBI). Definisi: bantuan likuiditas darurat dari BI kepada bank yang kesulitan memenuhi kewajibannya kepada nasabah | Tanggal: BI Working Paper 15/2018, hlm. 8. Definisi: Hadi, Jurnal Hukum Ius Publicum Vol. 4 No. 2 (2023), hlm. 166–168 | C8, B-1 |
+| 2.1d | 2.1d | - | 0:30 | Kartu definisi | 15 Agustus 1997: BI mulai memberi fasilitas likuiditas, kelak dikenal sebagai Bantuan Likuiditas Bank Indonesia (BLBI). Definisi: bantuan likuiditas darurat dari BI kepada bank yang kesulitan memenuhi kewajibannya kepada nasabah | Tanggal: BI Working Paper 15/2018, hlm. 8. Definisi: Hadi, Jurnal Hukum Ius Publicum Vol. 4 No. 2 (2023), hlm. 166–168 | C8, B-1 |
 | 2.2a | 2.2a | - | 0:30 | Kartu tanggal | 3 September 1997: instruksi kepada Menteri Keuangan dan Gubernur BI | Simanjuntak 2002, hlm. 16 | T-5 |
 | 2.2b | 2.2b | - | 0:30 | Kartu angka | Rupiah melemah lebih dari 30 persen (Letter of Intent, pertengahan Juli sampai pertengahan Oktober 1997). Sumber lain: sekitar 40 persen (Juli sampai Oktober 1997) | IMF Letter of Intent, 31 Oktober 1997; Bacha, Asia-Pacific Development Journal (APDJ) (2004), hlm. 81 | T-1, A-3 |
 | 2.3a | 2.3a | - | 0:20 | Kartu angka | 1 November 1997: 16 bank ditutup. IMF awalnya merekomendasikan 34 bank | IMF Letter of Intent, 31 Oktober 1997; Boediono (2016), hlm. 188, dikutip tirto.id (25 November 2020) | C5, C9 |
@@ -104,7 +104,7 @@ Catatan: Singkatan pada kemunculan pertama di Babak 3 sudah dijabarkan di kolom 
 
 | Shot | v3 | Adegan | Durasi | Visual | Isi layar | Sumber di layar | ID |
 |---|---|---|---|---|---|---|---|
-| 4.1a | 4.1a | - | 0:25 | Diagram, label "Penjelasan umum, bukan klaim peristiwa" | BLBI: bantuan likuiditas darurat dari Bank Indonesia kepada bank | Hadi, Jurnal Hukum Ius Publicum Vol. 4 No. 2 (2023), hlm. 166–168 | B-1 |
+| 4.1a | 4.1a | - | 0:25 | Diagram | BLBI: bantuan likuiditas darurat dari Bank Indonesia kepada bank | Hadi, Jurnal Hukum Ius Publicum Vol. 4 No. 2 (2023), hlm. 166–168 | B-1 |
 | 4.1b | 4.1b | - | 0:20 | Kartu angka | Nilai BLBI: Rp148,8 triliun (akhir Mei 1998) dan sekitar Rp153,5 triliun (Desember 1998) | Bank Indonesia Laporan Tahunan 1998/99, hlm. 80–81 | F-7 |
 | 4.1c | 4.1c | - | 0:20 | Kartu angka | Utang luar negeri Indonesia hingga Maret 1998: 138 miliar dolar AS | Bank Dunia, dikutip tirto.id (25 November 2020) | K-2 |
 | 4.1d | 4.1d | - | 0:25 | Kartu tanggal | Kesepakatan Frankfurt 4 Juni 1998: pembayaran tunggakan antarbank dan pembiayaan perdagangan | Bank Indonesia Laporan Tahunan 1998/99, hlm. 80–81 | F-8 |

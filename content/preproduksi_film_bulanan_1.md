@@ -102,7 +102,7 @@ Ketiga tokoh adalah tokoh komposit fiktif yang diberi label sebagai ilustrasi be
 
 ### Disetujui
 - Topik besar: Krisis Moneter 1998 (krismon).
-- Kebijakan visual (disetujui pengguna, 25 November 2026): tanpa foto arsip 1998, dan tanpa gambar AI yang mirip foto asli. Visual utama berupa grafik data, peta, timeline, dan tipografi. Gambar AI hanya untuk ilustrasi non-fotorealistis dan diberi label.
+- Kebijakan visual (disetujui pengguna, 25 November 2026, direvisi 27 November 2026): tanpa foto arsip 1998, dan tanpa gambar AI yang mirip foto asli. Visual utama berupa ilustrasi AI non-fotorealistis yang diberi label, dipadukan dengan grafik data, peta, timeline, dan tipografi. Setiap ilustrasi tokoh fiktif diberi label "ilustrasi, tokoh fiktif".
 
 ### Usulan (belum disetujui)
 - Pertanyaan sentral: "Siapa yang menang dan siapa yang kalah dari Krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?"
