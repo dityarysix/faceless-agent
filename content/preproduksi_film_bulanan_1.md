@@ -1,6 +1,6 @@
 # Pra-produksi: film bulanan 1
 
-Status: pra-produksi. Belum ada naskah, narasi, atau render. Jadwal rilis belum ditetapkan.
+Status: pra-produksi. Naskah narasi sudah dibekukan (draf beku v1). Belum ada render. Jadwal rilis belum ditetapkan.
 
 ## Lingkup
 - Format: film bulanan, 35–45 menit (maksimal 45). Terpisah dari video mingguan 10–15 menit (Rabu 16.00 WIB).
@@ -68,7 +68,7 @@ Ketiga tokoh adalah tokoh komposit fiktif yang diberi label sebagai ilustrasi be
 - Yang harus diverifikasi: data inflasi dan daya beli 1998, serta dampak kredit macet terhadap usaha domestik. Sumber dan status: belum dicari. Angka inflasi puncak sudah dalam ledger (C4): 82,4% pada September 1998.
 
 ### Tokoh 3: mekanisme bantuan likuiditas BI (BLBI)
-- Makna dalam cerita: mekanisme bantuan likuiditas dari Bank Indonesia dan penerimanya. Dalam sebagian penyelesaian, penerima memperoleh klausul *Release and Discharge* (R-1): tagihan dinyatakan lunas dan pemerintah tidak menuntut pidana atas pelanggaran bank. Kekuatan hukumnya diperdebatkan (R-1).
+- Makna dalam cerita: mekanisme bantuan likuiditas dari Bank Indonesia dan penerimanya. Dalam sebagian penyelesaian, penerima memperoleh klausul *Release and Discharge* (R-1): tagihan dinyatakan lunas dan jaminan BLBI dilepas. Kekuatan hukumnya diperdebatkan (R-1).
 - Temuan audit: BPK 2000 mencatat potensi kerugian negara sekitar Rp138,442 triliun dari penyaluran sekitar Rp144,536 triliun ke 48 bank per 29 Januari 1999. Sumber yang terbaca: CNBC Indonesia (2021, mengutip Kemenkeu), Tempo, dan Seknas FITRA. Dokumen BPK asli belum bisa diakses (403).
 - Status hukum: Muliana (2024) membahas kasus korupsi BLBI melalui putusan pengadilan negeri hingga kasasi. Dibaca langsung oleh pengguna (halaman dikonfirmasi pengguna).
 - Rumusan untuk naskah: "Dalam sebagian penyelesaian BLBI, tagihan penerima dinyatakan lunas lewat klausul *Release and Discharge*. Terpisah, audit BPK 2000 mencatat potensi kerugian negara sekitar Rp138 triliun (sumber di layar: Kemenkeu via CNBC Indonesia, 2021)."
@@ -102,7 +102,7 @@ Ketiga tokoh adalah tokoh komposit fiktif yang diberi label sebagai ilustrasi be
 
 ### Disetujui
 - Topik besar: Krisis Moneter 1998 (krismon).
-- Kebijakan visual (disetujui pengguna, 25 November 2026): tanpa foto arsip 1998, dan tanpa gambar AI yang mirip foto asli. Visual utama berupa grafik data, peta, timeline, dan tipografi. Gambar AI hanya untuk ilustrasi non-fotorealistis dan diberi label.
+- Kebijakan visual (disetujui pengguna, 25 November 2026, direvisi 27 November 2026): tanpa foto arsip 1998, dan tanpa gambar AI yang mirip foto asli. Visual utama berupa ilustrasi AI non-fotorealistis yang diberi label, dipadukan dengan grafik data, peta, timeline, dan tipografi. Setiap ilustrasi tokoh fiktif diberi label "ilustrasi, tokoh fiktif".
 
 ### Usulan (belum disetujui)
 - Pertanyaan sentral: "Siapa yang menang dan siapa yang kalah dari Krisis 1998, dan apa yang bisa kita pelajari dari kisah mereka?"
@@ -115,22 +115,22 @@ Ketiga tokoh adalah tokoh komposit fiktif yang diberi label sebagai ilustrasi be
 - Sensitivitas: persetujuan usulan di atas, atau revisi.
 - Plafon kredit untuk film ini.
 
-## Struktur 41 menit 30 detik
+## Struktur 58 menit 36 detik
 
-Durasi isi: 41:30. Batas maksimal 42:00, dengan 30 detik cadangan untuk overrun. Tokoh T1 dan T2 adalah pengusaha komposit fiktif berlabel ilustrasi. T3 adalah mekanisme BLBI, tanpa wajah dan tanpa nama.
+Durasi isi: 58:36 (keputusan pengguna). Narasi sekitar 35:42, sisanya shot visual. Tokoh Rudi dan Beni adalah pengusaha komposit fiktif berlabel ilustrasi. T3 adalah mekanisme BLBI, tanpa wajah dan tanpa nama.
 
 | Babak | Menit | Durasi | Isi | Peran tokoh | Visual dan jeda |
 |---|---|---|---|---|---|
-| 1. Pembuka | 0:00–6:30 | 6:30 | Hook dan pertanyaan sentral (0:00–0:30). Kenaikan harga minyak (K-1, sumber di layar: Federal Reserve History) dan Pakto 1988 (0:30–2:30). Memasuki krisis: rupiah melemah, pinjaman luar negeri swasta jangka pendek, sebagian besar tanpa lindung nilai (2:30–4:00). Perkenalan T1 dan T2 secara lengkap (4:00–6:30). | T1 dan T2 diperkenalkan dengan pembeda pendapatan sebelum krisis. T3 belum disebut. | Teks dan peta kenaikan harga minyak (tanpa grafik seri), penerimaan migas (Pelita III 66,9%). Jeda di 6:30. |
-| 2. Rupiah Runtuh | 6:30–14:00 | 7:30 | Agustus 1997: fasilitas likuiditas BI mulai. 3 September: instruksi kepada Menteri Keuangan dan Gubernur BI (T-5). Rupiah melemah lebih dari 30% dalam tiga bulan. 1 November: 16 bank ditutup. 5 November: persetujuan stand-by IMF (IMF, siaran pers; sumber ditampilkan di layar; belum dicocokkan dengan PDF asli). Akhir 1997: SBPUK Rp36,5 triliun kepada 28 bank. | T1 menghadapi tekanan kredit (alur fiksi). T2 kehilangan akses kredit (alur fiksi, tanpa klaim data). T3 diperkenalkan sebagai mekanisme respons. | Peta waktu Agustus–Desember 1997. Kartu angka 16 bank. Jeda di 14:00. |
-| 3. Puncak 1998 | 14:00–21:00 | 7:00 | Rupiah menyentuh Rp16.500 pada pertengahan Juni. Inflasi tahunan puncak 82,4% (September). PDB −13,7%. | Usaha T1 dan T2 runtuh (alur fiksi). | Grafik kurs dan inflasi berdampingan. Kartu PDB. Jeda di 21:00. |
-| 4. Mesin BLBI | 21:00–28:30 | 7:30 | Mekanisme BLBI: bantuan likuiditas, klausul *Release and Discharge*, dan pelunasan ke BI. Nilai sekitar Rp148 triliun pada akhir 1998. Potensi kerugian negara dalam audit BPK 2000 sekitar Rp138 triliun (sumber di layar: Kemenkeu via CNBC Indonesia, 2021; audit BPK asli belum dibaca). Pertanyaan "siapa menang" dijawab sebagai mekanisme. | T1 dan T2 menagih harapan. T3 dijelaskan sebagai mekanisme; tagihan sebagian penerima dinyatakan lunas lewat R&D (R-1). | Diagram aliran dana BLBI. Peta mekanisme. Jeda di 28:30. |
-| 5. Pembenahan dan Tagihan | 28:30–36:00 | 7:30 | BPPN dibubarkan 2004. LPS berdiri 2004–2005. IMF dilunasi 2006 (pokok SDR 11,1 miliar, bunga dan biaya SDR 2,1 miliar). BLBI ke BI Rp218,3 triliun (2026), tetapi penagihan obligor belum selesai. | Nasib akhir T1 dan T2 dalam satu adegan masing-masing. T3 tetap terbuka. | Timeline 2004–2026. Kartu angka pelunasan dengan sumber di layar untuk P5, P6, P7 (dengan P13), P9, dan P10. Jeda di 36:00. |
-| 6. Penutup | 36:00–41:30 | 5:30 | Tiga kalimat fakta (IMF, BLBI, pembenahan; tampilkan sumber di layar untuk P6, P9, P10, P13), lalu pertanyaan terbuka: siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih. | T1 dan T2 sebagai bukti. T3 sebagai fakta yang belum selesai. | Layar tipografi penuh untuk tiga kalimat penutup. |
-| Total isi | | 41:30 | | | |
+| 1. Pembuka | 0:00–8:45 | 8:45 | Hook dan pertanyaan sentral (0:00–0:30). Kenaikan harga minyak (K-1, sumber di layar: Federal Reserve History) dan Pakto 1988 (0:30–2:30). Memasuki krisis: rupiah melemah, pinjaman luar negeri swasta jangka pendek, sebagian besar tanpa lindung nilai (2:30–3:30). Perkenalan Rudi dan Beni secara lengkap (3:30–8:45). | Rudi dan Beni diperkenalkan dengan pembeda pendapatan sebelum krisis. T3 belum disebut. | Teks dan peta kenaikan harga minyak (tanpa grafik seri), penerimaan migas (Pelita III 66,9%). Jeda di 8:45. |
+| 2. Rupiah Runtuh | 8:45–19:00 | 10:15 | Agustus 1997: fasilitas likuiditas BI mulai. 3 September: instruksi kepada Menteri Keuangan dan Gubernur BI (T-5). Rupiah melemah lebih dari 30% dalam tiga bulan. 1 November: 16 bank ditutup. 5 November: persetujuan stand-by IMF (IMF, siaran pers; sumber ditampilkan di layar; belum dicocokkan dengan PDF asli). Akhir 1997: SBPUK Rp36,5 triliun kepada 28 bank. | Rudi menghadapi tekanan kredit (alur fiksi). Beni kehilangan akses kredit (alur fiksi, tanpa klaim data). T3 diperkenalkan sebagai mekanisme respons. | Peta waktu Agustus–Desember 1997. Kartu angka 16 bank. Jeda di 19:00. |
+| 3. Puncak 1998 | 19:00–27:16 | 8:16 | Rupiah menyentuh Rp16.500 pada pertengahan Juni. Inflasi tahunan puncak 82,4% (September). PDB −13,7%. | Usaha Rudi dan Beni runtuh (alur fiksi). | Grafik kurs dan inflasi berdampingan. Kartu PDB. Jeda di 27:16. |
+| 4. Mesin BLBI | 27:16–40:41 | 13:25 | Mekanisme BLBI: bantuan likuiditas, klausul *Release and Discharge*, dan pelunasan ke BI. Nilai sekitar Rp148 triliun pada akhir 1998. Potensi kerugian negara dalam audit BPK 2000 sekitar Rp138 triliun (sumber di layar: Kemenkeu via CNBC Indonesia, 2021; audit BPK asli belum dibaca). Pertanyaan "siapa menang" dijawab sebagai mekanisme. | Rudi dan Beni menagih harapan. T3 dijelaskan sebagai mekanisme; tagihan sebagian penerima dinyatakan lunas lewat R&D (R-1). | Diagram aliran dana BLBI. Peta mekanisme. Jeda di 40:41. |
+| 5. Pembenahan dan Tagihan | 40:41–51:36 | 10:55 | BPPN dibubarkan 2004. LPS berdiri 2004–2005. IMF dilunasi 2006 (pokok SDR 11,1 miliar, bunga dan biaya SDR 2,1 miliar). BLBI ke BI Rp218,3 triliun (2026), tetapi penagihan obligor belum selesai. | Nasib akhir Rudi dan Beni dalam satu adegan masing-masing. T3 tetap terbuka. | Timeline 2004–2026. Kartu angka pelunasan dengan sumber di layar untuk P5, P6, P7 (dengan P13), P9, dan P10. Jeda di 51:36. |
+| 6. Penutup | 51:36–58:36 | 7:00 | Tiga kalimat fakta (IMF, BLBI, pembenahan; tampilkan sumber di layar untuk P6, P9, P10, P13), lalu pertanyaan terbuka: siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih. | Rudi dan Beni sebagai bukti. T3 sebagai fakta yang belum selesai. | Layar tipografi penuh untuk tiga kalimat penutup. |
+| Total isi | | 58:36 | | | |
 | Cadangan overrun | | 0:30 | | | |
-| Batas maksimal | | 42:00 | | | |
+| Batas maksimal | | belum ditetapkan | | | |
 
 Catatan:
 - Babak 2 memuat satu-satunya perkenalan T3, karena mekanisme BLBI dimulai Agustus 1997.
-- Angka tambahan sudah tercatat di ledger (T-1 sampai T-5). Nasib T1 dan T2 adalah bagian fiktif berlabel ilustrasi.
+- Angka tambahan sudah tercatat di ledger (T-1 sampai T-5). Nasib Rudi dan Beni adalah bagian fiktif berlabel ilustrasi.
