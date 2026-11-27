@@ -111,6 +111,7 @@ Kalimat penutup yang diusulkan:
 | K-2 | Utang luar negeri Indonesia Maret 1998: US$138 miliar | Sebagian (dilonggarkan keputusan pengguna) | Bank Dunia, dikutip tirto.id (25 November 2020): total utang luar negeri Indonesia hingga Maret 1998 sebesar 138 miliar dolar AS. Angka sekitar US$140 miliar dan akhir 1997 (C6) tetap tidak dipakai. | Bank Dunia, dikutip tirto.id (sumber sekunder; laporan Bank Dunia asli belum dicari) |
 | K-3a | Pinjaman luar negeri swasta jangka pendek sebagian besar tanpa lindung nilai | Valid | Pinjaman luar negeri swasta jangka pendek sebagian besar tanpa lindung nilai. | IMF LoI 31 Oktober 1997 (dibaca langsung oleh pengguna; nomor paragraf belum dicatat) |
 | K-3b | Rupiah relatif stabil selama sebagian besar 1990-an | Valid | Naskah harus memakai "sebagian besar 1990-an", bukan "sepanjang 1990-an", karena rupiah melemah 1997–1999. | IMF LoI 31 Oktober 1997 (dibaca langsung oleh pengguna) |
+| K-4 | Kurs rupiah per US$: rata-rata tahunan 1990–1997, dan 16.500 pertengahan Juni 1998 | Sebagian | Rata-rata tahunan 1990–1997 dari Penn World Table 7.1: 1.842,8 (1990); 1.950,3 (1991); 2.029,9 (1992); 2.087,1 (1993); 2.160,8 (1994); 2.248,6 (1995); 2.342,3 (1996); 2.909,4 (1997). Titik 1998 adalah nilai pertengahan Juni (C2), dipisah dan diberi label tanggal, bukan rata-rata tahunan. Penn World Table adalah kompilasi, bukan sumber primer BI. | Penn World Table 7.1 (University of Pennsylvania), Annual; Bank Indonesia, Laporan Tahunan 1998/99, hlm. 21 |
 
 ## Klausul hukum
 

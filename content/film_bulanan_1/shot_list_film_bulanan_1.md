@@ -11,6 +11,7 @@ Kolom "v3" memuat nomor shot di v3 ("baru" bila shot ditambahkan di v4). Kolom "
 | Shot | v3 | Adegan | Durasi | Visual | Isi layar | Sumber di layar | ID |
 |---|---|---|---|---|---|---|---|
 | 1.1a | 1.1a | - | 0:30 | Kartu teks | Rupiah relatif stabil di sebagian besar 1990-an, lalu melemah lebih dari 30 persen pada 1997 | Dana Moneter Internasional (IMF) Letter of Intent, 31 Oktober 1997 | K-3b, T-1 |
+| 1.1c | baru | - | 0:25 | Grafik garis | Grafik garis, label "rata-rata tahunan" untuk 1990–1997; titik 1998 terpisah dengan label "pertengahan Juni 1998" | Penn World Table 7.1 (University of Pennsylvania), Annual; Bank Indonesia, Laporan Tahunan 1998/99 hlm. 21 | K-4, C2 |
 | 1.1b | 1.1b | - | 0:30 | Tipografi | "Siapa yang menang dan siapa yang kalah dari krisis 1998?" | - | - |
 | 1.2a | 1.2a | - | 0:30 | Peta waktu | 1979 sampai 1980: harga minyak dunia naik lebih dari dua kali lipat (April 1979 ke April 1980). Tanpa grafik | Federal Reserve History, "Oil Shock of 1978-79" | K-1 |
 | 1.2b | 1.2b | - | 0:25 | Kartu teks | Pembangunan Lima Tahun III (Pelita III): penerimaan minyak dan gas bumi (migas) rata-rata 66,9 persen dari penerimaan dalam negeri | Nota Keuangan Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) 1989/90 | T-3 |
