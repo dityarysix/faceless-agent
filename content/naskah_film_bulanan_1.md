@@ -25,7 +25,7 @@ Utang dalam dolar harus dibayar dengan dolar. Karena itu, ketika rupiah melemah,
 
 Menurut kajian Zhuang dan Dowling yang diterbitkan Asian Development Bank, indeks komposit peringatan dini memberi tujuh sinyal untuk Indonesia dalam 24 bulan sebelum krisis, dengan lead time 11 bulan.
 
-Di film ini ada dua pengusaha. Keduanya fiktif, dibentuk sebagai contoh, dan diberi label ilustrasi setiap kali muncul di layar. Rudi menerima pendapatan dalam dolar dari ekspor atau jasa. Beni menerima pendapatan dalam rupiah dari pasar domestik.
+Sebagai gambaran, film ini menampilkan dua pengusaha fiktif, yang dibentuk sebagai contoh dan diberi label ilustrasi setiap kali muncul di layar. Pertama, Rudi, pengusaha furnitur yang mengekspor produknya dan menerima pendapatan dalam dolar. Kedua, Beni, pengusaha sabun yang menerima pendapatan dalam rupiah dari pasar domestik.
 
 **Adegan Rudi, pengusaha ekspor furnitur**
 *Label di layar: "ilustrasi, tokoh fiktif".*
@@ -87,13 +87,13 @@ Rudi membungkus kursi satu per satu dengan kertas koran bekas. Setiap kursi puny
 
 **Narasi**
 
-Bantuan Likuiditas Bank Indonesia (BLBI) adalah bantuan likuiditas darurat dari Bank Indonesia kepada bank yang kesulitan memenuhi kewajibannya kepada nasabah. Bank sentral bertindak sebagai pemberi pinjaman terakhir.
-
 Di Thailand, krisis pecah pada awal Juli 1997, ketika Bank of Thailand tidak lagi bisa menjaga baht tetap di dalam pitanya. Sebelumnya, dolar sempat turun terhadap yen, dari sekitar 127 yen pada awal Mei 1997 menjadi 114 yen pada akhir Juni. Menurut Akyüz, ini tampaknya menjadi pemicu terpenting krisis di Thailand.
 
 Pada 11 Juli 1997, pita intervensi rupiah dilebarkan dari 8 ke 12 persen, dan pada Agustus rupiah dibiarkan mengambang.
 
-Pada 15 Agustus 1997, Bank Indonesia mulai memberikan fasilitas likuiditas. Fasilitas ini kelak dikenal dengan nama BLBI.
+Pada 15 Agustus 1997, Bank Indonesia mulai memberikan fasilitas likuiditas. Fasilitas ini kelak dikenal dengan nama Bantuan Likuiditas Bank Indonesia (BLBI).
+
+BLBI adalah bantuan likuiditas darurat dari Bank Indonesia kepada bank yang kesulitan memenuhi kewajibannya kepada nasabah. Bank sentral bertindak sebagai pemberi pinjaman terakhir.
 
 Sekitar tiga minggu kemudian, pada 3 September 1997, keluar instruksi kepada Menteri Keuangan dan Gubernur Bank Indonesia.
 
@@ -227,7 +227,7 @@ Di warung dekat rumah produksi, Beni melihat seorang ibu menghitung rupiah di te
 **Adegan Beni, pertemuan dengan pekerja**
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
-Beni mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang masih ada. Ia menjelaskan siapa yang masih bekerja dan siapa yang harus pulang sementara. Tidak ada yang bertanya lebih jauh. Semua tahu bahwa tanggal berikutnya belum pasti.
+Beni mengumpulkan pekerja di halaman rumah produksi dan membagi sisa bahan yang masih ada. Ia menjelaskan siapa yang masih bekerja dan siapa yang harus pulang sementara. Tidak ada yang bertanya lebih jauh. Semua tahu bahwa hari berikutnya belum pasti.
 
 Angka pengangguran terbuka hanya menghitung orang yang sedang mencari kerja. Orang yang berhenti mencari, atau bekerja sedikit jam, tidak selalu ikut terhitung. Karena itu, angka PHK sering dibaca sebagai batas bawah.
 
@@ -502,7 +502,7 @@ Rupiah melemah lebih dari tiga puluh persen dalam tiga bulan pada 1997. Bank-ban
 
 Ada lima hal yang sudah kita lihat. Pertama, Indonesia meminjam dari IMF dan melunasinya pada 2006. Kedua, BLBI masih meninggalkan tagihan yang belum selesai. Ketiga, LPS dibentuk setelah krisis. Keempat, Undang-undang Bank Indonesia 1999 melarang BI memberi kredit kepada pemerintah. Kelima, sejak 31 Desember 2013 pengawasan perbankan beralih dari Bank Indonesia ke Otoritas Jasa Keuangan (OJK).
 
-Film ini menutup dengan pertanyaan, bukan kesimpulan. Siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih?
+Siapa yang menanggung akibat mekanisme ini, dan siapa yang belum selesai ditagih?
 
 Rudi dan Beni tetap menjadi alur fiksi. Keduanya menjadi cara kita melihat pilihan yang tersedia ketika kredit dan pasar bergerak.
 
