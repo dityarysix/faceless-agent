@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<title>Template visual film bulanan</title>
+<style>
+  :root { --hijau: #0f2a1f; --hijau2: #15382a; --emas: #c9a227; --teks: #f2efe6; --abu: #b9b6aa; }
+  html, body { margin: 0; width: 1920px; height: 1080px; background: var(--hijau); overflow: hidden; font-family: "Helvetica Neue", Arial, sans-serif; color: var(--teks); }
+  .scene { position: absolute; inset: 0; opacity: 0; transition: none; }
+  .scene.on { opacity: 1; }
+  .judul { position: absolute; left: 80px; top: 60px; font-size: 34px; letter-spacing: 2px; color: var(--emas); text-transform: uppercase; }
+  .kartu { position: absolute; left: 160px; right: 160px; top: 240px; bottom: 260px; display: flex; flex-direction: column; justify-content: center; }
+  .angka { font-size: 220px; font-weight: 700; color: var(--emas); line-height: 1; }
+  .tanggal { font-size: 42px; color: var(--abu); margin-top: 40px; }
+  .teks { font-size: 58px; line-height: 1.35; }
+  .sumber { position: absolute; left: 80px; right: 80px; bottom: 150px; font-size: 26px; color: var(--abu); border-top: 2px solid var(--emas); padding-top: 14px; }
+  .label { position: absolute; left: 80px; bottom: 60px; font-size: 26px; color: var(--emas); }
+  .garis { width: 200px; height: 6px; background: var(--emas); margin: 30px 0; }
+</style>
+</head>
+<body>
+<div id="panggung"></div>
+<script src="scenes.js"></script>
+<script src="render.js"></script>
+</body>
+</html>
