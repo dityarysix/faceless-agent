@@ -17,7 +17,7 @@ Satu baris per segmen. Durasi TTS diisi setelah narasi dibacakan.
 | 3 Puncak 1998 | 3.3 Adegan Rudi, Roni, dan pekerja | Ilustrasi AI | Fiktif | - | 6:11 | Label ilustrasi |
 | 4 Mesin BLBI | 4.1 Definisi BLBI dan nilai | Diagram | Fakta + penjelasan umum | C7 | 1:30 | |
 | 4 Mesin BLBI | 4.2 Audit BPK dan potensi kerugian | Kartu angka | Fakta | R2 | 1:00 | Sumber di layar |
-| 4 Mesin BLBI | 4.3 Klausul R&D | Diagram | Fakta | R-1 | 2:00 | Label penjelasan umum di layar |
+| 4 Mesin BLBI | 4.3 Klausul R&D | Diagram | Penjelasan umum | R-1 | 2:00 | Label penjelasan umum di layar |
 | 4 Mesin BLBI | 4.4 Adegan Rudi, Roni, dan penasihat | Ilustrasi AI | Fiktif | - | 8:55 | Tanpa klaim BLBI |
 | 5 Pembenahan | 5.1 BPPN dan LPS | Timeline | Fakta | P9, P10 | 1:30 | Sumber di layar |
 | 5 Pembenahan | 5.2 Pinjaman IMF lunas 2006 | Kartu angka | Fakta | P1–P3, P5 | 1:00 | Sumber di layar |

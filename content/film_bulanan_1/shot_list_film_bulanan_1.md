@@ -168,7 +168,7 @@ Catatan: Rincian piutang (F-10) ada di naskah beku pada daftar sumber, tetapi ti
 
 | Shot | v3 | Adegan | Durasi | Visual | Isi layar | Sumber di layar | ID |
 |---|---|---|---|---|---|---|---|
-| 6.1a | baru | - | 0:15 | Tipografi | Rupiah melemah lebih dari 30 persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan, dan sebagian penerimanya memperoleh klausul yang masih diperdebatkan | IMF Letter of Intent, 31 Oktober 1997; Bank Indonesia Working Paper 15/2018, hlm. 8; Lex Renaissance; Jurnal Ius Publicum 2023 | T-1, C5, C8, R-1 |
+| 6.1a | baru | - | 0:15 | Tipografi | Rupiah melemah lebih dari 30 persen dalam tiga bulan pada 1997. Bank-bank ditutup, bantuan likuiditas diberikan | IMF Letter of Intent, 31 Oktober 1997; Bank Indonesia Working Paper 15/2018, hlm. 8 | T-1, C5, C8 |
 | 6.1b | 6.1a | - | 0:15 | Tipografi | IMF: pinjaman lunas 2006 | IMF, siaran pers 6 Oktober 2006 | P2, P5 |
 | 6.1c | 6.1b | - | 0:15 | Tipografi | BLBI masih meninggalkan tagihan yang belum selesai | LKPP 2024 (audited), CaLK | P13 |
 | 6.1d | 6.1c | - | 0:15 | Tipografi | LPS dibentuk setelah krisis | UU 24/2004 | P10 |

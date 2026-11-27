@@ -3,7 +3,7 @@
 Status: riset dan ledger aktif. Naskah narasi sudah dibekukan (draf beku v1). Dibuat sebagai dasar fact-check ledger (tugas #6).
 Aturan: sumber primer diutamakan. Jika tidak bisa diakses, klaim dinyatakan valid bila didukung minimal 3 sumber independen (buku, jurnal akademik, dokumen atau catatan resmi, dan artikel media).
 Catatan independensi: dokumen dari institusi yang sama dihitung sebagai sumber terpisah sesuai keputusan pengguna. Artikel media yang hanya mengutip satu sumber dihitung sebagai satu.
-Aturan pemakaian: Valid boleh dipakai sebagai fakta. Sebagian boleh dipakai di layar hanya dengan sumber yang tampil di layar saat tayang. Belum terverifikasi tidak boleh dipakai di naskah.
+Aturan pemakaian: Valid boleh dipakai sebagai fakta. Sebagian boleh dipakai di layar hanya dengan sumber yang tampil di layar saat tayang. Belum terverifikasi tidak boleh dipakai di naskah. Penjelasan umum boleh dipakai hanya dengan label "Penjelasan umum, bukan klaim peristiwa" di layar, dan tidak boleh diperlakukan sebagai klaim peristiwa.
 Muliana 2024 dan IMF LoI 31 Oktober 1997 dibaca langsung oleh pengguna. 
 
 ## Ringkasan status
@@ -117,7 +117,7 @@ Kalimat penutup yang diusulkan:
 
 | ID | Klaim | Status | Angka atau pernyataan | Sumber |
 |---|---|---|---|---|
-| R-1 | Klausul *Release and Discharge* (R&D) dalam penyelesaian BLBI | Valid | Klausul yang menyatakan tagihan BLBI lunas dan jaminan BLBI dilepas. Klaim pembebasan pidana belum didukung sumber primer yang dibaca (Ius Publicum hlm. 178 tidak memuatnya). Diterbitkan setelah pelunasan kewajiban bank kepada pemerintah. Kekuatan hukumnya diperdebatkan. | Muliana 2024 hlm. 360; Lex Renaissance (UII); Jurnal Ius Publicum 2023; Hukumonline (cuplikan); Suara.com 2018 (tanpa nama dalam film) |
+| R-1 | Klausul *Release and Discharge* (R&D) dalam penyelesaian BLBI | Penjelasan umum | Klausul yang menyatakan tagihan BLBI lunas dan jaminan BLBI dilepas. Klaim pembebasan pidana belum didukung sumber primer yang dibaca (Ius Publicum hlm. 178 tidak memuatnya). Diterbitkan setelah pelunasan kewajiban bank kepada pemerintah. Kekuatan hukumnya diperdebatkan. | Muliana 2024 hlm. 360; Lex Renaissance (UII); Jurnal Ius Publicum 2023; Hukumonline (cuplikan); Suara.com 2018 (tanpa nama dalam film) |
 
 ## Keputusan sumber untuk data bagian B
 
