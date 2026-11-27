@@ -12,7 +12,7 @@ Muliana 2024 dan IMF LoI 31 Oktober 1997 dibaca langsung oleh pengguna.
 |---|---|---|---|
 | C1 | PDB 1998 kontraksi | Valid, dengan dua angka | BI Laporan Tahunan 1998/99 hal. 20 dan 36: −13,7%, dengan 1997 tumbuh 4,9%. BPS melalui media: −13,13% (tahun dasar tidak disebut). |
 | C2 | Kurs rupiah terlemah 1998 | Valid | BI Laporan Tahunan 1998/99 hal. 21 dan 77: Rp16.500 per dolar pada pertengahan Juni 1998. Media mencatat Rp16.650–16.900 dengan jenis kurs berbeda. |
-| C3 | IMF menyetujui stand-by 5 Nov 1997 | Sebagian, perlu koreksi | Persetujuan 5 Nov 1997. Fasilitas total SDR 7,338 miliar (sekitar US$10,14 miliar). Penarikan awal SDR 2,2 miliar (sekitar US$3,04 miliar). Siaran pers IMF 5 November 1997 menyebut total lini pertama pembiayaan sekitar US$23 miliar. Isinya mencakup dana IMF sekitar US$10 miliar (SDR 7,3 miliar), Bank Dunia US$4,5 miliar, ADB US$3,5 miliar, kontribusi lain yang diharapkan, dan sebagian aset luar negeri Indonesia. Ini bukan pinjaman IMF saja, dan tidak dipakai di naskah (keputusan pengguna). Sumber dibaca dari versi terstruktur siaran pers di imf.org; PDF asli belum dibuka. |
+| C3 | IMF menyetujui stand-by 5 Nov 1997 | Sebagian | Persetujuan 5 Nov 1997. Fasilitas total SDR 7,338 miliar (sekitar US$10,14 miliar). Penarikan awal SDR 2,2 miliar (sekitar US$3,04 miliar). Siaran pers IMF 5 November 1997 menyebut total lini pertama pembiayaan sekitar US$23 miliar. Isinya mencakup dana IMF sekitar US$10 miliar (SDR 7,3 miliar), Bank Dunia US$4,5 miliar, ADB US$3,5 miliar, kontribusi lain yang diharapkan, dan sebagian aset luar negeri Indonesia. Ini bukan pinjaman IMF saja, dan tidak dipakai di naskah (keputusan pengguna). Sumber dibaca dari versi terstruktur siaran pers di imf.org; PDF asli belum dibuka. |
 | C4 | Inflasi tahunan 1998 | Valid, dengan catatan | BI Laporan Tahunan 1998/99 hal. 10: puncak 82,4% pada September 1998. Naskah memakai 82,4%. Angka 77,6% Desember 1998 tercatat di keputusan sumber B3 dan tidak dipakai. |
 | C5 | 16 bank ditutup 1 November 1997 | Valid | IMF LoI 31 Okt 1997; IMF LoI 15 Jan 1998; BI WP 15/2018 hal. 11; Simanjuntak 2002 hal. 12. |
 | C6 | Utang swasta akhir 1997 | Sebagian | US$82.223 juta dari total US$136.088 juta (BI, tabel dalam PECC, Anwar Nasution; dikutip Investor.id). Rantai sumber masih satu. Tidak dipakai di naskah sampai tabel BI dibuka langsung. |
@@ -115,7 +115,7 @@ Kalimat penutup yang diusulkan:
 
 | ID | Klaim | Status | Angka atau pernyataan | Sumber |
 |---|---|---|---|---|
-| R-1 | Klausul *Release and Discharge* (R&D) dalam penyelesaian BLBI | Valid | Klausul yang menyatakan tagihan BLBI lunas, pemerintah tidak menuntut pidana atas pelanggaran bank, dan jaminan BLBI dilepas. Diterbitkan setelah pelunasan kewajiban bank kepada pemerintah. Kekuatan hukumnya diperdebatkan. | Muliana 2024 hlm. 360; Lex Renaissance (UII); Jurnal Ius Publicum 2023; Hukumonline (cuplikan); Suara.com 2018 (tanpa nama dalam film) |
+| R-1 | Klausul *Release and Discharge* (R&D) dalam penyelesaian BLBI | Valid | Klausul yang menyatakan tagihan BLBI lunas dan jaminan BLBI dilepas. Klaim pembebasan pidana belum didukung sumber primer yang dibaca (Ius Publicum hlm. 178 tidak memuatnya). Diterbitkan setelah pelunasan kewajiban bank kepada pemerintah. Kekuatan hukumnya diperdebatkan. | Muliana 2024 hlm. 360; Lex Renaissance (UII); Jurnal Ius Publicum 2023; Hukumonline (cuplikan); Suara.com 2018 (tanpa nama dalam film) |
 
 ## Keputusan sumber untuk data bagian B
 
@@ -165,3 +165,16 @@ Status Valid kecuali ditulis lain. Sumber primer, dibaca langsung dari teks yang
 | A-7 | Eksportir yang berutang valas terlindung secara implisit oleh pendapatan ekspor, sampai ekspor melambat | Valid, penjelasan umum | Penjelasan umum tentang perusahaan Asia Timur, bukan klaim peristiwa. Perlindungan implisit menyusut saat pertumbuhan ekspor melambat | Akyüz, UNCTAD X, hlm. 7 |
 
 Catatan: C3 mencatat lini pertama pembiayaan sekitar US$23 miliar, termasuk dana IMF sekitar US$10 miliar. A-4 mencatat paket pembiayaan resmi menurut APDJ, US$36 miliar. Cakupannya berbeda, dan keduanya tidak saling menggantikan. Keputusan pengguna: angka US$23 miliar tidak dipakai di naskah; A-4 dipakai dengan sumber APDJ.
+
+## Fakta dari sumber BLBI tambahan (B)
+
+Sumber: Hadi, Jurnal Hukum Ius Publicum Vol. 4 No. 2 (2023); ISEI, Kelampauan, Kekinian dan Hari Depan (2025). Halaman mengikuti nomor cetak. Baris yang tidak disetujui tinjauan Opus tidak dimasukkan.
+
+| ID | Klaim | Status | Angka atau pernyataan | Sumber |
+|---|---|---|---|---|
+| B-1 | Definisi BLBI dan dasar hukumnya | Valid | Fasilitas BI untuk menjaga stabilitas sistem pembayaran dan perbankan. Dasar hukum UU 13/1968 Pasal 32 ayat (3) | Hadi (2023), hlm. 166–168 |
+| B-2 | Mekanisme dispensasi kliring dan diskonto | Valid, penilaian penulis | Rapat Direksi BI 15 Agustus 1997: dispensasi ikut kliring meski giro bersaldo debet. Fasilitas diskonto dipakai untuk mengonversi saldo debet. Jaminan tidak dieksekusi; sanksi hanya pembatalan warkat. Hadi menilai ini sebagai penyimpangan | Hadi (2023), hlm. 170–172 |
+| B-4 | Pengumuman 1 November 1997 | Valid | 16 bank dilikuidasi (lihat C5). Talangan nasabah masing-masing Rp20 juta | Hadi (2023), hlm. 175 |
+| B-9 | Utang dolar tanpa lindung nilai | Valid, penjelasan umum | Bank atau peminjam yang tidak melindungi kurs pinjaman valasnya mengalami rugi kurs dan arus kas memburuk | Hadi (2023), hlm. 166–167 |
+| B-12 | Penutupan bank dan rekapitalisasi April sampai Oktober 1998 | Sebagian | Bank dengan CAR di bawah -25% ditutup. Bank dengan CAR sampai -25% ditambah modalnya hingga CAR 4%. Surat utang pemerintah total Rp650 triliun, bukan angka BLBI | ISEI (2025), hlm. 136 |
+| B-14 | Bank bersaldo negatif di BI | Valid | Penarikan dana besar setelah 16 bank dicabut izinnya; sejumlah bank bersaldo negatif pada giro di BI | ISEI (2025), hlm. 127; Hadi (2023), hlm. 167 |

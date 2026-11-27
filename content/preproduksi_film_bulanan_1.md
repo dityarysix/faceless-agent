@@ -68,7 +68,7 @@ Ketiga tokoh adalah tokoh komposit fiktif yang diberi label sebagai ilustrasi be
 - Yang harus diverifikasi: data inflasi dan daya beli 1998, serta dampak kredit macet terhadap usaha domestik. Sumber dan status: belum dicari. Angka inflasi puncak sudah dalam ledger (C4): 82,4% pada September 1998.
 
 ### Tokoh 3: mekanisme bantuan likuiditas BI (BLBI)
-- Makna dalam cerita: mekanisme bantuan likuiditas dari Bank Indonesia dan penerimanya. Dalam sebagian penyelesaian, penerima memperoleh klausul *Release and Discharge* (R-1): tagihan dinyatakan lunas dan pemerintah tidak menuntut pidana atas pelanggaran bank. Kekuatan hukumnya diperdebatkan (R-1).
+- Makna dalam cerita: mekanisme bantuan likuiditas dari Bank Indonesia dan penerimanya. Dalam sebagian penyelesaian, penerima memperoleh klausul *Release and Discharge* (R-1): tagihan dinyatakan lunas dan jaminan BLBI dilepas. Kekuatan hukumnya diperdebatkan (R-1).
 - Temuan audit: BPK 2000 mencatat potensi kerugian negara sekitar Rp138,442 triliun dari penyaluran sekitar Rp144,536 triliun ke 48 bank per 29 Januari 1999. Sumber yang terbaca: CNBC Indonesia (2021, mengutip Kemenkeu), Tempo, dan Seknas FITRA. Dokumen BPK asli belum bisa diakses (403).
 - Status hukum: Muliana (2024) membahas kasus korupsi BLBI melalui putusan pengadilan negeri hingga kasasi. Dibaca langsung oleh pengguna (halaman dikonfirmasi pengguna).
 - Rumusan untuk naskah: "Dalam sebagian penyelesaian BLBI, tagihan penerima dinyatakan lunas lewat klausul *Release and Discharge*. Terpisah, audit BPK 2000 mencatat potensi kerugian negara sekitar Rp138 triliun (sumber di layar: Kemenkeu via CNBC Indonesia, 2021)."

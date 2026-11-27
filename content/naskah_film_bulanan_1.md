@@ -293,7 +293,7 @@ Sesuai kesepakatan Frankfurt pada 4 Juni 1998, pemerintah membayar tunggakan uta
 
 Pada akhir Juli 1998, BLBI mencapai Rp177,1 triliun, lalu turun menjadi sekitar Rp153,5 triliun pada Desember 1998. Audit BPK tahun 2000 mencatat potensi kerugian negara sekitar Rp138 triliun.
 
-Dalam penyelesaiannya, sebagian penerima BLBI memperoleh klausul yang disebut *Release and Discharge*, atau R&D. Klausul ini menyatakan bahwa tagihan dinyatakan lunas, dan pemerintah tidak menuntut pidana atas pelanggaran bank. Jaminan BLBI pun dilepas. R&D diterbitkan setelah kewajiban bank kepada pemerintah dilunasi.
+Dalam penyelesaiannya, sebagian penerima BLBI memperoleh klausul yang disebut *Release and Discharge*, atau R&D. Klausul ini menyatakan bahwa tagihan dinyatakan lunas dan jaminan BLBI dilepas. R&D diterbitkan setelah kewajiban bank kepada pemerintah dilunasi.
 
 Kekuatan hukum klausul ini diperdebatkan, dan film ini tidak mengambil sikap atas perdebatan itu.
 
