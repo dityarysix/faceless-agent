@@ -56,8 +56,6 @@ Di bab ini dan babak-babak berikutnya, kita mengikuti dua tokoh fiktif. Mereka d
 
 Pagi itu Roni datang lebih awal. Lampu gudang belum menyala. Ia membuka buku besar dan membaca catatan bahan baku dari tiga bulan terakhir. Angka-angkanya naik perlahan, tetapi konsisten. Roni tidak panik. Ia hanya menulis satu kalimat di pinggir halaman: harga naik, pesanan jangan dulu ditambah.
 
-Film ini tidak mengajak kita menilai siapa yang bersalah. Ia mengajak kita melihat apa yang terjadi, lalu bertanya apa yang bisa kita pelajari.
-
 **Adegan Rudi, kursi-kursi yang dikemas**
 *Label di layar: "ilustrasi, tokoh fiktif".*
 
