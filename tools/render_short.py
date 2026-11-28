@@ -1,15 +1,19 @@
-# render_short.py: short vertikal 1080x1920 untuk hari 4–7.
+# render_short.py: short vertikal 1080x1920 untuk hari 4–14.
 # Pemakaian: python3 render_short.py HARI OUT.mp4
-import re, subprocess, sys, json
+# Variabel lingkungan: SHORT_ROOT (folder sesi, berisi scratchpad/assets dan scratchpad/voice_shorts), SHORT_LOGO (berkas logo).
+import os, re, subprocess, sys, json
 from functools import lru_cache
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
 DAY, OUT = int(sys.argv[1]), sys.argv[2]
-ROOT = "/tmp/claude-0/-home-user-faceless-agent/a5bcb3d8-8708-5776-b322-d351f45b0e25/"
+ROOT = os.environ.get("SHORT_ROOT", "/tmp/claude-0/-home-user-faceless-agent/a5bcb3d8-8708-5776-b322-d351f45b0e25/")
+LOGO = os.environ.get("SHORT_LOGO", ROOT + "images/20.jpg")
 ASSETS = ROOT + "scratchpad/assets/"
 VOICE = ROOT + f"scratchpad/voice_shorts/hari{DAY}_narasi_norm14.mp3"
 TEXTS = ROOT + "scratchpad/voice_shorts/texts.json"
 W, H, FPS = 1080, 1920, 30
+# tata letak dalam zona aman Reels/Shorts: kosongkan sekitar 270 px atas dan 670 px bawah
+HEAD_Y, TITLE_Y, SUB_TOP, CREDIT_Y, LOGO_Y = 290, 540, 900, 1130, 400
 BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 REG = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 NAVY, AMBER, WHITE, GREY = (11, 18, 32), (240, 180, 90), (240, 244, 248), (170, 180, 195)
@@ -21,12 +25,26 @@ SHORT = {
     5: ("Kebutuhan, keinginan, dan belanja impulsif", "", "AIC (domain publik) dan gambar AI (Creative Claw)"),
     6: ("Menabung dari uang lembur", "ref_cma_solidus_justinian.jpg", "Cleveland Museum of Art, CC0"),
     7: ("Tantangan 7 hari", "ref_caravan_sahara_cc0.jpg", "Asfour hamza, CC0, Wikimedia Commons"),
+    8: ("Dana darurat: mulai dari berapa?", "", "Cleveland Museum of Art (CC0) dan gambar AI (Creative Claw)"),
+    9: ("Pengaruh lingkungan pada kebiasaan belanja", "", "Cleveland Museum of Art (CC0) dan gambar AI (Creative Claw)"),
+    10: ("Gaji sama, hasil berbeda", "", "Cleveland Museum of Art (CC0) dan gambar AI (Creative Claw)"),
+    11: ("Paylater dan kartu kredit: aman atau jebakan?", "", "Cleveland Museum of Art (CC0), Wikimedia Commons (CC0), dan gambar AI (Creative Claw)"),
+    12: ("Dari jeda 10 menit ke aturan 24 jam", "", "Cleveland Museum of Art (CC0) dan gambar AI (Creative Claw)"),
+    13: ("Jatuh bangun soal uang", "", "Cleveland Museum of Art (CC0) dan gambar AI (Creative Claw)"),
+    14: ("Polling: bagian anggaran paling sulit dijaga", "", "Cleveland Museum of Art (CC0) dan gambar AI (Creative Claw)"),
 }
 
 # latar per beat: (indeks kalimat awal, file gambar di scratchpad/assets/)
 BEATS = {
     4: [(0, "cma_purse_1944.283.jpg"), (2, "gen4_b2.jpg"), (4, "gen4_b3.jpg"), (6, "gen4_b4.jpg"), (8, "cma_coin_1999.226.jpg")],
     5: [(0, "aic_basket_apples.jpg"), (2, "gen5_b2.jpg"), (4, "aic_womens_shoes.jpg"), (5, "gen5_b4.jpg"), (8, "aic_wall_clock.jpg"), (10, "gen5_b6.jpg")],
+    8: [(0, "gen8_a1.jpg"), (4, "f8_1.jpg"), (6, "gen8_a2.jpg"), (9, "f8_2.jpg"), (11, "gen8_a3.jpg")],
+    9: [(0, "gen9_a1.jpg"), (3, "f9_1.jpg"), (6, "gen9_a2.jpg"), (8, "f9_2.jpg"), (11, "gen9_a3.jpg")],
+    10: [(0, "gen10_a1.jpg"), (3, "f10_1.jpg"), (6, "gen10_a2.jpg"), (10, "f10_2.jpg"), (12, "gen10_a3.jpg")],
+    11: [(0, "gen11_a1.jpg"), (2, "f11_1.jpg"), (4, "gen11_a2.jpg"), (5, "f11_2.jpg"), (7, "gen11_a3.jpg")],
+    12: [(0, "gen12_a1.jpg"), (4, "f12_1.jpg"), (7, "gen12_a2.jpg"), (9, "f12_2.jpg"), (13, "gen12_a3.jpg")],
+    13: [(0, "gen13_a1.jpg"), (3, "f13_1.jpg"), (6, "gen13_a2.jpg"), (9, "f13_2.jpg"), (12, "gen13_a3.jpg")],
+    14: [(0, "gen14_a1.jpg"), (3, "f14_1.jpg"), (5, "gen14_a2.jpg"), (7, "f14_2.jpg"), (10, "gen14_a3.jpg")],
 }
 
 def dur(path):
@@ -73,7 +91,7 @@ def build_subs(text, D, starts):
 
 @lru_cache(maxsize=None)
 def load_logo(size):
-    im = ImageOps.exif_transpose(Image.open(ROOT + "images/20.jpg")).convert("RGB").resize((size, size), Image.LANCZOS)
+    im = ImageOps.exif_transpose(Image.open(LOGO)).convert("RGB").resize((size, size), Image.LANCZOS)
     mask = Image.new("L", (size, size), 0)
     ImageDraw.Draw(mask).ellipse((0, 0, size - 1, size - 1), fill=255)
     im = im.convert("RGBA")
@@ -93,23 +111,26 @@ def frame(t, D, title, beat_times, credit, subs):
     img_name = [f for tt, f in beat_times if tt <= t][-1]
     img = base_image(img_name).resize((W, H), Image.BILINEAR, box=(cx, cy, cx + cw, cy + ch))
     d = ImageDraw.Draw(img)
-    d.text((80, 90), "JEJAK MENUJU KAYA", font=F["k"], fill=AMBER)
+    d.text((80, HEAD_Y), "JEJAK MENUJU KAYA", font=F["k"], fill=AMBER)
     label = f"Hari {DAY} dari 28"
-    d.text((W - 80 - d.textlength(label, font=F["k"]), 90), label, font=F["k"], fill=GREY)
+    d.text((W - 80 - d.textlength(label, font=F["k"]), HEAD_Y), label, font=F["k"], fill=GREY)
     tag = "ilustrasi"
-    d.text((W - 80 - d.textlength(tag, font=F["k"]), 140), tag, font=F["k"], fill=GREY)
+    d.text((W - 80 - d.textlength(tag, font=F["k"]), HEAD_Y + 50), tag, font=F["k"], fill=GREY)
     if t < D - 3:
-        y = 1000
+        y = TITLE_Y
         for line in wrap(title, F["t"], W - 160):
             d.text((80, y), line, font=F["t"], fill=WHITE)
             y += 92
     else:
         logo = load_logo(480)
-        img.paste(logo, ((W - 480) // 2, 480), logo)
-    d.text((80, 1830), "Gambar: " + credit, font=F["k"], fill=GREY)
+        img.paste(logo, ((W - 480) // 2, LOGO_Y), logo)
+    ly = CREDIT_Y
+    for line in wrap("Gambar: " + credit, F["k"], W - 160):
+        d.text((80, ly), line, font=F["k"], fill=GREY)
+        ly += 38
     for t0, t1, lines in subs:
         if t0 <= t < t1:
-            top = 1560
+            top = SUB_TOP
             lh = 62
             bw = max(d.textlength(l, font=F["s"]) for l in lines) + 60
             d.rounded_rectangle((W / 2 - bw / 2, top - 16, W / 2 + bw / 2, top + lh * len(lines) + 16), radius=14, fill=(5, 8, 16))
