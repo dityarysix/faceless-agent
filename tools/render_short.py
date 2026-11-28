@@ -19,14 +19,16 @@ F = {"t": ImageFont.truetype(BOLD, 74), "s": ImageFont.truetype(REG, 44), "k": I
 SHORT = {
     4: ("Cara sederhana mencatat pengeluaran harian", "", "CMA CC0 dan gambar AI (Creative Claw)"),
     5: ("Kebutuhan, keinginan, dan belanja impulsif", "", "AIC (domain publik) dan gambar AI (Creative Claw)"),
-    6: ("Menabung dari uang lembur", "ref_cma_solidus_justinian.jpg", "Cleveland Museum of Art, CC0"),
-    7: ("Tantangan 7 hari", "ref_caravan_sahara_cc0.jpg", "Asfour hamza, CC0, Wikimedia Commons"),
+    6: ("Menabung dari uang lembur", "", "CMA CC0, AIC (domain publik), AI (Creative Claw)"),
+    7: ("Tantangan 7 hari", "", "CMA CC0 dan gambar AI (Creative Claw)"),
 }
 
 # latar per beat: (indeks kalimat awal, file gambar di scratchpad/assets/)
 BEATS = {
     4: [(0, "cma_purse_1944.283.jpg"), (2, "gen4_b2.jpg"), (4, "gen4_b3.jpg"), (6, "gen4_b4.jpg"), (8, "cma_coin_1999.226.jpg")],
     5: [(0, "aic_basket_apples.jpg"), (2, "gen5_b2.jpg"), (4, "aic_womens_shoes.jpg"), (5, "gen5_b4.jpg"), (8, "aic_wall_clock.jpg"), (10, "gen5_b6.jpg")],
+    6: [(0, "cma_coin_1967.243.jpg"), (3, "gen6_b2.jpg"), (6, "cma_garment_1916.1472.jpg"), (7, "gen6_b4.jpg"), (9, "aic_scarf_11874.jpg"), (11, "gen6_b6.jpg")],
+    7: [(0, "cma_notes_1951.423.y.jpg"), (2, "gen7_b2.jpg"), (5, "cma_calendar_2011.65.jpg"), (6, "gen7_b4.jpg"), (8, "cma_calendar_2011.67.jpg"), (11, "gen7_b6.jpg")],
 }
 
 def dur(path):
@@ -123,7 +125,7 @@ texts = json.load(open(TEXTS, encoding="utf-8"))
 D = dur(VOICE)
 starts = json.load(open(ROOT + f"scratchpad/voice_shorts/hari{DAY}_wordstarts.json", encoding="utf-8"))["starts"]
 subs, sent_starts = build_subs(texts[f"Hari {DAY}"], D, starts)
-beat_times = [(sent_starts[k], f) for k, f in BEATS[DAY]]
+beat_times = [(0 if i == 0 else sent_starts[k], f) for i, (k, f) in enumerate(BEATS[DAY])]
 CMD = ["ffmpeg", "-y", "-loglevel", "error",
        "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
        "-i", VOICE, "-map", "0:v", "-map", "1:a", "-t", f"{D:.3f}",

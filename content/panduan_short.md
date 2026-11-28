@@ -3,7 +3,7 @@
 ## Aturan gambar latar
 - Minimal 5 gambar per short (kira-kira 1 gambar per 10 detik, dan selalu sesuai narasi): 2 dari lisensi bebas dan 3 dari AI.
 - Jika membutuhkan 6 gambar: 3 dari lisensi bebas dan 3 dari AI.
-- Setiap gambar diberi label "ilustrasi" di layar, dan kredit di bawah layar. Gambar AI dicatat sebagai "gambar AI (Creative Claw)".
+- Setiap gambar diberi label "ilustrasi" di layar, dan kredit di bawah layar. Gambar AI dicatat sebagai "AI (Creative Claw)" agar muat di layar.
 - Gambar lisensi bebas diambil dari sumber dengan lisensi jelas (CC0, domain publik, CC BY-SA), dan dicatat di `scratchpad/assets/asset_log.md`.
 
 ## Urutan kerja per short
